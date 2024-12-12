@@ -269,3 +269,8 @@ a {
     border: #000;
     border-radius: 20px;
 }
+
+#prototipos iframe{
+    margin: 20px auto;
+    display: block;
+}
