@@ -14,8 +14,7 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
-    position: sticky;
-    top: 0;
+    position: relative; /* Alterado para não fixar no topo em telas pequenas */
     z-index: 1000;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
@@ -273,4 +272,102 @@ a {
 #prototipos iframe{
     margin: 20px auto;
     display: block;
+}
+
+/* Responsividade */
+
+@media screen and (max-width: 768px) {
+    /* Cabeçalho */
+    header {
+        position: relative; /* Remove a fixação do cabeçalho em telas pequenas */
+    }
+
+    /* Navegação */
+    header nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header nav ul li {
+        margin: 10px 0;
+    }
+
+    /* Seções */
+    section {
+        width: 90%;
+    }
+
+    /* Colaboradores */
+    .grid {
+        grid-template-columns: repeat(2, 1fr); /* Duas colunas em telas pequenas */
+    }
+
+    .foto {
+        width: 150px;
+        height: 150px;
+    }
+
+    /* Requisitos */
+    #requisitos h2 {
+        font-size: 2em;
+    }
+
+    #requisitos h3 {
+        font-size: 1.6em;
+    }
+
+    #requisitos h4 {
+        font-size: 1.2em;
+    }
+
+    #requisitos ul li {
+        font-size: 1em;
+    }
+
+    /* Botão */
+    #atas .btn {
+        font-size: 1em;
+        padding: 10px 20px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Navegação */
+    header nav ul li {
+        margin: 8px 0;
+    }
+
+    /* Colaboradores */
+    .grid {
+        grid-template-columns: 1fr; /* Uma coluna em telas muito pequenas */
+    }
+
+    .foto {
+        width: 120px;
+        height: 120px;
+    }
+
+    /* Seções */
+    section {
+        width: 95%;
+    }
+
+    /* Texto */
+    #requisitos h2 {
+        font-size: 1.8em;
+    }
+
+    #requisitos h3 {
+        font-size: 1.4em;
+    }
+
+    #requisitos ul li {
+        font-size: 0.9em;
+    }
+
+    #atas .btn {
+        font-size: 1em;
+        padding: 8px 15px;
+    }
 }
