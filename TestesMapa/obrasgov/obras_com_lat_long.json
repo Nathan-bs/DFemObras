@@ -3015,8 +3015,8 @@
         "valorInvestimentoPrevisto": 7500000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7957300064917,
+    "longitude": -47.86865
   },
   {
     "idUnico": "20766.53-40",
@@ -3832,8 +3832,8 @@
         "valorInvestimentoPrevisto": 7105978.54
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7759000064709,
+    "longitude": -47.87097
   },
   {
     "idUnico": "21001.53-67",
@@ -4633,9 +4633,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 25848700
       }
-    ],
-    "latitude": null,
-    "longitude": null
+    ]
   },
   {
     "idUnico": "4745.53-61",
@@ -5476,8 +5474,8 @@
         "valorInvestimentoPrevisto": 35000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7797200064749,
+    "longitude": -47.92972
   },
   {
     "idUnico": "5246.53-03",
@@ -5645,178 +5643,6 @@
     ],
     "latitude": null,
     "longitude": null
-  },
-  {
-    "idUnico": "5656.53-08",
-    "nome": "execução da revitalização geral da fachada do edifício Siderbrás sede da reitoria do IFB",
-    "cep": "70.070-906",
-    "endereco": "SAUS Quadra 2 Bloco E Edifício Siderbrás",
-    "descricao": "Esta contratação é necessária para que se modernize e revitalize a fachada que atualmente se encontra com esquadrias bastante danificadas que causam a entrada de água das chuvas para os ambientes internos, além disso, os mármores de fachada estão se soltando podendo causar acidentes com os pedestres que transitam nos passeios públicos do entorno da edificação. ",
-    "funcaoSocial": "Modernizar a fachada dando mais segurança a todos os usuários da edificação e comunidade ",
-    "metaGlobal": "modernizar o predio sede da reitoria do IFB, melhorando assim a qualidade de vida de toda a comunidade academica ",
-    "dataInicialPrevista": "2022-08-01",
-    "dataFinalPrevista": "2023-02-28",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-02-10",
-    "especie": "Recuperação",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-02-10",
-    "tomadores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "executores": [
-      {
-        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
-        "codigo": 26356
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000B01BB62DCAF047C0D4228BCBD69A2FC0",
-        "dataCriacao": "2022-02-10",
-        "origem": "Manual",
-        "dataMetadado": "2022-02-10",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "instituto Federal de ciencia tecnologia e educação de brasil",
-        "enderecoAreaExecutora": "saus quadra 02 BLOCO E",
-        "cepAreaExecutora": "70070-906",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 5000000
-      }
-    ],
-    "latitude": -15.8024200064987,
-    "longitude": -47.88117
-  },
-  {
-    "idUnico": "4652.53-69",
-    "nome": "Obra de Desenvolvimento de Teste da Websis - Fabrica de Software - MDRR",
-    "cep": "70067-901",
-    "endereco": "Esplanada dos Ministérios, Bloco E, S N - Zona Cvico-Administrativa, sala 612R",
-    "descricao": "Projeto de desenvolvimento do MDR para integrar com api do CIPI.R",
-    "funcaoSocial": "Habitar o envio de empreendimentos pelo MDR para o CIPI em lote.R",
-    "metaGlobal": "Possibilitar subir um arquivo com varias obras a serem cadastradas e obter o id CIPIR",
-    "dataInicialPrevista": "2021-11-23",
-    "dataFinalPrevista": "2021-11-22",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-11-22",
-    "especie": "Reforma",
-    "natureza": "Projeto de Investimento em Infraestrutura",
-    "naturezaOutras": "outros",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-11-22",
-    "tomadores": [
-      {
-        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
-        "codigo": 26230
-      }
-    ],
-    "executores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
-        "codigo": 308799
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 45,
-        "descricao": "Desenvolvimento",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 38,
-        "descricao": "Saneamento",
-        "idTipo": 45
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000083BE84EB29EA47C00B324DCE21A62FC0",
-        "dataCriacao": "2021-11-22",
-        "origem": "cipiws",
-        "dataMetadado": "2021-11-22",
-        "infoAdicionais": null,
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 300000
-      }
-    ],
-    "latitude": -15.82447666828468,
-    "longitude": -47.8294042967
   },
   {
     "idUnico": "5306.53-00",
@@ -6157,8 +5983,8 @@
         "valorInvestimentoPrevisto": 35000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -16.0348800067454,
+    "longitude": -48.06243
   },
   {
     "idUnico": "5086.53-38",
@@ -6329,8 +6155,8 @@
         "valorInvestimentoPrevisto": 8691308
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7727900064677,
+    "longitude": -47.91729
   },
   {
     "idUnico": "5589.53-35",
@@ -6408,6 +6234,170 @@
       {
         "origem": "Federal",
         "valorInvestimentoPrevisto": 1475909.94
+      }
+    ]
+  },
+  {
+    "idUnico": "4007.53-20",
+    "nome": "Contratação de empresa especializada em engenharia e arquitetura para obra de construção de um dojô",
+    "cep": "",
+    "endereco": "",
+    "descricao": "Contratação de empresa especializada em engenharia e arquitetura para obra de construção de um dojô",
+    "funcaoSocial": "Segurança Pública",
+    "metaGlobal": "Contratação de empresa especializada em engenharia e arquitetura para obra de construção de um dojô",
+    "dataInicialPrevista": "2021-02-24",
+    "dataFinalPrevista": "2021-10-30",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-09-30",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-09-30",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
+        "codigo": 30108
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 8
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000007923F3C81FEC47C0E4DB674278642FC0",
+        "dataCriacao": "2021-09-30",
+        "origem": "cipiws",
+        "dataMetadado": "2021-08-30",
+        "infoAdicionais": "Contratação de empresa especializada em engenharia e arquitetura para obra de construção de um dojô",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1366609.06
+      }
+    ],
+    "latitude": -15.6962300063878,
+    "longitude": -47.84472
+  },
+  {
+    "idUnico": "5352.53-01",
+    "nome": "Programa de Requalificação do Arquivo Nacional - COREG",
+    "cep": "70.610-460",
+    "endereco": "Setor de Indústrias Gráficas, Quadra 6 Lote 800, Brasília",
+    "descricao": " Elaboração de Projetos Executivos  Completos de Reforma de Edificação e eventuais ampliações (arquitetura e instalações, cadernos de encargos e diretrizes, memorial descritivo, memórias de cálculo, planilha de materiais detalhadas, planilhas orçamentárias detalhadas, pesquisa de mercado na metodologia BIM.",
+    "funcaoSocial": "Elaboração de projetos executivos visando a realização de reforma na Regional do Arquivo Nacional de Brasília para recuperação das condições de habitabilidade das instalações, tendo em vista a idade avançada do prédio.",
+    "metaGlobal": "Elaboração de projeto executivo para a realização de futura reforma nas instalações da Regional do Arquivo Nacional, que possui área interna útil de aproximadamente 6.164 m2. Deverão ser previstos desde os levantamento e estudos preliminares, passando pelos anteprojetos e aprovação dos projetos legais até o desenvolvimento de projetos executivos completos, além da elaboração de estudos de viabilidade técnica e econômica, orçamentos, levantamento de quantidades de insumos e serviços, composição de preços unitários, cronogramas físico-financeiros, especificações, vistorias, laudos técnicos, pareceres e maquetes virtuais para apresentação das propostas.",
+    "dataInicialPrevista": "2022-03-01",
+    "dataFinalPrevista": "2022-08-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-21",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Contemplada na carteira de Políticas do Ministério da Justiça e Segurança Pública - Política de Gestão de Documentos e Arquivos - PGDeARQ.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-21",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+        "codigo": 316
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      },
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      },
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 8
+      },
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 8
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000543A58FFE7F447C0059A0EDE3C952FC0",
+        "dataCriacao": "2021-12-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-15",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 750000
       }
     ],
     "latitude": null,
@@ -6996,8 +6986,8 @@
         "valorInvestimentoPrevisto": 4105808.5
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8553300065544,
+    "longitude": -47.90912
   },
   {
     "idUnico": "4756.53-07",
@@ -7146,8 +7136,8 @@
         "valorInvestimentoPrevisto": 2468996.65
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.6952600063867,
+    "longitude": -47.84351
   },
   {
     "idUnico": "5373.53-15",
@@ -7232,8 +7222,390 @@
         "valorInvestimentoPrevisto": 348738.87
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7538500064479,
+    "longitude": -47.87904
+  },
+  {
+    "idUnico": "3391.53-57",
+    "nome": "RECUPERAÇÃO DA IMPERMEABILIZAÇÃO DOS BLOCOS A E B E DA BIBLIOTECA DO CAMPUS BRASÍLIA",
+    "cep": "70.830-450",
+    "endereco": "Via L2 Norte, SGAN 610 (610 Norte), Módulo D, E, F e G.",
+    "descricao": "Reforma da impermeabilização da cobertura dos blocos de salas de aulas A e Bç além da cobertura da Biblioteca. Os blocos A e B possuíam na cobertura um telhado verde com várias camadas, mas que já estava de deteriorando, assim foi retirada todas as camadas e refeito a impermeabilização com manta asfáltica e proteção mecânica. Já a Biblioteca possui na cobertura placas cimentícias e manta de PVC. As placas foram mantidas e a manta retirada e instalada telhas metálicas no local para garantir melhor estanqueidade do sistema. ",
+    "funcaoSocial": "atender com mais conforto e segurança a comunidade acadêmica do campus Brasília, garantindo espaços sem infiltrações e demais problemas relacionados a entrada de águas das chuvas. ",
+    "metaGlobal": "garantir o bom funcionamento das instituições ",
+    "dataInicialPrevista": "2021-01-04",
+    "dataFinalPrevista": "2021-11-11",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-08-12",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-08-12",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000D49AE61DA7F047C0802CE88A37822FC0",
+        "dataCriacao": "2021-08-12",
+        "origem": "cipiws",
+        "dataMetadado": "2021-08-12",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1100000
+      }
+    ],
+    "latitude": -15.7543300064483,
+    "longitude": -47.8801
+  },
+  {
+    "idUnico": "06.53-80",
+    "nome": "CONTRATO DE EXECUÇÃO DE OBRAS n.º 28/2020 - CBMDF - Execução de obra de fornecimento, instalação e manutenção de cercamentos do tipo alambrado em unidades do CBMDF",
+    "cep": "1",
+    "endereco": "",
+    "descricao": "CONTRATO DE EXECUÇÃO DE OBRAS n.º 28/2020 - CBMDF - Execução de obra de fornecimento, instalação e manutenção de cercamentos do tipo alambrado em unidades do CBMDF. Serão contempladas as seguintes unidades: GAEPH, GPRAM, CEMEV, POMED, 9º GBM, 11º GBM, 13º GBM, 23º GBM e o 41º GBM.",
+    "funcaoSocial": "Proteção de pessoas e meio-ambiente.",
+    "metaGlobal": "Execução de obra de fornecimento, instalação e manutenção de cercamentos do tipo alambrado em unidades do CBMDF. Serão contempladas as seguintes unidades: GAEPH, GPRAM, CEMEV, POMED, 9º GBM, 11º GBM, 13º GBM, 23º GBM e o 41º GBM.",
+    "dataInicialPrevista": "2020-07-03",
+    "dataFinalPrevista": "2021-10-03",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-01-20",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-01-20",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 2,
+        "descricao": "Militar"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 14,
+        "descricao": "Defesa Nacional",
+        "idEixo": 2
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 93,
+        "descricao": "Seção Contra Incêndio",
+        "idTipo": 14
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000DBA7E33103FD47C0E6E9B496E7B12FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "010100000016FBCBEEC9F347C0A8E3FD4B37792FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000B21188D7F5F747C098090FC156A92FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000008126C286A7F747C066CDB809DCAA2FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000A4198BA6B3D347C0ADC15F91443F2FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000C9B08A3732EF47C0AF918A0ABAAD2FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "010100000036936FB6B9FD47C0C19487E449A22FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000007C0A80F10C1248C063E33128B8982FC0",
+        "dataCriacao": "2021-01-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 438499.5
+      }
+    ],
+    "latitude": -15.8474700065462,
+    "longitude": -47.97666
+  },
+  {
+    "idUnico": "11.53-32",
+    "nome": "CONTRATO 42/2018 - Prestação de serviços de sondagem a ser utilizado na elaboração de projetos de fundações das unidades Bombeiro Militar",
+    "cep": "1",
+    "endereco": "",
+    "descricao": "CONTRATO 42/2018 - Prestação de serviços de sondagem a ser utilizado na elaboração de projetos de fundações das unidades Bombeiro Militar a seguir: 8º Grupamento Bombeiro Milita, Grupamento de Busca e Salvamento, Posto Avançado Delta 1, Subseção de operações de busca e resgate com cães, Centro de Formação de Praças (CEFAP), Centro de Treinamento Operacional (CETOP) e Centro de Manutenção de Equipamentos e Viaturas (CEMEV).",
+    "funcaoSocial": "Melhoria da infraestrutura das organizações bombeiro militar para proporcionar melhores serviços prestados à sociedade.",
+    "metaGlobal": "Elaboração de projetos das organizações bombeiro militar.",
+    "dataInicialPrevista": "2019-02-05",
+    "dataFinalPrevista": "2021-02-05",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-01-21",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-01-21",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000055FB743C66EC47C0EC474A49F4922FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000386744696FEC47C036FEF30512A42FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000005DC47762D6F747C0069778D994AB2FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000005DA79196CAF747C0808798AB04AB2FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000068195438B0C48C0910007A1A19F2FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000156F641EF9F747C0EE44B4444CA92FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 198266.14
+      }
+    ],
+    "latitude": -15.7870200064826,
+    "longitude": -47.84687
   },
   {
     "idUnico": "370.53-30",
@@ -7295,7 +7667,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 4
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -7381,7 +7753,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 4
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -7795,7 +8167,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 4
+        "idTipo": 1
       }
     ],
     "geometrias": [
@@ -7884,258 +8256,8 @@
         "valorInvestimentoPrevisto": 2085189.32
       }
     ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "idUnico": "6409.53-60",
-    "nome": "Contratação de pessoa jurídica especializada na prestação de serviços técnicos de engenharia e/ou arquitetura ",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Contratação de pessoa jurídica especializada na prestação de serviços técnicos de engenharia e/ou arquitetura destinados à elaboração de Projetos Básicos, Executi-vos e Complementares para a aplicação no Bloco “L”, da ANA, SPO, Área 5, Quadra 3, de forro acústico com iluminação de LED e respectiva adequação da rede de dutos do Sistema Central VRF de ar condicionado com rebaixamento de cassetes.",
-    "funcaoSocial": "Fornecer maior comodidade, menor transtorno e maior conforto aos colaboradores da ANA que trabalham no Bloco \n“L\".",
-    "metaGlobal": "Elaborar Projetos Básicos, Executivos e Complementares para a aplicação no Bloco “L”, da ANA, SPO, Área 5, Quadra 3, de forro acústico com iluminação de LED e respectiva adequação da rede de dutos do Sistema Central VRF de ar condicionado com rebaixamento de cassetes.",
-    "dataInicialPrevista": "2022-09-21",
-    "dataFinalPrevista": "2023-03-21",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-07-21",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-07-21",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "AGENCIA NACIONAL DE AGUAS",
-        "codigo": 44205
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 4
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000221ADD41ECF847C08977A1183EA22FC0",
-        "dataCriacao": "2022-07-21",
-        "origem": "Manual",
-        "dataMetadado": "2022-07-21",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Agência Nacional de Águas e Saneamento ",
-        "enderecoAreaExecutora": "Setor Policial, Área 5, Quadra 3, Bloco L",
-        "cepAreaExecutora": "70610-200",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0103000000010000000500000037A95D3EEAF847C081EF4B867EA22FC02EA95D12DAF847C0AAC7BF8550A22FC030A95D60E6F847C07598BD4812A22FC036A95D7EF5F847C05A38F2EE3EA22FC037A95D3EEAF847C081EF4B867EA22FC0",
-        "dataCriacao": "2022-07-21",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2022-07-21",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Agência Nacional de Águas e Saneamento ",
-        "enderecoAreaExecutora": "Setor Policial, Área 5, Quadra 3, Bloco L",
-        "cepAreaExecutora": "70610-200",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 28600
-      }
-    ],
-    "latitude": -15.8168800065139,
-    "longitude": -47.94471
-  },
-  {
-    "idUnico": "557.53-69",
-    "nome": "PROJETO ESTRATÉGICO SISFRON (SISTEMA INTEGRADO DE MONITORAMENTO DE FRONTEIRAS)",
-    "cep": "1",
-    "endereco": "Estrada Parque do Contorno, Rodovia DF 001, KM 5, Setor Habitacional Taquari, Lago Norte, Brasília-DF.",
-    "descricao": "Projeto Estratégico do SISFRON, cujo objeto é a implantação e integração dos Subsistemas de Sensoriamento e de Apoio à Decisão do Projeto Piloto do Sistema Integrado de Monitoramento de Fronteiras, envolvendo as seguintes atividades: elaboração do Projeto Executivo; seleção e fornecimento de produtos que atendam às especificações estabelecidas pelo Exército e que viabilizem os referidos subsistemas; instalação da infraestrutura para o funcionamento dos equipamentos e das redes (torres, rede elétrica, cabeamento, etc); integração sistêmica; integração dos subsistemas; gerenciamento de offset; transferência de tecnologia independente de offset; desenvolvimento de equipamentos, de softwares e de sistemas; e suporte logístico, que inclui suprimento, gerenciamento da cadeia dos fornecedores, gerenciamento dos prazos e da execução da garantia, manutenção, transporte e capacitação dos recursos humanos, tudo de forma integrada.",
-    "funcaoSocial": "Os benefícios esperados do projeto no âmbito político são, o fortalecimento da imagem do país diante a comunidade internacional, bem como proporcionar um aumento da integração regional, incluindo cooperação militar com Forças Armadas vizinhas, representar   um   aumento   da   presença   estatal,   integração   entre   órgãos   do   governo   e proporcionar uma resposta em relação à Amazônia. Além dos objetivos políticos, a melhora sobre a segurança pública combatendo tanto o tráfico de drogas quanto o de armas é uma consequência esperada do projeto. ",
-    "metaGlobal": "Implantação e integração dos Subsistemas de Sensoriamento e de Apoio à Decisão do Projeto Piloto do Sistema Integrado de Monitoramento de Fronteiras (SISFRON).",
-    "dataInicialPrevista": "2021-04-01",
-    "dataFinalPrevista": "2022-11-01",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-04-05",
-    "especie": "Reforma",
-    "natureza": "Projeto",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano Nacional de Defesa do Território Nacional.",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-04-05",
-    "tomadores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA DEFESA",
-        "codigo": 41066
-      }
-    ],
-    "eixos": [
-      {
-        "id": 2,
-        "descricao": "Militar"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 14,
-        "descricao": "Defesa Nacional",
-        "idEixo": 2
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 71,
-        "descricao": "SISFRON",
-        "idTipo": 14
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000C780ECF5EEE747C040555472336C2FC0",
-        "dataCriacao": "2021-04-08",
-        "origem": "cipiws",
-        "dataMetadado": "2021-04-08",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 839664954.32
-      }
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "idUnico": "11037.53-97",
-    "nome": "contratação de empresa para elaboração de projeto de Conforto Acústico da nova Sede da Polícia Federal,",
-    "cep": null,
-    "endereco": null,
-    "descricao": "contratação de empresa para elaboração de projeto de Conforto Acústico da nova Sede da Polícia Federal,",
-    "funcaoSocial": "Segurança Pública",
-    "metaGlobal": "contratação de empresa para elaboração de projeto de Conforto Acústico da nova Sede da Polícia Federal,",
-    "dataInicialPrevista": "2022-10-31",
-    "dataFinalPrevista": "2023-02-28",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-10-21",
-    "especie": "Reforma",
-    "natureza": "Projeto",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federla",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-10-21",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 4
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000000C0742B280F147C076317BA852932FC0",
-        "dataCriacao": "2022-10-21",
-        "origem": "Manual",
-        "dataMetadado": "2022-10-21",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Polícia Federal",
-        "enderecoAreaExecutora": "SAS quadra 06 lotes 09/10",
-        "cepAreaExecutora": "70000-000",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 53650
-      }
-    ],
-    "latitude": null,
-    "longitude": null
+    "latitude": 1.5765000000589,
+    "longitude": -47.86934
   },
   {
     "idUnico": "6409.53-60",
@@ -9472,8 +9594,8 @@
         "valorInvestimentoPrevisto": 32525000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7755300064705,
+    "longitude": -47.90838
   },
   {
     "idUnico": "6129.53-60",
@@ -9557,8 +9679,8 @@
         "valorInvestimentoPrevisto": 105028.8
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7919370012059,
+    "longitude": -47.9139064272927
   },
   {
     "idUnico": "1895.53-31",
@@ -9708,9 +9830,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 9540165.81
       }
-    ],
-    "latitude": null,
-    "longitude": null
+    ]
   },
   {
     "idUnico": "2259.53-03",
@@ -10270,8 +10390,8 @@
         "valorInvestimentoPrevisto": 139328.54
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8043700065008,
+    "longitude": -47.88813
   },
   {
     "idUnico": "1989.53-01",
@@ -10351,8 +10471,8 @@
         "valorInvestimentoPrevisto": 1399545.52
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.764835556019664,
+    "longitude": -47.87213787590855
   },
   {
     "idUnico": "2032.53-48",
@@ -10437,8 +10557,8 @@
         "valorInvestimentoPrevisto": 10210551.62
       }
     ],
-    "latitude": -15.7117800064039,
-    "longitude": -47.81317
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2415.53-10",
@@ -11235,8 +11355,8 @@
         "valorInvestimentoPrevisto": 1862560
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7935100064894,
+    "longitude": -47.96767
   },
   {
     "idUnico": "5826.53-51",
@@ -11311,8 +11431,8 @@
         "valorInvestimentoPrevisto": 40581393.53
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7902951288361,
+    "longitude": -47.8751610345129
   },
   {
     "idUnico": "2199.53-07",
@@ -11473,8 +11593,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.78369,
+    "longitude": -47.880612
   },
   {
     "idUnico": "3071.53-63",
@@ -11549,346 +11669,8 @@
         "valorInvestimentoPrevisto": 20700000
       }
     ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "idUnico": "2236.53-65",
-    "nome": "Obra de execução da nova UPME e Central de Roupas do HUB",
-    "cep": "1",
-    "endereco": "SGAN 605, ASA NORTE",
-    "descricao": "Contratação de empresa especializada no ramo de construção civil para execução de serviços de engenharia, com fornecimento de mão de obra, materiais e equipamentos necessários, para reforma e ampliação da Unidade de Procedimentos de Materiais Esterilizados (UPME) e da Central de Roupas do Hospital Universitário de Brasília",
-    "funcaoSocial": "A UPME é considerada um setor vital de uma instituição hospitalar, uma vez que lá se realiza o ciclo do processo de limpeza, esterilização e desinfecção dos materiais utilizados pela área assistencial hospitalar.",
-    "metaGlobal": "A obra compreende a reforma com ampliação da UPME e da Central de Roupas, com área total construída de 824 m2 e com recursos oriundos da União. A obra ocorre em 02 (duas) etapas: 1ª etapa - execução da reforma e ampliação da UPME; 2ª etapa - execução da reforma e ampliação da área da Central de Roupas.",
-    "dataInicialPrevista": "2019-06-10",
-    "dataFinalPrevista": "2022-02-14",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-05-31",
-    "especie": "Ampliação",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Funcionamento e Gestão de Instituições Hospitalares Federais - Despesas Diversas  \nReestruturação e Modernização dos Hospitais Universitários Federais (REHUF)\n",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-05-31",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES",
-        "codigo": 117267
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 4,
-        "descricao": "Saúde",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 47,
-        "descricao": "Instituições Hospitalares Federais",
-        "idTipo": 4
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000CF828517CEEF47C0F8025067678B2FC0",
-        "dataCriacao": "2021-05-31",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2021-05-28",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2828022.74
-      }
-    ],
-    "latitude": -15.7722732815905,
-    "longitude": -47.8734769250783
-  },
-  {
-    "idUnico": "2252.53-52",
-    "nome": "Contratação de empresa de engenharia especializada em instalações, reforma e equipamentos inerentes à 3ª parcela da reforma e ampliação do Instituto Nacional de Criminalística com a implantação do Cen",
-    "cep": "1",
-    "endereco": "",
-    "descricao": "Contratação de empresa de engenharia especializada em instalações, reforma e equipamentos inerentes à 3ª parcela da reforma e ampliação do Instituto Nacional de Criminalística com a implantação do Centro Nacional de Difusão de Ciências Forenses",
-    "funcaoSocial": "Segurança Pública",
-    "metaGlobal": "Contratação de empresa de engenharia especializada em instalações, reforma e equipamentos inerentes à 3ª parcela da reforma e ampliação do Instituto Nacional de Criminalística com a implantação do Centro Nacional de Difusão de Ciências Forenses",
-    "dataInicialPrevista": "2018-11-01",
-    "dataFinalPrevista": "2021-09-30",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-06-01",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-06-01",
-    "tomadores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
-        "codigo": 30108
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000002C6519E258F747C0B96EC7C2F5A82FC0",
-        "dataCriacao": "2021-06-01",
-        "origem": "cipiws",
-        "dataMetadado": "2021-06-01",
-        "infoAdicionais": "Contratação de empresa de engenharia especializada em instalações, reforma e equipamentos inerentes à 3ª parcela da reforma e ampliação do Instituto Nacional de Criminalística com a implantação do Centro Nacional de Difusão de Ciências Forenses",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 20500000
-      }
-    ],
-    "latitude": -15.8300000065277,
-    "longitude": -47.9324
-  },
-  {
-    "idUnico": "2744.53-14",
-    "nome": "Construção do Paiol",
-    "cep": "1",
-    "endereco": "Área Especial, S/N, entre Quadras, 05/13, Setor Sul, Gama-DF",
-    "descricao": "Obra no Batalhão Escola e Pronto Emprego para implantação do depósito de material controlado (paiol), conforme projeto licitado via EDITAL DE CONCORRÊNCIA Nº 01/2020 (Processo Administrativo n° 08106.001914/2020-73). ",
-    "funcaoSocial": "Segurança Pública - treinamento e capacitação de profissionais de segurança pública, logística da Força Nacional.",
-    "metaGlobal": "Implantação de depósito de material controlado (paiol).",
-    "dataInicialPrevista": "2021-01-07",
-    "dataFinalPrevista": "2021-01-07",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-06-24",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Inativada",
-    "descPlanoNacionalPoliticaVinculado": "Ação 15P9 Programa 5016\nSegurança Pública e Combate ao Crime Organizado e ao Crime Violento",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-06-24",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
-        "codigo": 316
-      },
-      {
-        "nome": "Secretaria Nacional de Segurança Pública/SENASP",
-        "codigo": 30101
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO NACIONAL DE SEGURANCA PUBLICA",
-        "codigo": 30911
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000001630815B770748C0C0815E60E50830C0",
-        "dataCriacao": "2021-06-24",
-        "origem": "Manual",
-        "dataMetadado": "2021-06-24",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 24019348.9
-      }
-    ],
-    "latitude": -16.0347500067453,
-    "longitude": -48.05833
-  },
-  {
-    "idUnico": "2267.53-47",
-    "nome": "contratação de serviços de comum de engenharia para adequação de 17 sanitários do Estado-Maior do Exército, situados no 2º andar, 1º andar e Térreo do QGEx, Setor de Contigentes e Garagem",
-    "cep": "1",
-    "endereco": "AVENIDA DO EXÉRCITO S/N BLOCO A 3º ANDAR",
-    "descricao": "contratação de serviços de comum de engenharia para adequação de 17 sanitários do Estado-Maior do Exército, situados no 2º andar, 1º andar e Térreo do QGEx, Setor de Contigentes e Garagem",
-    "funcaoSocial": "COMANDO DO EXÉRCITO",
-    "metaGlobal": "Contratação de serviços de comum de engenharia para adequação de 17 sanitários do Estado-Maior do Exército, situados no 2º andar, 1º andar e Térreo do QGEx, Setor de Contigentes e Garagem",
-    "dataInicialPrevista": "2020-11-03",
-    "dataFinalPrevista": "2022-06-25",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-06-02",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "Contratação de serviço comum de engenharia para adequação de 17 (dezessete) sanitários no Estado- Maior do Exército",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-06-02",
-    "tomadores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "COMANDO DO EXÉRCITO",
-        "codigo": 94
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000BF0E9C33A2FC47C071BD7C4772892FC0",
-        "dataCriacao": "2021-06-02",
-        "origem": "cipiws",
-        "dataMetadado": "2021-06-02",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 127074.56
-      }
-    ],
-    "latitude": -15.7684500064631,
-    "longitude": -47.9737
+    "latitude": -15.8047231927924,
+    "longitude": -47.937527049287
   },
   {
     "idUnico": "2294.53-70",
@@ -11973,8 +11755,8 @@
         "valorInvestimentoPrevisto": 38775.78
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7730000064679,
+    "longitude": -47.9169
   },
   {
     "idUnico": "2311.53-81",
@@ -12145,8 +11927,8 @@
         "valorInvestimentoPrevisto": 1859000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.6590900063492,
+    "longitude": -47.69834
   },
   {
     "idUnico": "2355.53-23",
@@ -12208,7 +11990,7 @@
       {
         "id": 59,
         "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
+        "idTipo": 5
       }
     ],
     "geometrias": [
@@ -12231,8 +12013,8 @@
         "valorInvestimentoPrevisto": 2356316.65
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7783800064735,
+    "longitude": -47.87258
   },
   {
     "idUnico": "2335.53-87",
@@ -12317,8 +12099,8 @@
         "valorInvestimentoPrevisto": 1786386.74
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7746600064696,
+    "longitude": -47.91722
   },
   {
     "idUnico": "2359.53-82",
@@ -12749,8 +12531,440 @@
         "valorInvestimentoPrevisto": 1910000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.9134600066159,
+    "longitude": -48.07863
+  },
+  {
+    "idUnico": "2359.53-82",
+    "nome": "Obra de Construção do Pavilhão de Depósito de Materiais CL II na 1ª Cia do 11° Depósito de Suprimentos, em Brasília/DF",
+    "cep": "1",
+    "endereco": "SMU - Vila Militar",
+    "descricao": "Obra de Construção do Pavilhão de Depósito de Materiais CL II na 1ª Cia do 11° Depósito de Suprimentos, em Brasília/DF",
+    "funcaoSocial": "Nos termos da Portaria do Comandante do Exército Nº287, de 28 de maio de 2003, compete às Comissões Regionais de Obras executar, direta ou indiretamente, as tarefas de caráter técnico e administrativo das atividades relacionadas as obras e serviços de engenharia (construção, entre outros), bem como o planejamento, o projeto, o acompanhamento, o controle, a fiscalização e a execução das obras militares.\n\tFoi constatado em vistoria técnica que atualmente o depósito para armazenamento de material CL II na 1ª Cia do 11º Depósito de Suprimentos, está instalado de forma temporária, ou seja por meio de barracas de estruturas de aço e lona, o que compromete a segurança dos suprimentos.\n\tRealizar a construção de uma edificação permanente do Pavilhão de depósito para material CL II de acordo com as normas vigentes, afim de preservar de forma segura os materiais armazenados.\n",
+    "metaGlobal": "Obra de Construção do Pavilhão de Depósito de Materiais CL II na 1ª Cia do 11° Depósito de Suprimentos, em Brasília/DF",
+    "dataInicialPrevista": "2020-07-20",
+    "dataFinalPrevista": "2021-09-03",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-06-10",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-06-10",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 30,
+        "descricao": "Desenvolvimento",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 75,
+        "descricao": "Urbanização",
+        "idTipo": 30
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000E65C8AABCAF647C089A298C3D38B2FC0",
+        "dataCriacao": "2021-06-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-06-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 788355.34
+      }
+    ],
+    "latitude": -15.773100006468,
+    "longitude": -47.92806
+  },
+  {
+    "idUnico": "2361.53-42",
+    "nome": "Obra de Construção do Pavilhão de Depósito de Materiais CL III e IX na 2ª Cia do 11° Depósito de Suprimentos, em Brasília/DF",
+    "cep": "1",
+    "endereco": "Regimento de Cavalaria e Guarda - Brasília-DF",
+    "descricao": "Obra de Construção do Pavilhão de Depósito de Materiais CL III e IX na 2ª Cia do 11° Depósito de Suprimentos, em Brasília/DF",
+    "funcaoSocial": "Nos termos da Portaria do Comandante do Exército Nº287, de 28 de maio de 2003, compete às Comissões Regionais de Obras executar, direta ou indiretamente, as tarefas de caráter técnico e administrativo das atividades relacionadas as obras e serviços de engenharia (construção, entre outros), bem como o planejamento, o projeto, o acompanhamento, o controle, a fiscalização e a execução das obras militares.\n\tFoi constatado em vistoria técnica que atualmente o depósito para armazenamento de material CL III e IX na 2ª Cia do 11º Depósito de Suprimentos, está instalado de forma temporária, ou seja por meio de barracas de estruturas de aço e lona, o que compromete a segurança dos suprimentos.\n\tRealizar a construção de uma edificação permanente do Pavilhão de depósito para material CL III e IX de acordo com as normas vigentes, afim de preservar de forma segura os materiais armazenados.\n",
+    "metaGlobal": "Obra de Construção do Pavilhão de Depósito de Materiais CL III e IX na 2ª Cia do 11° Depósito de Suprimentos, em Brasília/DF",
+    "dataInicialPrevista": "2020-07-20",
+    "dataFinalPrevista": "2021-09-03",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-06-10",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-06-10",
+    "tomadores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DO EXÉRCITO",
+        "codigo": 94
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      }
+    ],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 30,
+        "descricao": "Desenvolvimento",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 75,
+        "descricao": "Urbanização",
+        "idTipo": 30
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000072DC291DACFB47C01D579BE943872FC0",
+        "dataCriacao": "2021-06-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-06-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 728016.07
+      }
+    ],
+    "latitude": -15.7641900064587,
+    "longitude": -47.96619
+  },
+  {
+    "idUnico": "2597.53-09",
+    "nome": "CENTRO DE FORMAÇÃO TECNOLOGICA - CFT - CAMPUS TAGUATINGA",
+    "cep": "1",
+    "endereco": "QNM 40, Área Especial 01, às margens da BR 070.",
+    "descricao": "Construção de um centro de formação tecnológica. O modelo desenvolvido é o de um galpão em estruturas de concreto pré-fabricado, com cobertura em estrutura metálica e fechamentos em alvenaria de blocos de concretos e telhas metálicas. O piso será de concreto polido, as janelas em esquadrias de alumínio com vidro, portas de madeira e de ferro e parede internas em gesso acartonado. O projeto é modular para facilitar que se adeque a várias exigências de diferentes cursos de formação.",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Taguatinga na ofertas de cursos do eixo de eletromecanica, engenharia da computação entre outros. ",
+    "metaGlobal": "aumentar a oferta de cursos técnicos e profissionalizantes dentro do eixo de áreas do Campus Taguatinga",
+    "dataInicialPrevista": "2020-10-19",
+    "dataFinalPrevista": "2021-09-29",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-06-18",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matriculas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-06-18",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000005AF0A2AF200D48C0BB1798C8EA962FC0",
+        "dataCriacao": "2021-06-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-06-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000006B65C22FF50B48C0E1678A38D645F93F",
+        "dataCriacao": "2021-06-21",
+        "origem": "Manual",
+        "dataMetadado": "2021-06-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1798000
+      }
+    ],
+    "latitude": -15.79476000649071,
+    "longitude": -48.10256
+  },
+  {
+    "idUnico": "2395.53-16",
+    "nome": "0325/2020 - Assoramento Técnico Especializado para a Diretoria de Planejamento e Pesquisa/DPP",
+    "cep": "1",
+    "endereco": "",
+    "descricao": "Contratação de empresa para prestação de serviços técnicos especializados no assessoramento em gestão pública e engenharia consultiva no âmbito da Diretoria de Planejamento e Pesquisa - DPP/DNIT",
+    "funcaoSocial": "Ampliação da capacidade de trafego visando a melhoria da segurança do usuário.",
+    "metaGlobal": "Projetos Básicos e Executivos de Engenharia",
+    "dataInicialPrevista": "2020-05-19",
+    "dataFinalPrevista": "2026-04-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-06-11",
+    "especie": "Ampliação",
+    "natureza": "Outros",
+    "naturezaOutras": "Assessoramento Técnicon Especializado",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-06-11",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 25,
+        "descricao": "Rodovia",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 4,
+        "descricao": "Acessos Terrestres",
+        "idTipo": 25
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A6D3DBD605F047C0AB80C6BB7F942FC0",
+        "dataCriacao": "2021-06-11",
+        "origem": "cipiws",
+        "dataMetadado": "2021-06-11",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 201404626.7
+      }
+    ],
+    "latitude": -15.7900370292485,
+    "longitude": -47.8751782010434
+  },
+  {
+    "idUnico": "2655.53-70",
+    "nome": "CFT Campus Recanto das Emas",
+    "cep": "1",
+    "endereco": "Avenida Monjolo, Chácara 22, Núcleo Rural Monjolo – Recanto das Emas - DF (atrás da Quadra 300)",
+    "descricao": "edificação destinada atividades acadêmicas, com laboratórios, salas dos professores, estúdio, mini auditório, espaço multiuso, almoxarifado, centro de ações inclusivas. O espaço em geral atenderá aos cursos profissionalizantes. ",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Recanto das Emas principalmente na oferta de cursos da área de Audiovisual",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2021-01-11",
+    "dataFinalPrevista": "2021-12-22",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-06-21",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-06-21",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000033E3F8C100A48C00C3DAD07B1D32FC0",
+        "dataCriacao": "2021-06-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-06-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1910000
+      }
+    ],
+    "latitude": -15.9134600066159,
+    "longitude": -48.07863
   },
   {
     "idUnico": "3078.53-04",
@@ -12920,8 +13134,8 @@
         "valorInvestimentoPrevisto": 998430.78
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7441800064377,
+    "longitude": -47.89107
   },
   {
     "idUnico": "2743.53-57",
@@ -13019,8 +13233,8 @@
         "valorInvestimentoPrevisto": 473253.6
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -16.0347400067453,
+    "longitude": -48.05831
   },
   {
     "idUnico": "2857.53-63",
@@ -21056,6 +21270,820 @@
     ],
     "latitude": -15.7633400064578,
     "longitude": -47.86071
+  },
+  {
+    "idUnico": "33178.53-19",
+    "nome": "Contrato 06/2024 - Contratação de empresa para execução de serviço comum de fornecimento, instalação e manutenção de cercamentos do tipo alambrado para unidades do CBMDF​.",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Contratação de empresa para execução de serviço comum de fornecimento, instalação e manutenção de cercamentos do tipo alambrado para unidades do CBMDF​.  (Grupo Ùnico do Edital - 125230721). ",
+    "funcaoSocial": "PRESTAR UM MELHOR ATENDIMENTO A SOCIEDADE E FORNECEDORES DO CBMDF.",
+    "metaGlobal": "OBRA PROPORCIONARÁ MAIOR SEGURANÇA AOS PRESTADORES DE SERVIÇO DO CBMDF E COMUNIDADE. ",
+    "dataInicialPrevista": "2024-01-08",
+    "dataFinalPrevista": "2025-01-08",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-01-08",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-01-08",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000BEF6CC9200FD47C0744240E6E8B12FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "0101000000D673D2FBC6F347C0700B5FF224792FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "0101000000E388B5F814F847C009B1837155A92FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "01010000004F0647C9ABF747C0D8742DBADAAA2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "01010000006BD44334BAD347C090E8E74B543F2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "0101000000F3AB394030EF47C05806233AE9AD2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "0101000000AF5FB01BB6FD47C069A7F2D573A22FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "010100000059349D9D0C1248C09BD8B64DD6982FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "01010000001D2098A3C7F747C0474251390BAB2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "010100000032384A5E9DF747C024B537917EAB2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "0101000000DC2E34D769EC47C05BED0C2237932FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "0101000000E4839ECDAA0748C031B284158CAA2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "01010000008E06F01648E447C018E3B3ED99852FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "01010000002FA86F99D30948C07E817C51A0CF2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      },
+      {
+        "geometria": "01010000006B82A8FB000C48C068B32A0803BF2FC0",
+        "dataCriacao": "2024-01-08",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-08",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "37º GBM - GRUPAMENTO DE BOMBEIRO MILITAR DA SAMAMBAIA",
+        "enderecoAreaExecutora": "QD 201, Conj 2, lote 1, A.E. Samambaia Norte ",
+        "cepAreaExecutora": "72341-002",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 908237.28
+      }
+    ],
+    "latitude": -15.8474800065462,
+    "longitude": -47.97658
+  },
+  {
+    "idUnico": "33461.53-91",
+    "nome": "obra de recuperação estrutural da BCE",
+    "cep": null,
+    "endereco": null,
+    "descricao": "O objeto desta contratação é a obra de Recuperação Estrutural da Biblioteca Central (BCE), localizado no Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília - DF, conforme projeto e especificações técnicas.",
+    "funcaoSocial": "O edifício da Biblioteca Central - BCE da Universidade de Brasília, projetado em 1968, pelos arquitetos José Galbinski e Miguel Pereira, e colaboração de Walmyr Santos Aguiar e Jodete Rios Sócrates, os quais formaram a equipe que concebeu a arquitetura do prédio que foi concluído em 1973. A área da ediﬁcação é 17.955 m² e recebia, antes da pandemia do COVID19, em média 3500 pessoas por dia em funcionamento contínuo de 24 horas por dia;\n\nA ediﬁcação está localizada no Campus Universitário Darcy Ribeiro, ocupando o espaço da Praça Maior que lhe era destinado próxima as três edificações de grande importância para a instituição (a Reitoria, o Restaurante Universitário e o ICC). Toda a estrutura é em concreto armado e a cobertura é construída por uma laje impermeabilizada, compreendendo em 2º subsolo, 1º subsolo, térreo e 1° pavimento;\n\nSegundo Schlee et al (2014),\"Trata-se de um grande bloco de concreto aparente, cujo partido sugere uma ediﬁcação oblonga engastada em uma outra, com maior altura e desenvolvimento transversal, o que resulta em uma construção tripartida no sentido longitudinal com as extremidades (leste-oeste) mais baixas em relação à porção central, que é marcada e valorizada por pórticos.\"\n\nAo longo das décadas de utilização da infraestrutura, as lajes cobertura da Biblioteca Central apresentaram deﬁciências em seu sistema de impermeabilização. A inﬁltração de água nos elementos estruturais da laje iniciou um processo de corrosão das armaduras, bem como carbonatações e eﬂorescências no concreto e as fachadas em concreto aparente, que comprometem a integridade do edifício.\n\nPortanto, haja vista os prejuízos identiﬁcados, faz-se necessário implementar as medidas pertinentes para recuperar esses componentes",
+    "metaGlobal": "O edifício da Biblioteca Central - BCE da Universidade de Brasília, projetado em 1968, pelos arquitetos José Galbinski e Miguel Pereira, e colaboração de Walmyr Santos Aguiar e Jodete Rios Sócrates, os quais formaram a equipe que concebeu a arquitetura do prédio que foi concluído em 1973. A área da ediﬁcação é 17.955 m² e recebia, antes da pandemia do COVID19, em média 3500 pessoas por dia em funcionamento contínuo de 24 horas por dia;\n\nA ediﬁcação está localizada no Campus Universitário Darcy Ribeiro, ocupando o espaço da Praça Maior que lhe era destinado próxima as três edificações de grande importância para a instituição (a Reitoria, o Restaurante Universitário e o ICC). Toda a estrutura é em concreto armado e a cobertura é construída por uma laje impermeabilizada, compreendendo em 2º subsolo, 1º subsolo, térreo e 1° pavimento;\n\nSegundo Schlee et al (2014),\"Trata-se de um grande bloco de concreto aparente, cujo partido sugere uma ediﬁcação oblonga engastada em uma outra, com maior altura e desenvolvimento transversal, o que resulta em uma construção tripartida no sentido longitudinal com as extremidades (leste-oeste) mais baixas em relação à porção central, que é marcada e valorizada por pórticos.\"\n\nAo longo das décadas de utilização da infraestrutura, as lajes cobertura da Biblioteca Central apresentaram deﬁciências em seu sistema de impermeabilização. A inﬁltração de água nos elementos estruturais da laje iniciou um processo de corrosão das armaduras, bem como carbonatações e eﬂorescências no concreto e as fachadas em concreto aparente, que comprometem a integridade do edifício.\n\nPortanto, haja vista os prejuízos identiﬁcados, faz-se necessário implementar as medidas pertinentes para recuperar esses componentes",
+    "dataInicialPrevista": "2024-02-07",
+    "dataFinalPrevista": "2025-02-12",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-01-17",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-01-17",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "SECRETARIA DO TESOURO NACIONAL - STN",
+        "codigo": 25805
+      },
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000097395D1613EF47C06E1E59718F852FC0",
+        "dataCriacao": "2024-01-17",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-17",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "Campus Darcy Ribeiro",
+        "cepAreaExecutora": "70910-900",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 8052957.16
+      }
+    ],
+    "latitude": -15.7608600064552,
+    "longitude": -47.86777
+  },
+  {
+    "idUnico": "33858.53-01",
+    "nome": "contratação de empresa especializada para elaboração de projeto executivo de proteção e proteção contra incêndio (PPCI) para as instalações da Diretoria de Ensino da Academia Nacional de Polícia.",
+    "cep": null,
+    "endereco": null,
+    "descricao": "contratação de empresa especializada para elaboração de projeto executivo de proteção e proteção contra incêndio (PPCI) para as instalações da Diretoria de Ensino da Academia Nacional de Polícia.",
+    "funcaoSocial": "Segurança Pública",
+    "metaGlobal": "contratação de empresa especializada para elaboração de projeto executivo de proteção e proteção contra incêndio (PPCI) para as instalações da Diretoria de Ensino da Academia Nacional de Polícia.",
+    "dataInicialPrevista": "2024-02-01",
+    "dataFinalPrevista": "2025-02-01",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-01-30",
+    "especie": "Construção",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-01-30",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
+        "codigo": 30108
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000ABECBB22F8EB47C0964B9B1EF9632FC0",
+        "dataCriacao": "2024-01-30",
+        "origem": "Manual",
+        "dataMetadado": "2024-01-30",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Polícia Federal",
+        "enderecoAreaExecutora": "SCN quadra 04 lote C",
+        "cepAreaExecutora": "70000-000",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 75999.11
+      }
+    ],
+    "latitude": -15.6952600063867,
+    "longitude": -47.84351
+  },
+  {
+    "idUnico": "3391.53-57",
+    "nome": "RECUPERAÇÃO DA IMPERMEABILIZAÇÃO DOS BLOCOS A E B E DA BIBLIOTECA DO CAMPUS BRASÍLIA",
+    "cep": "70.830-450",
+    "endereco": "Via L2 Norte, SGAN 610 (610 Norte), Módulo D, E, F e G.",
+    "descricao": "Reforma da impermeabilização da cobertura dos blocos de salas de aulas A e Bç além da cobertura da Biblioteca. Os blocos A e B possuíam na cobertura um telhado verde com várias camadas, mas que já estava de deteriorando, assim foi retirada todas as camadas e refeito a impermeabilização com manta asfáltica e proteção mecânica. Já a Biblioteca possui na cobertura placas cimentícias e manta de PVC. As placas foram mantidas e a manta retirada e instalada telhas metálicas no local para garantir melhor estanqueidade do sistema. ",
+    "funcaoSocial": "atender com mais conforto e segurança a comunidade acadêmica do campus Brasília, garantindo espaços sem infiltrações e demais problemas relacionados a entrada de águas das chuvas. ",
+    "metaGlobal": "garantir o bom funcionamento das instituições ",
+    "dataInicialPrevista": "2021-01-04",
+    "dataFinalPrevista": "2021-11-11",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-08-12",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-08-12",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000D49AE61DA7F047C0802CE88A37822FC0",
+        "dataCriacao": "2021-08-12",
+        "origem": "cipiws",
+        "dataMetadado": "2021-08-12",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1100000
+      }
+    ],
+    "latitude": -15.7543300064483,
+    "longitude": -47.8801
+  },
+  {
+    "idUnico": "34467.53-09",
+    "nome": "VIGILÂNCIA ELETRÔNICA (CFTV) E CONTROLE DE ACESSO (INCLUINDO-SE CONSULTORIA, PROJETOS BÁSICOS E EXECUTIVOS PARA OS SISTEMAS), NAS INSTALAÇÕES DA SR/PF/DF",
+    "cep": null,
+    "endereco": null,
+    "descricao": "VIGILÂNCIA ELETRÔNICA (CFTV) E CONTROLE DE ACESSO (INCLUINDO-SE CONSULTORIA, PROJETOS BÁSICOS E EXECUTIVOS PARA OS SISTEMAS), NAS INSTALAÇÕES DA SR/PF/DF",
+    "funcaoSocial": "Segurança Pública",
+    "metaGlobal": "VIGILÂNCIA ELETRÔNICA (CFTV) E CONTROLE DE ACESSO (INCLUINDO-SE CONSULTORIA, PROJETOS BÁSICOS E EXECUTIVOS PARA OS SISTEMAS), NAS INSTALAÇÕES DA SR/PF/DF",
+    "dataInicialPrevista": "2024-02-19",
+    "dataFinalPrevista": "2024-09-30",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-02-16",
+    "especie": "Ampliação",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras da Polícia Federal",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-02-16",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
+        "codigo": 30108
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000004F58E20165F747C01988212731A82FC0",
+        "dataCriacao": "2024-02-16",
+        "origem": "Manual",
+        "dataMetadado": "2024-02-16",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Polícia Federal",
+        "enderecoAreaExecutora": "SCN quadra 04 lote C",
+        "cepAreaExecutora": "70000-000",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 66051.51
+      }
+    ],
+    "latitude": -15.8285000065262,
+    "longitude": -47.93277
+  },
+  {
+    "idUnico": "34738.53-88",
+    "nome": "Contratação de obra de implantação de alimentação de energia elétrica da DIVOC, através da KF do CINDACTA I",
+    "cep": "71.615-600",
+    "endereco": "SHIS - QI-05 - Área Especial 12",
+    "descricao": "Contratação de obra de implantação de alimentação de energia elétrica da DIVOC, através da KF do CINDACTA I",
+    "funcaoSocial": "Contratação de obra de implantação de alimentação de energia elétrica da DIVOC, através da KF do CINDACTA I",
+    "metaGlobal": "Contratação de obra de implantação de alimentação de energia elétrica da DIVOC, através da KF do CINDACTA I",
+    "dataInicialPrevista": "2024-03-01",
+    "dataFinalPrevista": "2025-04-10",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-02-22",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-02-22",
+    "tomadores": [
+      {
+        "nome": "FUNDO AERONAUTICO",
+        "codigo": 52911
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA DEFESA",
+        "codigo": 41066
+      },
+      {
+        "nome": "1° BATALHÃO DE ENGENHARIA DE CONSTRUÇÃO",
+        "codigo": 394452003110
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "COMANDO DA AERONÁUTICA",
+        "codigo": 48
+      }
+    ],
+    "eixos": [
+      {
+        "id": 2,
+        "descricao": "Militar"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 14,
+        "descricao": "Defesa Nacional",
+        "idEixo": 2
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 15,
+        "descricao": "Aquisição de Máquinas e Equipamentos",
+        "idTipo": 14
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000032384A5E9DF347C078497FC9ABB32FC0",
+        "dataCriacao": "2024-02-22",
+        "origem": "Manual",
+        "dataMetadado": "2024-02-22",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Comissão de Implantação do Sistema de Controle do Espaço Aér",
+        "enderecoAreaExecutora": "Avenida General Justo, 160",
+        "cepAreaExecutora": "20021-130",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3225715.57
+      }
+    ],
+    "latitude": -15.8509200065498,
+    "longitude": -47.90324
+  },
+  {
+    "idUnico": "34791.53-87",
+    "nome": "obra de instalação de elevador no Bloco B",
+    "cep": null,
+    "endereco": null,
+    "descricao": "obra de instalação de elevador no Bloco B do Instituto Central de Ciências da Universidade de Brasília (UnB)",
+    "funcaoSocial": "Necessidade de adaptação da edificação às normas vigentes de acessibilidade (ABNT NBR 9050/2020), de forma que possibilite\no acesso a toda a edificação por todos os usuários de forma igualitária.  \nConsiderando a época de construção da edificação, anterior à existência de legislação de acessibilidade, está prevista uma etapa\nseguinte de reformas, contemplando a edificação como um todo, incluindo a adequação e instalação de guarda-corpos, corrimãos,\nrampas e sinalização, entre outros itens.",
+    "metaGlobal": "Necessidade de adaptação da edificação às normas vigentes de acessibilidade (ABNT NBR 9050/2020), de forma que possibilite\no acesso a toda a edificação por todos os usuários de forma igualitária.  \nConsiderando a época de construção da edificação, anterior à existência de legislação de acessibilidade, está prevista uma etapa\nseguinte de reformas, contemplando a edificação como um todo, incluindo a adequação e instalação de guarda-corpos, corrimãos,\nrampas e sinalização, entre outros itens.",
+    "dataInicialPrevista": "2024-03-06",
+    "dataFinalPrevista": "2024-07-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-02-27",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-02-27",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000081785DBF60EF47C08386C4EE20862FC0",
+        "dataCriacao": "2024-02-27",
+        "origem": "Manual",
+        "dataMetadado": "2024-02-27",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria de Infraestrutura",
+        "enderecoAreaExecutora": "Campus DArcy Ribeiro",
+        "cepAreaExecutora": "70900-900",
+        "paisAreaExecutora": "Brasili"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 169182.57
+      }
+    ],
+    "latitude": -15.7619700064563,
+    "longitude": -47.87014
+  },
+  {
+    "idUnico": "34807.53-08",
+    "nome": "Ed nº 628/2023 - Elaboração dos Estudos Ambientais (EIA/RIMA/PBA/ASV) e Projeto de Engenharia (Básico e Executivo) de Adequação de Capacidade da Rodovia BR-104/PB",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Contratação de empresa especializada para a Elaboração dos Estudos Ambientais (EIA/RIMA/PBA/ASV) e Projeto de Engenharia (Básico e Executivo) de Adequação de Capacidade da Rodovia BR-104/PB (Norte), contemplando a implantação dos Contornos dos municípios de Remígio/PB, Esperança/PB e São Sebastião de Lagoa de Roça/PB, bem como da Alça Nordeste de Campina Grande / PB, conforme condições, quantidades e exigências estabelecidas neste instrumento e em seus apêndices.",
+    "funcaoSocial": "Ampliação da capacidade de trafego visando a melhoria da segurança do usuário",
+    "metaGlobal": "Projetos Básicos e Executivos de Engenharia",
+    "dataInicialPrevista": "2024-02-21",
+    "dataFinalPrevista": "2025-08-14",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2024-02-27",
+    "especie": "Construção",
+    "natureza": "Projeto",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2024-02-27",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 25,
+        "descricao": "Rodovia",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 4,
+        "descricao": "Acessos Terrestres",
+        "idTipo": 25
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000009EC393C505F047C07EB80E8375942FC0",
+        "dataCriacao": "2024-02-27",
+        "origem": "Vetorizacao",
+        "dataMetadado": "2024-02-27",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "APT - ASSESSORIA, PROJETOS E TECNOLOGIA S/S",
+        "enderecoAreaExecutora": "RUA BELO HORIZONTE, 64 EDIFBARRA MASTER101 E 102 - BARRA",
+        "cepAreaExecutora": "40140-380",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1738293.68
+      }
+    ],
+    "latitude": -15.7899590449781,
+    "longitude": -47.8751761409287
   },
   {
     "idUnico": "34841.53-39",
