@@ -1370,8 +1370,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8921200065933,
+    "longitude": -47.7786
   },
   {
     "idUnico": "21339.53-04",
@@ -1456,8 +1456,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7539400064479,
+    "longitude": -47.87709
   },
   {
     "idUnico": "21341.53-30",
@@ -1628,8 +1628,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8628300065624,
+    "longitude": -48.05234
   },
   {
     "idUnico": "21345.53-56",
@@ -1714,8 +1714,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7944600064904,
+    "longitude": -48.10274
   },
   {
     "idUnico": "8913.53-40",
@@ -2092,8 +2092,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8301096184826,
+    "longitude": -47.9219425224331
   },
   {
     "idUnico": "19176.53-10",
@@ -2686,8 +2686,8 @@
         "valorInvestimentoPrevisto": 6252801.32
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7600900064544,
+    "longitude": -47.95376
   },
   {
     "idUnico": "10835.53-80",
@@ -2767,8 +2767,8 @@
         "valorInvestimentoPrevisto": 39717442.17
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.81011,
+    "longitude": -47.92953
   },
   {
     "idUnico": "228.53-10",
@@ -2939,8 +2939,8 @@
         "valorInvestimentoPrevisto": 1
       }
     ],
-    "latitude": -15.809340006506,
-    "longitude": -47.92857
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "21751.53-90",
@@ -3188,9 +3188,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 29653
       }
-    ],
-    "latitude": null,
-    "longitude": null
+    ]
   },
   {
     "idUnico": "2415.53-10",
@@ -3527,8 +3525,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.78369,
+    "longitude": -47.880612
   },
   {
     "idUnico": "21906.53-92",
@@ -3608,8 +3606,8 @@
         "valorInvestimentoPrevisto": 1261843.41
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -16.04868,
+    "longitude": -47.48143
   },
   {
     "idUnico": "21905.53-36",
@@ -3689,8 +3687,8 @@
         "valorInvestimentoPrevisto": 750000
       }
     ],
-    "latitude": -15.90039,
-    "longitude": -47.61021
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3959.53-67",
@@ -3850,9 +3848,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 13800
       }
-    ],
-    "latitude": null,
-    "longitude": null
+    ]
   },
   {
     "idUnico": "20229.53-90",
@@ -4008,8 +4004,8 @@
         "valorInvestimentoPrevisto": 7732907.61
       }
     ],
-    "latitude": -15.8267700065243,
-    "longitude": -47.9396
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "19804.53-74",
@@ -4418,8 +4414,8 @@
         "valorInvestimentoPrevisto": 0
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.760730006455,
+    "longitude": -47.86746
   },
   {
     "idUnico": "19326.53-40",
@@ -4499,8 +4495,8 @@
         "valorInvestimentoPrevisto": 1310523.4
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.56889,
+    "longitude": -47.49973
   },
   {
     "idUnico": "9791.53-23",
@@ -4585,8 +4581,8 @@
         "valorInvestimentoPrevisto": 1503660.56
       }
     ],
-    "latitude": -15.7746304138604,
-    "longitude": -47.9171281918063
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51605.53-91",
@@ -5409,8 +5405,8 @@
         "valorInvestimentoPrevisto": 15072096.67
       }
     ],
-    "latitude": -15.61684114764,
-    "longitude": -47.90772734375
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2628.53-48",
@@ -5494,7 +5490,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 1833947.81
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4196.53-05",
@@ -5574,8 +5572,8 @@
         "valorInvestimentoPrevisto": 4473329.19
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8690500065689,
+    "longitude": -47.90173
   },
   {
     "idUnico": "5271.53-01",
@@ -5655,8 +5653,8 @@
         "valorInvestimentoPrevisto": 5178264.33
       }
     ],
-    "latitude": -15.758730006453,
-    "longitude": -47.87432
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5801.53-99",
@@ -6146,8 +6144,8 @@
         "valorInvestimentoPrevisto": 300000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.82447666828468,
+    "longitude": -47.8294042967
   },
   {
     "idUnico": "5306.53-00",
@@ -6241,8 +6239,8 @@
         "valorInvestimentoPrevisto": 572846.23
       }
     ],
-    "latitude": -15.758840006453,
-    "longitude": -47.86885
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4293.53-92",
@@ -6327,8 +6325,8 @@
         "valorInvestimentoPrevisto": 55154.19
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8428300065412,
+    "longitude": -47.9647
   },
   {
     "idUnico": "4678.53-99",
@@ -7248,8 +7246,8 @@
         "valorInvestimentoPrevisto": 62000
       }
     ],
-    "latitude": -15.908819196409,
-    "longitude": -48.0445695863964
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4747.53-96",
@@ -7978,8 +7976,8 @@
         "valorInvestimentoPrevisto": 438499.5
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8474700065462,
+    "longitude": -47.97666
   },
   {
     "idUnico": "11.53-32",
@@ -8114,8 +8112,8 @@
         "valorInvestimentoPrevisto": 198266.14
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8117800065086,
+    "longitude": -48.098
   },
   {
     "idUnico": "370.53-30",
@@ -8200,8 +8198,8 @@
         "valorInvestimentoPrevisto": 133263.72
       }
     ],
-    "latitude": -15.7709200064657,
-    "longitude": -47.87112
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3090.53-42",
@@ -8940,8 +8938,8 @@
         "valorInvestimentoPrevisto": 839664954.32
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7113300064035,
+    "longitude": -47.81198
   },
   {
     "idUnico": "971.53-58",
@@ -10028,8 +10026,8 @@
         "valorInvestimentoPrevisto": 32525000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7755300064705,
+    "longitude": -47.90838
   },
   {
     "idUnico": "6129.53-60",
@@ -11524,8 +11522,8 @@
         "valorInvestimentoPrevisto": 13498733.34
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7389300064323,
+    "longitude": -47.89428
   },
   {
     "idUnico": "2194.53-90",
@@ -12434,8 +12432,8 @@
         "valorInvestimentoPrevisto": 38775.78
       }
     ],
-    "latitude": -15.7730000064679,
-    "longitude": -47.9169
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2311.53-81",
@@ -14755,8 +14753,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": -15.6998800063915,
-    "longitude": -47.78759
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6424.53-90",
@@ -36421,871 +36419,6 @@
     ],
     "latitude": -15.6007000062888,
     "longitude": -47.659
-  },
-  {
-    "idUnico": "50842.53-49",
-    "nome": "ALOJAMENTO FUP",
-    "cep": null,
-    "endereco": null,
-    "descricao": "ALOJAMENTO FUP",
-    "funcaoSocial": "ALOJAMENTO FUP",
-    "metaGlobal": "ALOJAMENTO FUP",
-    "dataInicialPrevista": "2011-10-14",
-    "dataFinalPrevista": "2014-06-15",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000003108AC1C5AD447C04E6F83F38E332FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de infraestrutura",
-        "enderecoAreaExecutora": "campus darcy",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1786212.56
-      }
-    ],
-    "latitude": -15.6007000062888,
-    "longitude": -47.659
-  },
-  {
-    "idUnico": "50852.53-06",
-    "nome": "Ar Condicionado Ilhas FAC",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Contratação de empresa especializada para execução da obra de instalação de ar-condicionado das ilhas de edição da Faculdade de Comunicação- FAC, Térreo, Entrevigas 678 a 690, no bloco \"A\" do edifício Instituto Central de Ciências - ICC, localizado no Campus Universitário Darcy Ribeiro, em Brasília,DF",
-    "funcaoSocial": "Contratação de empresa especializada para execução da obra de instalação de ar-condicionado das ilhas de edição da Faculdade de Comunicação- FAC, Térreo, Entrevigas 678 a 690, no bloco \"A\" do edifício Instituto Central de Ciências - ICC, localizado no Campus Universitário Darcy Ribeiro, em Brasília,DF",
-    "metaGlobal": "Contratação de empresa especializada para execução da obra de instalação de ar-condicionado das ilhas de edição da Faculdade de Comunicação- FAC, Térreo, Entrevigas 678 a 690, no bloco \"A\" do edifício Instituto Central de Ciências - ICC, localizado no Campus Universitário Darcy Ribeiro, em Brasília,DF",
-    "dataInicialPrevista": "2011-12-21",
-    "dataFinalPrevista": "2012-12-21",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000007A53910A63EF47C01928FB5F93852FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "campus darcy ",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 56996.8
-      }
-    ],
-    "latitude": -15.7608900064552,
-    "longitude": -47.87021
-  },
-  {
-    "idUnico": "50856.53-21",
-    "nome": "bsa sul (1ª etapa)",
-    "cep": null,
-    "endereco": null,
-    "descricao": "PRIMEIRA ETAPA DA OBRA DE CONSTRUÇÃO DO BLOCO DE SALAS DE AULA, LOCALIZADO NO SETOR SUL DO CAMPUS DARCY RIBEIRO, DA FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA, EM BRASÍLIA/DF, QUE CONSISTE EM EXECUÇÃO DE FUNDAÇÕES E ESTRUTURA E REMANEJAMENTO DA VIA DE ACESSO.",
-    "funcaoSocial": "PRIMEIRA ETAPA DA OBRA DE CONSTRUÇÃO DO BLOCO DE SALAS DE AULA, LOCALIZADO NO SETOR SUL DO CAMPUS DARCY RIBEIRO, DA FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA, EM BRASÍLIA/DF, QUE CONSISTE EM EXECUÇÃO DE FUNDAÇÕES E ESTRUTURA E REMANEJAMENTO DA VIA DE ACESSO.",
-    "metaGlobal": "PRIMEIRA ETAPA DA OBRA DE CONSTRUÇÃO DO BLOCO DE SALAS DE AULA, LOCALIZADO NO SETOR SUL DO CAMPUS DARCY RIBEIRO, DA FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA, EM BRASÍLIA/DF, QUE CONSISTE EM EXECUÇÃO DE FUNDAÇÕES E ESTRUTURA E REMANEJAMENTO DA VIA DE ACESSO.",
-    "dataInicialPrevista": "2010-02-25",
-    "dataFinalPrevista": "2012-11-13",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000740CC85EEFEE47C097692E93C6882FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "campus darcy",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 3848494.04
-      }
-    ],
-    "latitude": -15.7671400064617,
-    "longitude": -47.86668
-  },
-  {
-    "idUnico": "5086.53-38",
-    "nome": "CENARGEN - Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia",
-    "cep": "70.770-917",
-    "endereco": "Parque Estação Biológica, PqEB, Av. W5 Norte (final) Caixa Postal 02372 – Brasília, DF – CEP 70770-917",
-    "descricao": "Contratação de Empresa Especializada em Engenharia e Arquitetura para a execução de finalização prédio Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia, conforme especificações e demais elementos técnicos constantes do Projeto Básico, Projeto Executivo e demais Anexos deste Edital",
-    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
-    "metaGlobal": "Contratação de Empresa Especializada em Engenharia e Arquitetura para a execução de finalização prédio Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia, conforme especificações e demais elementos técnicos constantes do Projeto Básico, Projeto Executivo e demais Anexos deste Edital",
-    "dataInicialPrevista": "2021-12-10",
-    "dataFinalPrevista": "2021-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-12-08",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-12-08",
-    "tomadores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "executores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
-        "codigo": 14
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000098BB0A96B5F347C09730EA6E65752FC0",
-        "dataCriacao": "2021-12-09",
-        "origem": "cipiws",
-        "dataMetadado": "2021-12-08",
-        "infoAdicionais": null,
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 16335.16
-      }
-    ],
-    "latitude": -15.7292894993664,
-    "longitude": -47.9039790680319
-  },
-  {
-    "idUnico": "50915.53-94",
-    "nome": "Projeto de Energia Renovável ´para Unidade Institucional",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Projeto de fornecimento, instalação, comissionamento, aprovação junto à concessionária de energia local e operação assistida e manutenção de Sistema de Geração Fotovoltaica ongrid",
-    "funcaoSocial": "Apoio a projetos de Desenvolvimento Regional Sustentável",
-    "metaGlobal": "Projeto concluído",
-    "dataInicialPrevista": "2025-01-01",
-    "dataFinalPrevista": "2026-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-28",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-28",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA",
-        "codigo": 169
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 45,
-        "descricao": "Desenvolvimento",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 75,
-        "descricao": "Urbanização",
-        "idTipo": 45
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000907BDEEC80EF47C04CFDCEF698932FC0",
-        "dataCriacao": "2024-12-28",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2024-12-28",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Codevasf",
-        "enderecoAreaExecutora": "SGAN 601",
-        "cepAreaExecutora": "71900-000",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1500000
-      }
-    ],
-    "latitude": -15.7882763984368,
-    "longitude": -47.8711219869939
-  },
-  {
-    "idUnico": "50954.53-97",
-    "nome": "Construção do Museu da Imagem e do Som, em Brasília/DF.",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Construção do Museu da Imagem e do Som, em Brasília/DF.",
-    "funcaoSocial": "Turistas locais e internacionais, interessados pela História, Arquitetura, Urbanismo e Beleza da Capital Federal.. A ausência de centro de memórias dedicado à história de Brasília no seu complexo urbanístico representa uma oportunidade valiosa ainda não explorada para a cidade. A criação de um espaço como o Complexo do ArPDF que abriga o Museu da Imagem e do Som contribuiria significativamente para a preservação, conservação e difusão da trajetória de Brasília, desde seu planejamento até sua transformação na capital moderna que atrai turistas e estudiosos. Coordenadas: 15°46'54.6''S 47°55'14.5''W.. Aumento do turismo histórico, cultural, cívico, arquitetônico e urbanístico na Capital Federal, com a criação de espaço destinado ao abrigo da memória e do acervo histórico abrigado. Soma-se a isto uma edificação criada por Oscar Niemeyer, que reúne elementos históricos, arquitetônicos e culturais que tonaram Brasília conhecida por sua arquitetura única e moderna.",
-    "metaGlobal": "Construção do Museu da Imagem e do Som, em Brasília/DF.",
-    "dataInicialPrevista": "2024-10-01",
-    "dataFinalPrevista": "2032-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-30",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "PNT - Plano Nacional do Turismo",
-    "uf": "DF",
-    "qdtEmpregosGerados": "100",
-    "descPopulacaoBeneficiada": "Turistas, pesquisadores, visitantes nacionais e internacionais e população local",
-    "populacaoBeneficiada": "2817381",
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": true,
-    "dataSituacao": "2024-12-30",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": " SECRETARIA DE ESTADO DE TURISMO DO DISTRITO FEDERAL",
-        "codigo": 33143334000173
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DO TURISMO",
-        "codigo": 72084
-      }
-    ],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 30,
-        "descricao": "Desenvolvimento",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 45,
-        "descricao": "Turismo",
-        "idTipo": 30
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000008BE07F2BD9F547C0381092054C902FC0",
-        "dataCriacao": "2024-12-30",
-        "origem": "WKT",
-        "dataMetadado": "2024-12-30",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 029182/2024",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "CHRISTIANNO NOGUEIRA ARAUJO",
-        "enderecoAreaExecutora": "SETOR SDC (SETOR DE DIFUSAO CULTURAL) CENTRO DE CONVENCOES ULYSSES, SETOR, ANDAR 1                   BLOCO I",
-        "cepAreaExecutora": "70070-350",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 10444377
-      }
-    ],
-    "latitude": -15.78183,
-    "longitude": -47.92069
-  },
-  {
-    "idUnico": "50983.53-22",
-    "nome": "Implantação de Espaço para Lazer Urbano no Distrito Federal.",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Implantação de Espaço para Lazer Urbano no Distrito Federal.",
-    "funcaoSocial": "População do Distrito Federal.. O Governo do Distrito Federal situa o esporte como um\nfator social e o seu principal objetivo é a generalização do direito ao acesso às práticas esportiva, recreativa e de lazer, contribuindo, dessa maneira, para a criação de hábitos permanentes por todos os segmentos da população.. A Implantação de Equipamentos de Pontos de Encontro Comunitário (PECS), visa proporcionar aos seus usuários uma área qualificada, integrada e acessível a toda População nas Regiões Administrativas do Distrito Federal.",
-    "metaGlobal": "Implantação de Espaço para Lazer Urbano no Distrito Federal.",
-    "dataInicialPrevista": "2024-12-31",
-    "dataFinalPrevista": "2028-12-30",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-30",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-30",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DE OBRAS E INFRAESTRUTURA DO DISTRITO FEDERAL",
-        "codigo": 394742000149
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DAS CIDADES",
-        "codigo": 308798
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 38,
-        "descricao": "Esporte",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 15,
-        "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 38
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000C746205ED7E347C01FBAA0BE658E2FC0",
-        "dataCriacao": "2025-01-13",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-13",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 024705/2024 e instrumento 973504",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VALTER CASIMIRO SILVEIRA",
-        "enderecoAreaExecutora": "ÁREA SAPS - SETOR DE AREAS PUBLICAS SUL LOTE B, S/N, A-15",
-        "cepAreaExecutora": "71215-000",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0101000000213CDA3862E147C0AF946588637D2FC0",
-        "dataCriacao": "2025-01-13",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-13",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 024705/2024 e instrumento 973504",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VALTER CASIMIRO SILVEIRA",
-        "enderecoAreaExecutora": "ÁREA SAPS - SETOR DE AREAS PUBLICAS SUL LOTE B, S/N, A-15",
-        "cepAreaExecutora": "71215-000",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0101000000E08442041C0648C0554D10751FD02FC0",
-        "dataCriacao": "2025-01-13",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-13",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 024705/2024 e instrumento 973504",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VALTER CASIMIRO SILVEIRA",
-        "enderecoAreaExecutora": "ÁREA SAPS - SETOR DE AREAS PUBLICAS SUL LOTE B, S/N, A-15",
-        "cepAreaExecutora": "71215-000",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "010100000084471B47AC0948C0AC90F2936ACF2FC0",
-        "dataCriacao": "2025-01-13",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-13",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 024705/2024 e instrumento 973504",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VALTER CASIMIRO SILVEIRA",
-        "enderecoAreaExecutora": "ÁREA SAPS - SETOR DE AREAS PUBLICAS SUL LOTE B, S/N, A-15",
-        "cepAreaExecutora": "71215-000",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "0101000000C2172653050B48C0C22FF5F3A6C22FC0",
-        "dataCriacao": "2025-01-13",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-13",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 024705/2024 e instrumento 973504",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VALTER CASIMIRO SILVEIRA",
-        "enderecoAreaExecutora": "ÁREA SAPS - SETOR DE AREAS PUBLICAS SUL LOTE B, S/N, A-15",
-        "cepAreaExecutora": "71215-000",
-        "paisAreaExecutora": "Brasil"
-      },
-      {
-        "geometria": "01010000008FC2F5285CD347C095D40968223C2FC0",
-        "dataCriacao": "2025-01-13",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-13",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 024705/2024 e instrumento 973504",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VALTER CASIMIRO SILVEIRA",
-        "enderecoAreaExecutora": "ÁREA SAPS - SETOR DE AREAS PUBLICAS SUL LOTE B, S/N, A-15",
-        "cepAreaExecutora": "71215-000",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2393677
-      }
-    ],
-    "latitude": -15.77812,
-    "longitude": -47.78001
-  },
-  {
-    "idUnico": "50994.53-46",
-    "nome": "Novo PAC - Espaços Esportivos Comunitários no Distrito Federal.",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Construção do Espaço Esportivo Comunitário, em Brasília/DF (Novo PAC)",
-    "funcaoSocial": "O Público alvo a ser atingido será diretamente jovens, crianças, adultos, idosos e pessoas com deficiência do Distrito Federal.. O acesso ao esporte e lazer no Distrito Federal.. Espera-se com essa proposta proporcionar uma boa estrutura de espaço esportivo como alternativa para os que desejam levar uma vida saudável, bem como incentivar a prática de atividade física para população do Distrito Federal.",
-    "metaGlobal": "Construção do Espaço Esportivo Comunitário, em Brasília/DF (Novo PAC)",
-    "dataInicialPrevista": "2024-12-30",
-    "dataFinalPrevista": "2027-12-30",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-30",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-30",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DO ESPORTE E LAZER DO DISTRITO FEDERAL",
-        "codigo": 2977827000185
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTERIO DO ESPORTE",
-        "codigo": 51000
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 38,
-        "descricao": "Esporte",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 24,
-        "descricao": "Centro Olímpico e Para-Olímpico",
-        "idTipo": 38
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000787FBC57AD1448C082C5E1CCAF962FC0",
-        "dataCriacao": "2025-02-08",
-        "origem": "WKT",
-        "dataMetadado": "2025-02-08",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 021048/2024 e instrumento 972515",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VICTOR RENATO JUNQUEIRA LACERDA",
-        "enderecoAreaExecutora": "AVENIDA SDC (SETOR DE DIFUSAO CULTURAL), SN, EDIF  CENTRO DE CONVENCOESANDAR ALA SUL - TERREO",
-        "cepAreaExecutora": "70070-350",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1462500
-      }
-    ],
-    "latitude": -15.79431,
-    "longitude": -48.16154
-  },
-  {
-    "idUnico": "51029.53-02",
-    "nome": "Construção de Cobertura Metálica nos Centros Olímpicos do Distrito Federal.",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Construção de Cobertura Metálica nos Centros Olímpicos do Distrito Federal.",
-    "funcaoSocial": "O Público alvo a ser atingido será diretamente jovens, crianças, adultos, idosos e pessoas com deficiência do Distrito Federal.. Através do incentivo a prática esportiva e também à inclusão, visualizamos oportunidade a incentivar a prática de esporte e lazer, promovendo a inclusão social melhorando a qualidade de vida da população local do Distrito Federal.. Espera-se com este pleito assegurar a população em geral, a oferta de estruturas esportivas de qualidade e inclusão de crianças com deficiência, onde a comunidade possa, além de praticar atividade recreativas ter um espaço seguro de convivência, lazer e formação cidadã. Assim, pretendemos desenvolver as potencialidades da população local, trazendo alternativas de entretenimento saudável.",
-    "metaGlobal": "Construção de Cobertura Metálica nos Centros Olímpicos do Distrito Federal.",
-    "dataInicialPrevista": "2024-05-03",
-    "dataFinalPrevista": "2025-05-03",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-30",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-30",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DO ESPORTE E LAZER DO DISTRITO FEDERAL",
-        "codigo": 2977827000185
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTERIO DO ESPORTE",
-        "codigo": 51000
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 38,
-        "descricao": "Esporte",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 24,
-        "descricao": "Centro Olímpico e Para-Olímpico",
-        "idTipo": 38
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000096218E7571E347C02619390B7BCA2FC0",
-        "dataCriacao": "2024-12-30",
-        "origem": "WKT",
-        "dataMetadado": "2024-12-30",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 010539/2024 e instrumento 965819",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "VICTOR RENATO JUNQUEIRA LACERDA",
-        "enderecoAreaExecutora": "AVENIDA SDC (SETOR DE DIFUSAO CULTURAL), SN, EDIF  CENTRO DE CONVENCOESANDAR ALA SUL - TERREO",
-        "cepAreaExecutora": "70070-350",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 697182.85
-      }
-    ],
-    "latitude": -15.89547,
-    "longitude": -47.7769
-  },
-  {
-    "idUnico": "51050.53-07",
-    "nome": "Ed nº 369/2024 - prestação de serviços técnicos especializados para o levantamento integrado, contínuo e o processamento dos dados da condição da rede rodoviária pavimentada",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Contratação de empresa para prestação de serviços técnicos especializados para o (i) levantamento integrado, contínuo e o processamento dos dados da condição da rede rodoviária pavimentada, e (ii) o assessoramento para o planejamento e avaliação da manutenção rodoviária em toda malha rodoviária federal sob administração do DNIT.",
-    "funcaoSocial": "Ampliação da capacidade de trafego visando a melhoria da segurança do usuário",
-    "metaGlobal": "Projetos Básicos e Executivos de Engenharia",
-    "dataInicialPrevista": "2024-12-31",
-    "dataFinalPrevista": "2029-12-05",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-30",
-    "especie": "Recuperação",
-    "natureza": "Outros",
-    "naturezaOutras": "Levantamentos",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-30",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
-        "codigo": 54844
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 3,
-        "descricao": "Econômico"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 25,
-        "descricao": "Rodovia",
-        "idEixo": 3
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 4,
-        "descricao": "Acessos Terrestres",
-        "idTipo": 25
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000093BB30FA07F047C0999D716978942FC0",
-        "dataCriacao": "2024-12-30",
-        "origem": "Vetorizacao",
-        "dataMetadado": "2024-12-30",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "CONSÓRCIO ARRB/DYNA",
-        "enderecoAreaExecutora": "SGAN 601, Módulo H, Sala 2041 Edifício Íon – L2 Norte / Asa Norte",
-        "cepAreaExecutora": "70830-010",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 119689320.22
-      }
-    ],
-    "latitude": -15.7899811698142,
-    "longitude": -47.8752434480622
   },
   {
     "idUnico": "51064.53-80",
