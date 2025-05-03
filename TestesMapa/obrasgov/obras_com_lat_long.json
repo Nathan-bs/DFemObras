@@ -858,6 +858,178 @@
     "longitude": -47.69257
   },
   {
+    "idUnico": "21327.53-34",
+    "nome": "Reforma Agroecologia",
+    "cep": "73.380-900",
+    "endereco": "Rodovia DF – 128, km 21, Zona Rural de Planaltina",
+    "descricao": "Reforma do prédio de salas de aulas e laboratórios do curso de agroecologia do Campus Planaltina, incluindo um reforço na fundação, reforma do telhado, reforma e adequação dos banheiros, adequação dos acessos a edificação, entre outros.",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Planaltina principalmente no curso de agroecologia",
+    "metaGlobal": "aumentar o alcance do conhecimento com  aulas teóricas  e práticas nas instituições de ensino",
+    "dataInicialPrevista": "2023-09-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000029B3412619D947C0BBE9EFA5D5502FC0",
+        "dataCriacao": "2023-04-14",
+        "origem": "Manual",
+        "dataMetadado": "2023-04-14",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Instituto Federal de Brasilia",
+        "enderecoAreaExecutora": "SAUS quadra 2 BLOCO E",
+        "cepAreaExecutora": "70070-906",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3300000
+      }
+    ],
+    "latitude": -15.6578800063479,
+    "longitude": -47.69608
+  },
+  {
+    "idUnico": "3819.53-95",
+    "nome": "Cobertura da quadra poliesportiva",
+    "cep": "70.800-120",
+    "endereco": "Via L4 Norte, Lote 01, Trecho 2, SCEN",
+    "descricao": "Cobertura da quadra poliesportiva utilizada pelos beneficiários do PROFESP",
+    "funcaoSocial": "Melhoria das condições de uso",
+    "metaGlobal": "Cobertura da quadra poliesportiva utilizada pelos beneficiários do PROFESP",
+    "dataInicialPrevista": "2021-09-15",
+    "dataFinalPrevista": "2021-11-01",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-09-10",
+    "especie": "Ampliação",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Em execução",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-09-14",
+    "tomadores": [
+      {
+        "nome": "COMANDO DA MARINHA - FUNDO NAVAL",
+        "codigo": 52132
+      }
+    ],
+    "executores": [
+      {
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "COMANDO DA MARINHA",
+        "codigo": 185
+      }
+    ],
+    "eixos": [
+      {
+        "id": 2,
+        "descricao": "Militar"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 17,
+        "descricao": "Educação",
+        "idEixo": 2
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A0D849A404EE47C0EB487218E5902FC0",
+        "dataCriacao": "2021-09-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-09-06",
+        "infoAdicionais": null,
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 250000
+      }
+    ],
+    "latitude": -15.7829978599079,
+    "longitude": -47.8595166550233
+  },
+  {
     "idUnico": "8421.53-89",
     "nome": "Reforma no acesso da pista de atletismo",
     "cep": null,
@@ -1542,178 +1714,6 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": -15.7944600064904,
-    "longitude": -48.10274
-  },
-  {
-    "idUnico": "8913.53-40",
-    "nome": "Reforma hidráulica da psicina",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Reforma hidráulica da piscina para utilização pelos beneficiários do PROFESP",
-    "funcaoSocial": "Reforma hidráulica da piscina para utilização pelos beneficiários do PROFESP",
-    "metaGlobal": "Reforma hidráulica da psicina",
-    "dataInicialPrevista": "2022-10-10",
-    "dataFinalPrevista": "2022-11-04",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-10-03",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Em execução",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2022-10-10",
-    "tomadores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "CAMARA DOS DEPUTADOS",
-        "codigo": 1000
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 38,
-        "descricao": "Esporte",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 24,
-        "descricao": "Centro Olímpico e Para-Olímpico",
-        "idTipo": 38
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000075C8CD7003EE47C0CCACDA923A912FC0",
-        "dataCriacao": "2022-10-03",
-        "origem": "Manual",
-        "dataMetadado": "2022-10-03",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Grupamento de Fuzileiros Navais de Brasilia",
-        "enderecoAreaExecutora": "Via L4 Norte, Lote 01, Trecho 2, SCEN ",
-        "cepAreaExecutora": "70800-120",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 17500
-      }
-    ],
-    "latitude": -15.783650006479,
-    "longitude": -47.85948
-  },
-  {
-    "idUnico": "2729.53-94",
-    "nome": "Ampliação e Reforma do Hospital Naval de Brasília",
-    "cep": "1",
-    "endereco": "SEPS Q 711/911 - Asa Sul, Brasília - DF",
-    "descricao": "CONTRATAÇÃO INTEGRADA de empresa especializada em construção civil para realizar a prestação de serviços de REFORMA E AMPLIAÇÃO DO HOSPITAL NAVAL DE BRASÍLIA – HNBra, incluindo a elaboração de projetos básicos e executivos de arquitetura e engenharia, planos e programas ambientais visando a minimização dos impactos ambientais do novo hospital. O detalhamento encontra-se no RDC 01/2019 deste Hospital.",
-    "funcaoSocial": "Atendimento à Família Naval.",
-    "metaGlobal": "Expansão física das instalações e, com isso, passaremos a disponibilizar uma gama muito maior de consultas e procedimentos, inclusive aqueles com valor agregado muito alto, como no caso de internações (nos seus diversos níveis de complexidade).",
-    "dataInicialPrevista": "2020-01-20",
-    "dataFinalPrevista": "2023-03-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-06-22",
-    "especie": "Ampliação",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Concluída",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2023-03-31",
-    "tomadores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "executores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "COMANDO DA MARINHA",
-        "codigo": 185
-      }
-    ],
-    "eixos": [
-      {
-        "id": 2,
-        "descricao": "Militar"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 18,
-        "descricao": "Saúde",
-        "idEixo": 2
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 47,
-        "descricao": "Instituições Hospitalares Federais",
-        "idTipo": 18
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000DF7EE1E519F547C0F64937D846A12FC0",
-        "dataCriacao": "2021-06-22",
-        "origem": "cipiws",
-        "dataMetadado": "2021-06-22",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 27792850.24
-      }
-    ],
     "latitude": null,
     "longitude": null
   },
@@ -2088,8 +2088,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8301096184826,
+    "longitude": -47.9219425224331
   },
   {
     "idUnico": "19176.53-10",
@@ -2510,175 +2510,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "idUnico": "51946.53-11",
-    "nome": "CONSTRUÇÃO DO 2º BATALHÃO DE POLÍCIA MILITAR DO DISTRITO FEDERAL",
-    "cep": "72.130-049",
-    "endereco": "ÁREA ESPECIAL Nº 44, SETOR G NORTE, TAGUATINGA NORTE",
-    "descricao": "CONSTRUÇÃO DO 2º BATALHÃO DE POLÍCIA MILITAR DO DISTRITO FEDERAL.",
-    "funcaoSocial": "SEGURANÇA PÚBLICA",
-    "metaGlobal": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DA SEDE DO 2º BATALHAO DE POLÍCIA MILITAR DO DISTRITO FEDERAL.",
-    "dataInicialPrevista": "2025-03-12",
-    "dataFinalPrevista": "2025-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2025-03-12",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2025-03-12",
-    "tomadores": [
-      {
-        "nome": "Polícia Militar do Distrito Federal",
-        "codigo": 8942610000116
-      }
-    ],
-    "executores": [
-      {
-        "nome": "Polícia Militar do Distrito Federal",
-        "codigo": 8942610000116
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
-        "codigo": 25915
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000A5DAA7E3310748C0AA6A0D91B8972FC0",
-        "dataCriacao": "2025-03-12",
-        "origem": "Manual",
-        "dataMetadado": "2025-03-12",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "POLÍCIA MILITAR DO DISTRITO FEDERAL",
-        "enderecoAreaExecutora": "AE 44 SETOR G NORTE",
-        "cepAreaExecutora": "72130-049",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 51767.99
-      }
-    ],
-    "latitude": -15.7963300064924,
-    "longitude": -48.05621
-  },
-  {
-    "idUnico": "10835.53-80",
-    "nome": "CONSTRUÇÃO DA POLICLINICA DA PCDF",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Construção da nova Policlínica da Polícia Civil do Distrito Federal.",
-    "funcaoSocial": "Atualmente a Policlínica atende diretamente 3957 servidores da carreira policial e 191 servidores da carreira de apoio,\ntotalizando 4148 servidores, além de atendimento subsidiário a aproximadamente 420 servidores terceirizados. Não há previsão de atendimento à população em geral. O impacto indireto nos habitantes do Distrito Federal se dará\npela redução da taxa de absenteísmo dos policiais civis e, consequentemente,de uma melhor prestação de serviço(texto completo na Justificativa Completa).. A Policlínica da Polícia Civil do Distrito Federal foi originalmente concebida com ênfase na atividade pericial.\nNo entanto, atua intensamente na assistência ao policial civil não só no atendimento médico e pericial, como também nos serviços de psicologia, odontologia, assistência social, fisioterapia e reabilitação física. Funciona atualmente em uma antiga delegacia, que fora reformada para abrigar suas instalações(texto completo na Justificativa Completa).. A nova sede da Policlínica da Polícia Civil do Distrito Federal é um anseio dos servidores policiais que\naguardam há muito tempo um espaço adequado para receber uma atenção à saúde de forma rápida, confortável e eficaz.\nEspera-se com a nova sede, que todos os processos e atendimentos desenvolvidos atualmente sejam otimizados e que novos atendimentos sejam realizados. Espera-se que a localização da nova sede seja mais acessível aos policiais(texto completo na Justificativa Completa).",
-    "metaGlobal": "Construção da nova Policlínica da Polícia Civil do Distrito Federal.",
-    "dataInicialPrevista": "2022-12-19",
-    "dataFinalPrevista": "2027-12-16",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2022-10-20",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": "99",
-    "descPopulacaoBeneficiada": "SERVIDORES ATIVOS E INATIVOS, CARREIRA DE APOIO E TERCEIRIZADOS DA PCDF",
-    "populacaoBeneficiada": "8000",
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": true,
-    "dataSituacao": "2022-10-20",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA",
-        "codigo": 235881
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000005053CBD6FAF647C03B53E8BCC69E2FC0",
-        "dataCriacao": "2025-02-01",
-        "origem": "WKT",
-        "dataMetadado": "2025-02-01",
-        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 003266/2022 e instrumento 936389",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "JOSE WERICK DE CARVALHO",
-        "enderecoAreaExecutora": "SETOR SPO CONJUNTO A LOTE, 23, ANDAR 3",
-        "cepAreaExecutora": "70610-907",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 39717442.17
-      }
-    ],
-    "latitude": -15.81011,
-    "longitude": -47.92953
+    "latitude": -15.78369,
+    "longitude": -47.880612
   },
   {
     "idUnico": "228.53-10",
@@ -3016,8 +2849,8 @@
         "valorInvestimentoPrevisto": 3891249.91
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7657500064603,
+    "longitude": -47.87161
   },
   {
     "idUnico": "19979.53-65",
@@ -3252,7 +3085,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 25848700
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42911.53-47",
@@ -3330,6 +3165,168 @@
       {
         "origem": "Federal",
         "valorInvestimentoPrevisto": 1500000
+      }
+    ],
+    "latitude": -15.72953,
+    "longitude": -48.19353
+  },
+  {
+    "idUnico": "20084.53-55",
+    "nome": "REFORMA DA 9ª DELEGACIA DE POLÍCIA DA POLÍCIA CIVIL DO DISTRITO FEDERAL",
+    "cep": "71.503-507",
+    "endereco": "SHIN QI 5, LOTE A – LAGO NORTE, BRASÍLIA/DF.",
+    "descricao": "A Polícia Civil do Distrito Federal - PCDF, instituição essencial à função jurisdicional, tem como missão institucional promover, integrada às instituições congêneres, a segurança pública, visando à preservação da ordem pública e à incolumidade das pessoas, por meio da apuração de delitos, da elaboração de procedimentos formais destinados à ação penal e da adoção de ações técnico-policiais, com a preservação dos direitos e garantias individuais.\n\nPara realização direta ou indireta desses objetivos, a PCDF desempenha atividades operacionais e administrativas, valendo-se do suporte físico de edificações, as quais apresentam, portanto, um valor social fundamental.\n\nA sede da 9ª Delegacia de Polícia Civil, localizada no Lago Norte, foi erguida no ano de 1983, não tendo sofrido intervenções significativas ao longo do tempo. Sua estrutura não mais atende às necessidades atuais da corporação, já que a concepção da edificação está em desacordo com as novas funcionalidades e com a dinâmica de trabalho atuais da Polícia Civil. Além do mais, as instalações físicas encontram-se desgastadas e obsoletas em razão da idade da edificação.\n\nDiante desse cenário, e considerando que a construção de uma nova sede teria um custo elevado, optou-se por realizar uma reforma completa da unidade, contemplando ampliação de área. Com essa solução será possível adequar a unidade às necessidades atuais da corporação com o despendimento menos recursos, já que a estrutura da edificação encontra-se em bom estado de conservação.",
+    "funcaoSocial": "A Polícia Civil do Distrito Federal - PCDF, instituição essencial à função jurisdicional, tem como missão institucional promover, integrada às instituições congêneres, a segurança pública, visando à preservação da ordem pública e à incolumidade das pessoas, por meio da apuração de delitos, da elaboração de procedimentos formais destinados à ação penal e da adoção de ações técnico-policiais, com a preservação dos direitos e garantias individuais.",
+    "metaGlobal": "A sede da 9ª Delegacia de Polícia Civil, localizada no Lago Norte, foi erguida no ano de 1983, não tendo sofrido intervenções significativas ao longo do tempo. Sua estrutura não mais atende às necessidades atuais da corporação, já que a concepção da edificação está em desacordo com as novas funcionalidades e com a dinâmica de trabalho atuais da Polícia Civil. Além do mais, as instalações físicas encontram-se desgastadas e obsoletas em razão da idade da edificação.",
+    "dataInicialPrevista": "2023-02-10",
+    "dataFinalPrevista": "2023-12-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-02-10",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-02-10",
+    "tomadores": [
+      {
+        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
+        "codigo": 37115482000135
+      }
+    ],
+    "executores": [
+      {
+        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
+        "codigo": 37115482000135
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+        "codigo": 25915
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000049809A5AB6EE47C0926B8AE8BC762FC0",
+        "dataCriacao": "2023-02-10",
+        "origem": "Manual",
+        "dataMetadado": "2023-02-10",
+        "infoAdicionais": "REFORMA DA 9ª DELEGACIA DE POLÍCIA DA POLÍCIA CIVIL DO DISTRITO FEDERAL",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "POLÍCIA CIVIL DO DISTRITO FEDERAL",
+        "enderecoAreaExecutora": "SPO, CJ A, LOTE 23, COMPLEXO DA PCDF.",
+        "cepAreaExecutora": "70610-907",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 4682173.01
+      }
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "idUnico": "51464.53-72",
+    "nome": "Implantação de infraestrutura de apoio às atividades produtivas - Sede em 2025",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Fortalecer as atividades produtivas por meio de investimentos que promovam eficazmente a dinamização das economias locais.",
+    "funcaoSocial": "Implantar infraestruturas de apoio às atividades produtivas para promoção do desenvolvimento regional.",
+    "metaGlobal": "Implantação de negócios com foco no aumento da produção, produtividade, melhoria da qualidade e comercialização dos produtos, fortalecendo a capacidade produtiva e a maior integração e crescimento do nível de organização dos produtores familiares, das associações, cooperativas e demais organizações e a dinamização das economias locais com a geração de empregos e aumento da renda do trabalhador.",
+    "dataInicialPrevista": "2025-01-01",
+    "dataFinalPrevista": "2025-12-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2025-02-04",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "70000000",
+    "situacao": "Inativada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2025-02-04",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA",
+        "codigo": 169
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 40,
+        "descricao": "Agricultura e Organização Agrária",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 15,
+        "descricao": "Aquisição de Máquinas e Equipamentos",
+        "idTipo": 40
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000008A3BDEE4B7F047C08C67D0D03F912FC0",
+        "dataCriacao": "2025-02-04",
+        "origem": "WKT",
+        "dataMetadado": "2025-01-31",
+        "infoAdicionais": null,
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "MILTON JESUS BARBOSA JUNIOR",
+        "enderecoAreaExecutora": "SGAN 601, Conj. I. Ed. Dep. Manoel Novaes",
+        "cepAreaExecutora": "70830-019",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 0.01
       }
     ],
     "latitude": null,
@@ -3494,8 +3491,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": -15.78369,
-    "longitude": -47.880612
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "21906.53-92",
@@ -3656,8 +3653,8 @@
         "valorInvestimentoPrevisto": 750000
       }
     ],
-    "latitude": -15.90039,
-    "longitude": -47.61021
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3959.53-67",
@@ -3742,8 +3739,8 @@
         "valorInvestimentoPrevisto": 8425000
       }
     ],
-    "latitude": -15.8216300065189,
-    "longitude": -47.94413
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "20229.53-90",
@@ -4466,8 +4463,8 @@
         "valorInvestimentoPrevisto": 7141939.72
       }
     ],
-    "latitude": -15.8002630106667,
-    "longitude": -47.8684721413212
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4745.53-61",
@@ -4552,8 +4549,8 @@
         "valorInvestimentoPrevisto": 3792936.79
       }
     ],
-    "latitude": -15.8014724349761,
-    "longitude": -47.9352337863209
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3224.53-52",
@@ -4638,8 +4635,8 @@
         "valorInvestimentoPrevisto": 2250000
       }
     ],
-    "latitude": -15.9014800066032,
-    "longitude": -47.7953
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4752.53-48",
@@ -4724,8 +4721,8 @@
         "valorInvestimentoPrevisto": 3000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.814476668284687,
+    "longitude": -47.8194042968719
   },
   {
     "idUnico": "6227.53-14",
@@ -5563,8 +5560,8 @@
         "valorInvestimentoPrevisto": 40672.45
       }
     ],
-    "latitude": -15.9054500066075,
-    "longitude": -47.98917
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5656.53-08",
@@ -5649,8 +5646,8 @@
         "valorInvestimentoPrevisto": 5000000
       }
     ],
-    "latitude": -15.8024200064987,
-    "longitude": -47.88117
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4652.53-69",
@@ -6576,8 +6573,8 @@
         "valorInvestimentoPrevisto": 4105808.5
       }
     ],
-    "latitude": -15.8553300065544,
-    "longitude": -47.90912
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4756.53-07",
@@ -7439,8 +7436,8 @@
         "valorInvestimentoPrevisto": 2009850.45
       }
     ],
-    "latitude": -15.8009800064972,
-    "longitude": -47.85284
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "370.53-30",
@@ -8473,8 +8470,8 @@
         "valorInvestimentoPrevisto": 118651009.35
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7967541515724,
+    "longitude": -47.8671152024612
   },
   {
     "idUnico": "971.53-58",
@@ -11111,8 +11108,8 @@
         "valorInvestimentoPrevisto": 40581393.53
       }
     ],
-    "latitude": -15.7902951288361,
-    "longitude": -47.8751610345129
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2395.53-16",
@@ -11273,8 +11270,8 @@
         "valorInvestimentoPrevisto": 5918000
       }
     ],
-    "latitude": -15.7965100064925,
-    "longitude": -47.86806
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3071.53-63",
@@ -12011,8 +12008,8 @@
         "valorInvestimentoPrevisto": 2356316.65
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7783800064735,
+    "longitude": -47.87258
   },
   {
     "idUnico": "2335.53-87",
@@ -14401,8 +14398,8 @@
         "valorInvestimentoPrevisto": 445305
       }
     ],
-    "latitude": -15.8052200065017,
-    "longitude": -47.88292
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6472.53-27",
@@ -23099,20 +23096,7 @@
         "idTipo": 25
       }
     ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2025-04-29",
-        "origem": "WKT",
-        "dataMetadado": "2025-04-29",
-        "infoAdicionais": "Metadado criado em 2025-04-29T07:28:02",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
+    "geometrias": [],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
@@ -27693,20 +27677,7 @@
         "idTipo": 25
       }
     ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2025-04-29",
-        "origem": "WKT",
-        "dataMetadado": "2025-04-29",
-        "infoAdicionais": "Metadado criado em 2025-04-29T08:11:18",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
+    "geometrias": [],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
@@ -31607,20 +31578,7 @@
         "idTipo": 25
       }
     ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2025-04-29",
-        "origem": "WKT",
-        "dataMetadado": "2025-04-29",
-        "infoAdicionais": "Metadado criado em 2025-04-29T08:12:00",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
+    "geometrias": [],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
@@ -38175,20 +38133,7 @@
         "idTipo": 25
       }
     ],
-    "geometrias": [
-      {
-        "geometria": "0104000000010000000101000000BBB88D06F0F647C01D386744698F2FC0",
-        "dataCriacao": "2025-04-29",
-        "origem": "WKT",
-        "dataMetadado": "2025-04-29",
-        "infoAdicionais": "Metadado criado em 2025-04-29T08:56:49",
-        "datum": "DATUM 2000",
-        "nomeAreaExecutora": "DNIT/DIR/CGCONT",
-        "enderecoAreaExecutora": "Quadra 03, Lote A, SAUN, Brasília - DF",
-        "cepAreaExecutora": "70040-902",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
+    "geometrias": [],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
