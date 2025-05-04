@@ -1714,8 +1714,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7944600064904,
+    "longitude": -48.10274
   },
   {
     "idUnico": "8913.53-40",
@@ -2267,8 +2267,8 @@
         "valorInvestimentoPrevisto": 100000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.814476668284687,
+    "longitude": -47.819404296871
   },
   {
     "idUnico": "33082.53-80",
@@ -2348,8 +2348,8 @@
         "valorInvestimentoPrevisto": 811390.99
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.65351,
+    "longitude": -47.62381
   },
   {
     "idUnico": "20285.53-58",
@@ -2434,8 +2434,8 @@
         "valorInvestimentoPrevisto": 769000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7811300064764,
+    "longitude": -47.89285
   },
   {
     "idUnico": "51844.53-30",
@@ -2510,8 +2510,175 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": -15.78369,
-    "longitude": -47.880612
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "idUnico": "51946.53-11",
+    "nome": "CONSTRUÇÃO DO 2º BATALHÃO DE POLÍCIA MILITAR DO DISTRITO FEDERAL",
+    "cep": "72.130-049",
+    "endereco": "ÁREA ESPECIAL Nº 44, SETOR G NORTE, TAGUATINGA NORTE",
+    "descricao": "CONSTRUÇÃO DO 2º BATALHÃO DE POLÍCIA MILITAR DO DISTRITO FEDERAL.",
+    "funcaoSocial": "SEGURANÇA PÚBLICA",
+    "metaGlobal": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DA SEDE DO 2º BATALHAO DE POLÍCIA MILITAR DO DISTRITO FEDERAL.",
+    "dataInicialPrevista": "2025-03-12",
+    "dataFinalPrevista": "2025-12-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2025-03-12",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2025-03-12",
+    "tomadores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "executores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+        "codigo": 25915
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A5DAA7E3310748C0AA6A0D91B8972FC0",
+        "dataCriacao": "2025-03-12",
+        "origem": "Manual",
+        "dataMetadado": "2025-03-12",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "POLÍCIA MILITAR DO DISTRITO FEDERAL",
+        "enderecoAreaExecutora": "AE 44 SETOR G NORTE",
+        "cepAreaExecutora": "72130-049",
+        "paisAreaExecutora": "BRASIL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 51767.99
+      }
+    ],
+    "latitude": -15.7963300064924,
+    "longitude": -48.05621
+  },
+  {
+    "idUnico": "10835.53-80",
+    "nome": "CONSTRUÇÃO DA POLICLINICA DA PCDF",
+    "cep": null,
+    "endereco": null,
+    "descricao": "Construção da nova Policlínica da Polícia Civil do Distrito Federal.",
+    "funcaoSocial": "Atualmente a Policlínica atende diretamente 3957 servidores da carreira policial e 191 servidores da carreira de apoio,\ntotalizando 4148 servidores, além de atendimento subsidiário a aproximadamente 420 servidores terceirizados. Não há previsão de atendimento à população em geral. O impacto indireto nos habitantes do Distrito Federal se dará\npela redução da taxa de absenteísmo dos policiais civis e, consequentemente,de uma melhor prestação de serviço(texto completo na Justificativa Completa).. A Policlínica da Polícia Civil do Distrito Federal foi originalmente concebida com ênfase na atividade pericial.\nNo entanto, atua intensamente na assistência ao policial civil não só no atendimento médico e pericial, como também nos serviços de psicologia, odontologia, assistência social, fisioterapia e reabilitação física. Funciona atualmente em uma antiga delegacia, que fora reformada para abrigar suas instalações(texto completo na Justificativa Completa).. A nova sede da Policlínica da Polícia Civil do Distrito Federal é um anseio dos servidores policiais que\naguardam há muito tempo um espaço adequado para receber uma atenção à saúde de forma rápida, confortável e eficaz.\nEspera-se com a nova sede, que todos os processos e atendimentos desenvolvidos atualmente sejam otimizados e que novos atendimentos sejam realizados. Espera-se que a localização da nova sede seja mais acessível aos policiais(texto completo na Justificativa Completa).",
+    "metaGlobal": "Construção da nova Policlínica da Polícia Civil do Distrito Federal.",
+    "dataInicialPrevista": "2022-12-19",
+    "dataFinalPrevista": "2027-12-16",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2022-10-20",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": "99",
+    "descPopulacaoBeneficiada": "SERVIDORES ATIVOS E INATIVOS, CARREIRA DE APOIO E TERCEIRIZADOS DA PCDF",
+    "populacaoBeneficiada": "8000",
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": true,
+    "dataSituacao": "2022-10-20",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
+        "codigo": 37115482000135
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA",
+        "codigo": 235881
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000005053CBD6FAF647C03B53E8BCC69E2FC0",
+        "dataCriacao": "2025-02-01",
+        "origem": "WKT",
+        "dataMetadado": "2025-02-01",
+        "infoAdicionais": "Cadastro automatizado da obra pelo Transferegov da proposta 003266/2022 e instrumento 936389",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "JOSE WERICK DE CARVALHO",
+        "enderecoAreaExecutora": "SETOR SPO CONJUNTO A LOTE, 23, ANDAR 3",
+        "cepAreaExecutora": "70610-907",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 39717442.17
+      }
+    ],
+    "latitude": -15.81011,
+    "longitude": -47.92953
   },
   {
     "idUnico": "228.53-10",
@@ -2930,8 +3097,8 @@
         "valorInvestimentoPrevisto": 7500000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7957300064917,
+    "longitude": -47.86865
   },
   {
     "idUnico": "20766.53-40",
@@ -3167,168 +3334,6 @@
         "valorInvestimentoPrevisto": 1500000
       }
     ],
-    "latitude": -15.72953,
-    "longitude": -48.19353
-  },
-  {
-    "idUnico": "20084.53-55",
-    "nome": "REFORMA DA 9ª DELEGACIA DE POLÍCIA DA POLÍCIA CIVIL DO DISTRITO FEDERAL",
-    "cep": "71.503-507",
-    "endereco": "SHIN QI 5, LOTE A – LAGO NORTE, BRASÍLIA/DF.",
-    "descricao": "A Polícia Civil do Distrito Federal - PCDF, instituição essencial à função jurisdicional, tem como missão institucional promover, integrada às instituições congêneres, a segurança pública, visando à preservação da ordem pública e à incolumidade das pessoas, por meio da apuração de delitos, da elaboração de procedimentos formais destinados à ação penal e da adoção de ações técnico-policiais, com a preservação dos direitos e garantias individuais.\n\nPara realização direta ou indireta desses objetivos, a PCDF desempenha atividades operacionais e administrativas, valendo-se do suporte físico de edificações, as quais apresentam, portanto, um valor social fundamental.\n\nA sede da 9ª Delegacia de Polícia Civil, localizada no Lago Norte, foi erguida no ano de 1983, não tendo sofrido intervenções significativas ao longo do tempo. Sua estrutura não mais atende às necessidades atuais da corporação, já que a concepção da edificação está em desacordo com as novas funcionalidades e com a dinâmica de trabalho atuais da Polícia Civil. Além do mais, as instalações físicas encontram-se desgastadas e obsoletas em razão da idade da edificação.\n\nDiante desse cenário, e considerando que a construção de uma nova sede teria um custo elevado, optou-se por realizar uma reforma completa da unidade, contemplando ampliação de área. Com essa solução será possível adequar a unidade às necessidades atuais da corporação com o despendimento menos recursos, já que a estrutura da edificação encontra-se em bom estado de conservação.",
-    "funcaoSocial": "A Polícia Civil do Distrito Federal - PCDF, instituição essencial à função jurisdicional, tem como missão institucional promover, integrada às instituições congêneres, a segurança pública, visando à preservação da ordem pública e à incolumidade das pessoas, por meio da apuração de delitos, da elaboração de procedimentos formais destinados à ação penal e da adoção de ações técnico-policiais, com a preservação dos direitos e garantias individuais.",
-    "metaGlobal": "A sede da 9ª Delegacia de Polícia Civil, localizada no Lago Norte, foi erguida no ano de 1983, não tendo sofrido intervenções significativas ao longo do tempo. Sua estrutura não mais atende às necessidades atuais da corporação, já que a concepção da edificação está em desacordo com as novas funcionalidades e com a dinâmica de trabalho atuais da Polícia Civil. Além do mais, as instalações físicas encontram-se desgastadas e obsoletas em razão da idade da edificação.",
-    "dataInicialPrevista": "2023-02-10",
-    "dataFinalPrevista": "2023-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-02-10",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-02-10",
-    "tomadores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "executores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
-        "codigo": 25915
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000049809A5AB6EE47C0926B8AE8BC762FC0",
-        "dataCriacao": "2023-02-10",
-        "origem": "Manual",
-        "dataMetadado": "2023-02-10",
-        "infoAdicionais": "REFORMA DA 9ª DELEGACIA DE POLÍCIA DA POLÍCIA CIVIL DO DISTRITO FEDERAL",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "POLÍCIA CIVIL DO DISTRITO FEDERAL",
-        "enderecoAreaExecutora": "SPO, CJ A, LOTE 23, COMPLEXO DA PCDF.",
-        "cepAreaExecutora": "70610-907",
-        "paisAreaExecutora": "BRASIL"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 4682173.01
-      }
-    ],
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "idUnico": "51464.53-72",
-    "nome": "Implantação de infraestrutura de apoio às atividades produtivas - Sede em 2025",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Fortalecer as atividades produtivas por meio de investimentos que promovam eficazmente a dinamização das economias locais.",
-    "funcaoSocial": "Implantar infraestruturas de apoio às atividades produtivas para promoção do desenvolvimento regional.",
-    "metaGlobal": "Implantação de negócios com foco no aumento da produção, produtividade, melhoria da qualidade e comercialização dos produtos, fortalecendo a capacidade produtiva e a maior integração e crescimento do nível de organização dos produtores familiares, das associações, cooperativas e demais organizações e a dinamização das economias locais com a geração de empregos e aumento da renda do trabalhador.",
-    "dataInicialPrevista": "2025-01-01",
-    "dataFinalPrevista": "2025-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2025-02-04",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "70000000",
-    "situacao": "Inativada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2025-02-04",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA",
-        "codigo": 169
-      }
-    ],
-    "repassadores": [],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 40,
-        "descricao": "Agricultura e Organização Agrária",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 15,
-        "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 40
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000008A3BDEE4B7F047C08C67D0D03F912FC0",
-        "dataCriacao": "2025-02-04",
-        "origem": "WKT",
-        "dataMetadado": "2025-01-31",
-        "infoAdicionais": null,
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "MILTON JESUS BARBOSA JUNIOR",
-        "enderecoAreaExecutora": "SGAN 601, Conj. I. Ed. Dep. Manoel Novaes",
-        "cepAreaExecutora": "70830-019",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 0.01
-      }
-    ],
     "latitude": null,
     "longitude": null
   },
@@ -3491,8 +3496,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.78369,
+    "longitude": -47.880612
   },
   {
     "idUnico": "21906.53-92",
@@ -3653,8 +3658,8 @@
         "valorInvestimentoPrevisto": 750000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.90039,
+    "longitude": -47.61021
   },
   {
     "idUnico": "3959.53-67",
@@ -3739,8 +3744,8 @@
         "valorInvestimentoPrevisto": 8425000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8216300065189,
+    "longitude": -47.94413
   },
   {
     "idUnico": "20229.53-90",
@@ -3820,8 +3825,8 @@
         "valorInvestimentoPrevisto": 900778.91
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7634700064579,
+    "longitude": -47.86964
   },
   {
     "idUnico": "46895.53-29",
@@ -3987,8 +3992,8 @@
         "valorInvestimentoPrevisto": 7105978.54
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7759000064709,
+    "longitude": -47.87097
   },
   {
     "idUnico": "21001.53-67",
@@ -4144,8 +4149,8 @@
         "valorInvestimentoPrevisto": 0
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.760730006455,
+    "longitude": -47.86746
   },
   {
     "idUnico": "19326.53-40",
@@ -4463,8 +4468,8 @@
         "valorInvestimentoPrevisto": 7141939.72
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8002630106667,
+    "longitude": -47.8684721413212
   },
   {
     "idUnico": "4745.53-61",
@@ -4549,8 +4554,8 @@
         "valorInvestimentoPrevisto": 3792936.79
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8014724349761,
+    "longitude": -47.9352337863209
   },
   {
     "idUnico": "3224.53-52",
@@ -4635,8 +4640,8 @@
         "valorInvestimentoPrevisto": 2250000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.9014800066032,
+    "longitude": -47.7953
   },
   {
     "idUnico": "4752.53-48",
@@ -4831,8 +4836,8 @@
         "valorInvestimentoPrevisto": 65624.2
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.6236841521168,
+    "longitude": -47.6546849758603
   },
   {
     "idUnico": "5431.53-87",
@@ -4992,9 +4997,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 1833947.81
       }
-    ],
-    "latitude": null,
-    "longitude": null
+    ]
   },
   {
     "idUnico": "4196.53-05",
@@ -5560,8 +5563,8 @@
         "valorInvestimentoPrevisto": 40672.45
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.9054500066075,
+    "longitude": -47.98917
   },
   {
     "idUnico": "5656.53-08",
@@ -7196,42 +7199,6 @@
     ],
     "geometrias": [
       {
-        "geometria": "01010000005DC47762D6F747C0069778D994AB2FC0",
-        "dataCriacao": "2021-01-21",
-        "origem": "cipiws",
-        "dataMetadado": "2021-01-21",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "01010000005DA79196CAF747C0808798AB04AB2FC0",
-        "dataCriacao": "2021-01-21",
-        "origem": "cipiws",
-        "dataMetadado": "2021-01-21",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000156F641EF9F747C0EE44B4444CA92FC0",
-        "dataCriacao": "2021-01-21",
-        "origem": "cipiws",
-        "dataMetadado": "2021-01-21",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
         "geometria": "0101000000068195438B0C48C0910007A1A19F2FC0",
         "dataCriacao": "2021-01-21",
         "origem": "cipiws",
@@ -7266,6 +7233,42 @@
         "enderecoAreaExecutora": null,
         "cepAreaExecutora": null,
         "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000005DC47762D6F747C0069778D994AB2FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000005DA79196CAF747C0808798AB04AB2FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000156F641EF9F747C0EE44B4444CA92FC0",
+        "dataCriacao": "2021-01-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-01-21",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
       }
     ],
     "fontesDeRecurso": [
@@ -7274,8 +7277,8 @@
         "valorInvestimentoPrevisto": 198266.14
       }
     ],
-    "latitude": -15.8351200065331,
-    "longitude": -47.93623
+    "latitude": -15.8117800065086,
+    "longitude": -48.098
   },
   {
     "idUnico": "4466.53-28",
@@ -7436,8 +7439,8 @@
         "valorInvestimentoPrevisto": 2009850.45
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8009800064972,
+    "longitude": -47.85284
   },
   {
     "idUnico": "370.53-30",
@@ -7522,8 +7525,8 @@
         "valorInvestimentoPrevisto": 133263.72
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7709200064657,
+    "longitude": -47.87112
   },
   {
     "idUnico": "1713.53-42",
@@ -7619,13 +7622,13 @@
     ],
     "subTipos": [
       {
-        "id": 95,
-        "descricao": "Subestação",
+        "id": 93,
+        "descricao": "Seção Contra Incêndio",
         "idTipo": 14
       },
       {
-        "id": 93,
-        "descricao": "Seção Contra Incêndio",
+        "id": 95,
+        "descricao": "Subestação",
         "idTipo": 14
       },
       {
@@ -7808,13 +7811,13 @@
     ],
     "tipos": [
       {
-        "id": 14,
-        "descricao": "Defesa Nacional",
+        "id": 13,
+        "descricao": "Comunicações",
         "idEixo": 2
       },
       {
-        "id": 13,
-        "descricao": "Comunicações",
+        "id": 14,
+        "descricao": "Defesa Nacional",
         "idEixo": 2
       }
     ],
@@ -7822,12 +7825,12 @@
       {
         "id": 15,
         "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 14
+        "idTipo": 13
       },
       {
         "id": 15,
         "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 14
+        "idTipo": 13
       }
     ],
     "geometrias": [
@@ -8336,13 +8339,13 @@
     ],
     "subTipos": [
       {
-        "id": 105,
-        "descricao": "Reforma/adequação da infraestrutura aeronáutica civil",
+        "id": 104,
+        "descricao": "Reforma/adequação da infraestrutura aeroportuária",
         "idTipo": 27
       },
       {
-        "id": 104,
-        "descricao": "Reforma/adequação da infraestrutura aeroportuária",
+        "id": 105,
+        "descricao": "Reforma/adequação da infraestrutura aeronáutica civil",
         "idTipo": 27
       }
     ],
@@ -8442,7 +8445,7 @@
       {
         "id": 15,
         "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 14
+        "idTipo": 13
       },
       {
         "id": 105,
@@ -8470,8 +8473,8 @@
         "valorInvestimentoPrevisto": 118651009.35
       }
     ],
-    "latitude": -15.7967541515724,
-    "longitude": -47.8671152024612
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "971.53-58",
@@ -9368,8 +9371,8 @@
         "valorInvestimentoPrevisto": 32525000
       }
     ],
-    "latitude": -15.7755300064705,
-    "longitude": -47.90838
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6129.53-60",
@@ -9453,8 +9456,8 @@
         "valorInvestimentoPrevisto": 105028.8
       }
     ],
-    "latitude": -15.7919370012059,
-    "longitude": -47.9139064272927
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6129.53-60",
@@ -10245,7 +10248,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 36416209.16
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "1711.53-18",
@@ -10557,13 +10562,13 @@
     ],
     "subTipos": [
       {
-        "id": 19,
-        "descricao": "Barragem",
+        "id": 43,
+        "descricao": "Hidrovia",
         "idTipo": 22
       },
       {
-        "id": 43,
-        "descricao": "Hidrovia",
+        "id": 19,
+        "descricao": "Barragem",
         "idTipo": 22
       }
     ],
@@ -11108,8 +11113,8 @@
         "valorInvestimentoPrevisto": 40581393.53
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7902951288361,
+    "longitude": -47.8751610345129
   },
   {
     "idUnico": "2395.53-16",
@@ -11184,8 +11189,8 @@
         "valorInvestimentoPrevisto": 201404626.7
       }
     ],
-    "latitude": -15.7900370292485,
-    "longitude": -47.8751782010434
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2199.53-07",
@@ -11270,8 +11275,8 @@
         "valorInvestimentoPrevisto": 5918000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7965100064925,
+    "longitude": -47.86806
   },
   {
     "idUnico": "3071.53-63",
@@ -13877,13 +13882,13 @@
     ],
     "subTipos": [
       {
-        "id": 66,
-        "descricao": "Refino - Modernização e Ampliação",
+        "id": 75,
+        "descricao": "Urbanização",
         "idTipo": 30
       },
       {
-        "id": 75,
-        "descricao": "Urbanização",
+        "id": 66,
+        "descricao": "Refino - Modernização e Ampliação",
         "idTipo": 30
       },
       {
@@ -14398,8 +14403,8 @@
         "valorInvestimentoPrevisto": 445305
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8052200065017,
+    "longitude": -47.88292
   },
   {
     "idUnico": "6472.53-27",
@@ -14805,8 +14810,8 @@
         "valorInvestimentoPrevisto": 16070
       }
     ],
-    "latitude": -15.8193400065165,
-    "longitude": -47.94584
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4612.53-76",
@@ -14967,8 +14972,8 @@
         "valorInvestimentoPrevisto": 44919050.32
       }
     ],
-    "latitude": -15.7900500687491,
-    "longitude": -47.8751201308821
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "7771.53-07",
@@ -15043,8 +15048,8 @@
         "valorInvestimentoPrevisto": 1282580.7
       }
     ],
-    "latitude": -15.6445900063341,
-    "longitude": -47.73378
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42177.53-73",
@@ -15129,8 +15134,8 @@
         "valorInvestimentoPrevisto": 3334168.29
       }
     ],
-    "latitude": -15.6607200063508,
-    "longitude": -47.69353
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4114.53-95",
@@ -15514,8 +15519,8 @@
         "valorInvestimentoPrevisto": 1329724.75
       }
     ],
-    "latitude": -15.8690400065689,
-    "longitude": -47.90174
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "8509.53-20",
@@ -15590,8 +15595,8 @@
         "valorInvestimentoPrevisto": 12353524.35
       }
     ],
-    "latitude": -15.7900908345521,
-    "longitude": -47.8752870802952
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5316.53-78",
@@ -15752,8 +15757,8 @@
         "valorInvestimentoPrevisto": 300000
       }
     ],
-    "latitude": -15.804476668284687,
-    "longitude": -47.8894042968755
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "8165.53-83",
@@ -15828,8 +15833,8 @@
         "valorInvestimentoPrevisto": 8000
       }
     ],
-    "latitude": -15.8290900065268,
-    "longitude": -47.93268
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "11384.53-69",
@@ -15904,8 +15909,8 @@
         "valorInvestimentoPrevisto": 47293.66
       }
     ],
-    "latitude": -15.6962300063878,
-    "longitude": -47.84472
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "14376.53-51",
@@ -16116,77 +16121,17 @@
     ],
     "subTipos": [
       {
-        "id": 6,
-        "descricao": "Água",
+        "id": 2,
+        "descricao": "Abastecimento de Água",
         "idTipo": 22
       },
       {
-        "id": 2,
-        "descricao": "Abastecimento de Água",
+        "id": 6,
+        "descricao": "Água",
         "idTipo": 22
       }
     ],
     "geometrias": [
-      {
-        "geometria": "010100000023DBF97E6ADC47C0C7BEDB83F54F2FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000A8E3310395D947C075AA918FC2152FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000FED478E9265947C0E2A009E84D8530C0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "01010000004451A04FE4D947C0E756934BC8172FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000F08AE07F2BB947C003C201B5FD1B2FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
       {
         "geometria": "010100000054008C67D00448C08DF1DA4929182FC0",
         "dataCriacao": "2021-10-07",
@@ -16213,6 +16158,18 @@
       },
       {
         "geometria": "01010000009A7CB3CD8D0548C03526B912661A2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000FED478E9265947C0E2A009E84D8530C0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
         "dataMetadado": "2021-10-07",
@@ -16344,6 +16301,30 @@
         "paisAreaExecutora": null
       },
       {
+        "geometria": "0101000000F08AE07F2BB947C003C201B5FD1B2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000004451A04FE4D947C0E756934BC8172FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
         "geometria": "0101000000560E2DB29D4747C0CD7D57E0F3C330C0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
@@ -16404,18 +16385,6 @@
         "paisAreaExecutora": null
       },
       {
-        "geometria": "0101000000257A19C572FB46C00854304087192FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
         "geometria": "0101000000C0B2D2A4141448C06532190265632FC0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
@@ -16440,7 +16409,7 @@
         "paisAreaExecutora": null
       },
       {
-        "geometria": "01010000002D6002B7EE3647C06793423B361230C0",
+        "geometria": "0101000000257A19C572FB46C00854304087192FC0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
         "dataMetadado": "2021-10-07",
@@ -16452,7 +16421,19 @@
         "paisAreaExecutora": null
       },
       {
-        "geometria": "0101000000E9263108AC7047C04EE639C11CDD2FC0",
+        "geometria": "010100000023DBF97E6ADC47C0C7BEDB83F54F2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000A8E3310395D947C075AA918FC2152FC0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
         "dataMetadado": "2021-10-07",
@@ -16512,6 +16493,30 @@
         "paisAreaExecutora": null
       },
       {
+        "geometria": "01010000002D6002B7EE3647C06793423B361230C0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000E9263108AC7047C04EE639C11CDD2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
         "geometria": "01010000009D465A2A6F5347C0414B0FA8C69B30C0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
@@ -16530,8 +16535,8 @@
         "valorInvestimentoPrevisto": 8044859.16
       }
     ],
-    "latitude": -15.6561700063461,
-    "longitude": -47.722
+    "latitude": -15.5471900062337,
+    "longitude": -48.03761
   },
   {
     "idUnico": "8726.53-42",
@@ -16595,13 +16600,13 @@
     ],
     "subTipos": [
       {
-        "id": 39,
-        "descricao": "Empreendimento de Transmissão de Energia Elétrica",
+        "id": 76,
+        "descricao": "Usina",
         "idTipo": 31
       },
       {
-        "id": 76,
-        "descricao": "Usina",
+        "id": 39,
+        "descricao": "Empreendimento de Transmissão de Energia Elétrica",
         "idTipo": 31
       }
     ],
@@ -27050,77 +27055,17 @@
     ],
     "subTipos": [
       {
-        "id": 6,
-        "descricao": "Água",
+        "id": 2,
+        "descricao": "Abastecimento de Água",
         "idTipo": 22
       },
       {
-        "id": 2,
-        "descricao": "Abastecimento de Água",
+        "id": 6,
+        "descricao": "Água",
         "idTipo": 22
       }
     ],
     "geometrias": [
-      {
-        "geometria": "010100000023DBF97E6ADC47C0C7BEDB83F54F2FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000A8E3310395D947C075AA918FC2152FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000FED478E9265947C0E2A009E84D8530C0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "01010000004451A04FE4D947C0E756934BC8172FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
-        "geometria": "0101000000F08AE07F2BB947C003C201B5FD1B2FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
       {
         "geometria": "010100000054008C67D00448C08DF1DA4929182FC0",
         "dataCriacao": "2021-10-07",
@@ -27147,6 +27092,18 @@
       },
       {
         "geometria": "01010000009A7CB3CD8D0548C03526B912661A2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000FED478E9265947C0E2A009E84D8530C0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
         "dataMetadado": "2021-10-07",
@@ -27278,6 +27235,30 @@
         "paisAreaExecutora": null
       },
       {
+        "geometria": "0101000000F08AE07F2BB947C003C201B5FD1B2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "01010000004451A04FE4D947C0E756934BC8172FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
         "geometria": "0101000000560E2DB29D4747C0CD7D57E0F3C330C0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
@@ -27338,18 +27319,6 @@
         "paisAreaExecutora": null
       },
       {
-        "geometria": "0101000000257A19C572FB46C00854304087192FC0",
-        "dataCriacao": "2021-10-07",
-        "origem": "cipiws",
-        "dataMetadado": "2021-10-07",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      },
-      {
         "geometria": "0101000000C0B2D2A4141448C06532190265632FC0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
@@ -27374,7 +27343,7 @@
         "paisAreaExecutora": null
       },
       {
-        "geometria": "01010000002D6002B7EE3647C06793423B361230C0",
+        "geometria": "0101000000257A19C572FB46C00854304087192FC0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
         "dataMetadado": "2021-10-07",
@@ -27386,7 +27355,19 @@
         "paisAreaExecutora": null
       },
       {
-        "geometria": "0101000000E9263108AC7047C04EE639C11CDD2FC0",
+        "geometria": "010100000023DBF97E6ADC47C0C7BEDB83F54F2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000A8E3310395D947C075AA918FC2152FC0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
         "dataMetadado": "2021-10-07",
@@ -27446,6 +27427,30 @@
         "paisAreaExecutora": null
       },
       {
+        "geometria": "01010000002D6002B7EE3647C06793423B361230C0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
+        "geometria": "0101000000E9263108AC7047C04EE639C11CDD2FC0",
+        "dataCriacao": "2021-10-07",
+        "origem": "cipiws",
+        "dataMetadado": "2021-10-07",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      },
+      {
         "geometria": "01010000009D465A2A6F5347C0414B0FA8C69B30C0",
         "dataCriacao": "2021-10-07",
         "origem": "cipiws",
@@ -27464,8 +27469,8 @@
         "valorInvestimentoPrevisto": 8044859.16
       }
     ],
-    "latitude": -15.6561700063461,
-    "longitude": -47.722
+    "latitude": -15.5471900062337,
+    "longitude": -48.03761
   },
   {
     "idUnico": "40942.53-27",
@@ -34048,8 +34053,8 @@
     ],
     "subTipos": [
       {
-        "id": 6,
-        "descricao": "Água",
+        "id": 37,
+        "descricao": "Drenagem",
         "idTipo": 36
       },
       {
@@ -34063,8 +34068,8 @@
         "idTipo": 27
       },
       {
-        "id": 37,
-        "descricao": "Drenagem",
+        "id": 6,
+        "descricao": "Água",
         "idTipo": 36
       }
     ],
@@ -34564,13 +34569,13 @@
     ],
     "tipos": [
       {
-        "id": 14,
-        "descricao": "Defesa Nacional",
+        "id": 13,
+        "descricao": "Comunicações",
         "idEixo": 2
       },
       {
-        "id": 13,
-        "descricao": "Comunicações",
+        "id": 14,
+        "descricao": "Defesa Nacional",
         "idEixo": 2
       }
     ],
@@ -34578,12 +34583,12 @@
       {
         "id": 15,
         "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 14
+        "idTipo": 13
       },
       {
         "id": 15,
         "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 14
+        "idTipo": 13
       }
     ],
     "geometrias": [
@@ -36385,744 +36390,6 @@
     ],
     "latitude": -15.7899417788856,
     "longitude": -47.8751524777795
-  },
-  {
-    "idUnico": "50514.53-45",
-    "nome": "1ª Etapa da Área Referente ao Instituto de Ciências Humanas - IH",
-    "cep": null,
-    "endereco": null,
-    "descricao": "1ª Etapa da Área Referente ao Instituto de Ciências\nHumanas - IH",
-    "funcaoSocial": "1ª Etapa da Área Referente ao Instituto de Ciências\nHumanas - IH",
-    "metaGlobal": "1ª Etapa da Área Referente ao Instituto de Ciências\nHumanas - IH\n",
-    "dataInicialPrevista": "2014-01-21",
-    "dataFinalPrevista": "2015-09-26",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-23",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-23",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000E59B6D6E4CEF47C0B03B67F5F3862FC0",
-        "dataCriacao": "2024-12-23",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-23",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "campus darcy ribeiro",
-        "cepAreaExecutora": "70900-910",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 2838264.42
-      }
-    ],
-    "latitude": -15.763580006458,
-    "longitude": -47.86952
-  },
-  {
-    "idUnico": "50658.53-98",
-    "nome": "OBRA DE CONSTRUÇÃO DO ENTREPOSTO DE RESÍDUOS DA FACULDADE UnB CEILÂNDIA, LOCALIZADO NO CAMPUS UNIVERSITÁRIO DE CEILÂNDIA",
-    "cep": null,
-    "endereco": null,
-    "descricao": "OBRA DE CONSTRUÇÃO DO ENTREPOSTO DE RESÍDUOS DA FACULDADE UnB CEILÂNDIA, LOCALIZADO NO CAMPUS UNIVERSITÁRIO DE CEILÂNDIA",
-    "funcaoSocial": "Foi solicitado por meio do processo 23106.046240/2017-24 um local adequado para um correto armazenamento temporário dos resíduos perigosos na Faculdade de Ceilândia, considerando que uma das condicionantes da Licença de Instalação junto ao IBRAM (6111063) é a implantação do Plano de Gerenciamento dos Resíduos Perigosos (PGRP).\n\nFaz-se necessário que o projeto siga as recomendações técnicas das normas RDC 222/2018 da Agência Nacional de Vigilância Sanitária (ANVISA), NBR 12.809/2013 e NBR 12.235/1992 da Associação Brasileira de De Normas Técnicas (ABNT).",
-    "metaGlobal": "A elaboração dos estudos técnicos preliminares constitui a primeira etapa do planejamento de uma contratação (planejamento preliminar) e serve essencialmente para: assegurar a viabilidade técnica da contratação, bem como o tratamento de seu impacto ambiental; e embasar o termo de referência ou o projeto básico, que somente é elaborado se a contratação for considerada viável. Está disciplinado na Instrução Normativa Nº 40, de 22 maio de 2020, do Ministério da Economia.\n\nÉ na elaboração dos estudos técnicos preliminares que diversos aspectos devem ser levantados para que os gestores certifiquem-se de que existe uma necessidade de negócio claramente definida, há condições de atendê-la, os riscos de atendê-la são gerenciáveis e os resultados pretendidos com a contratação valem o preço estimado inicialmente.\n\nO objeto desta contratação é OBRA DE CONSTRUÇÃO DO ENTREPOSTO DE RESÍDUOS DA FACULDADE UnB CEILÂNDIA, localizado no Campus Universitário de Ceilândia, da Fundação Universidade de Brasília, em Brasília - DF, conforme projeto e especificações técnicas.",
-    "dataInicialPrevista": "2025-01-02",
-    "dataFinalPrevista": "2025-07-02",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-26",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-26",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000008D7F9F71E10C48C06A5FFEF99BB02FC0",
-        "dataCriacao": "2024-12-26",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-26",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "Campus Darcy Ribeiro",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 58766.67
-      }
-    ],
-    "latitude": -15.8449400065435,
-    "longitude": -48.10063
-  },
-  {
-    "idUnico": "50663.53-83",
-    "nome": "Obra de Construção da Praça Maior - Aula Magna",
-    "cep": null,
-    "endereco": null,
-    "descricao": "O objeto desta contratação é a construção da Praça Maior - Aula Magna da UnB, localizado no Setor Centro do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas.",
-    "funcaoSocial": "A construção de um espaço para grandes eventos é uma demanda histórica da Universidade de Brasília, já prevista nos croquis originais dos Arquitetos Oscar Niemeyer e Lúcio Costa.\n\nA demanda foi tema de concurso acadêmico promovido em 2010/2011 que resultou na proposta vencedora da equipe composta pelos arquitetos e urbanistas Matheus Gorovitz (coordenador), Cláudia Garcia, Eder Alencar e Ana Carolina Vaz, que apresentou como solução a implementação de um grande complexo destinado a convenções, que abrigue ainda espaços para hospedagem e alimentação.\n\nA intenção da proposta é possibilitar à universidade ampliar sua participação no circuito de eventos científicos e culturais do país e oferecer à comunidade maior acesso ao conhecimento e participação no debate das novas ideias.\n\nA Praça Maior é composta por três edificações, a saber, Centro de Convenções, Aula Magna e Hotel. São complementadas e articuladas pelas áreas de paisagismo, pavimentação e sistema viário, totalizando 136.521,43m² de área ocupada.\n\nConsiderando o elevado custo estimado da construção do complexo em sua totalidade, opta-se por edificar o complexo em etapas, elegendo-se inicar pela Aula Magna, visto que representa uma parcela do programa de necessidades que é capaz de suprir a necessidade imediata de disponibilizar espaços com características de desempenho adequadas à realização de eventos culturais e cerimoniais da Universidade de Brasília.\n\nA solução proposta prevê a execução parcial do projeto arquitetônico apresentado pela equipe vencedora do concurso acadêmico, com foco na execução da Aula Magna, situada na Praça Maior do Campus Universitário Darcy Ribeiro. Este espaço é composto por foyer, plateia - principal, balcão lateral, balcão superior e balcão superior lateral, cabines de som e tradução, palco, camarins, além de outras áreas técnicas e de apoio - sanitários, copa, administrativos, etc.",
-    "metaGlobal": "A construção de um espaço para grandes eventos é uma demanda histórica da Universidade de Brasília, já prevista nos croquis originais dos Arquitetos Oscar Niemeyer e Lúcio Costa.\n\nA demanda foi tema de concurso acadêmico promovido em 2010/2011 que resultou na proposta vencedora da equipe composta pelos arquitetos e urbanistas Matheus Gorovitz (coordenador), Cláudia Garcia, Eder Alencar e Ana Carolina Vaz, que apresentou como solução a implementação de um grande complexo destinado a convenções, que abrigue ainda espaços para hospedagem e alimentação.\n\nA intenção da proposta é possibilitar à universidade ampliar sua participação no circuito de eventos científicos e culturais do país e oferecer à comunidade maior acesso ao conhecimento e participação no debate das novas ideias.\n\nA Praça Maior é composta por três edificações, a saber, Centro de Convenções, Aula Magna e Hotel. São complementadas e articuladas pelas áreas de paisagismo, pavimentação e sistema viário, totalizando 136.521,43m² de área ocupada.\n\nConsiderando o elevado custo estimado da construção do complexo em sua totalidade, opta-se por edificar o complexo em etapas, elegendo-se inicar pela Aula Magna, visto que representa uma parcela do programa de necessidades que é capaz de suprir a necessidade imediata de disponibilizar espaços com características de desempenho adequadas à realização de eventos culturais e cerimoniais da Universidade de Brasília.\n\nA solução proposta prevê a execução parcial do projeto arquitetônico apresentado pela equipe vencedora do concurso acadêmico, com foco na execução da Aula Magna, situada na Praça Maior do Campus Universitário Darcy Ribeiro. Este espaço é composto por foyer, plateia - principal, balcão lateral, balcão superior e balcão superior lateral, cabines de som e tradução, palco, camarins, além de outras áreas técnicas e de apoio - sanitários, copa, administrativos, etc.",
-    "dataInicialPrevista": "2025-01-02",
-    "dataFinalPrevista": "2030-01-02",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-26",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "A obra está prevista no Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685), constante nos autos do  SEI 23106.065389/2021-99. \n\nEsta obra se enquadra no critério de priorização Ampliação da Infraestrutura Edilícia do aludido plano.",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-26",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA EDUCAÇÃO",
-        "codigo": 244
-      },
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "0101000000179F02603CEF47C07B203301A4862FC0",
-        "dataCriacao": "2024-12-26",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-26",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "Campus Darcy RIbeiro",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 90048336.04
-      }
-    ],
-    "latitude": -15.7629700064574,
-    "longitude": -47.86903
-  },
-  {
-    "idUnico": "50791.53-30",
-    "nome": " Obra de Construção do Edifício da Faculdade de Educação 7",
-    "cep": null,
-    "endereco": null,
-    "descricao": " Obra de Construção do Edifício da Faculdade de Educação 7",
-    "funcaoSocial": "A necessidade decorre da demanda pela ampliação do espaço físico da Faculdade de Educação - FE - que permaneceu inalterada desde a conclusão da FE-1, FE-3 e FE-5.\n\nDiante da demanda, a FE constituiu, por meio do Ato 22 (Id. 9656701), a Comissão de Reestruturação dos Espaços Físicos da Faculdade de Educação da Universidade de Brasília com o objetivo de requerer estudos das plantas originais dos prédios da FE, visita aos diferentes espaços que compõem as áreas internas e externas aos prédios da FE, medições, mapeamento e desenho de croquis com a atual organização espacial e as respectivas medidas, desenhos das plantas baixas, consultas, estudos e análises que fundamentarão o parecer de reestruturação com as eventuais sugestões, pontos de atenção, de readequação/manutenção ou mudanças.\n\nA comissão realizou o levantamento arquitetônico dos espaços internos e adjacências por essa comissão e que para o início dos trabalhos, precisamos de informações atualizadas sobre o atual uso de todos os espaços dos 3 prédios que compõem a Faculdade de Educação para compor os autos desse processo e para apoiar as atividades de estudo e análise dos espaços.\n\nAlém disso, a comissão realizou:\n\n1) O levantamento de alocação e usos dos espaços físicos das unidades / prédios da Faculdade de Educação, conforme o uso e disponibilidade nas respectivas unidades institucionais e organizacionais da Faculdade de Educação elencadas a seguir:\n\n2) Ensalamento dos Prédios da FE-01, FE-03, FE-05, contendo a alocação das aulas da Graduação e da Pós-Graduação do semestre em curso e o respectivo número/endereço da sala.\n\n3) Ensalamento das salas dos professores de cada departamento da FE (MTC, PGE e TEF) com a designação das salas ocupadas para cada professor efetivo e temporário, se for o caso, bem como das salas ocupadas com materiais de professores aposentados, desligados e/ou falecidos, além de eventuais salas de professores que não estejam ocupadas com ou sem previsão/destinação de ocupação.\n",
-    "metaGlobal": "A elaboração dos estudos técnicos preliminares constitui a primeira etapa do planejamento de uma contratação (planejamento preliminar) e serve essencialmente para: assegurar a viabilidade técnica da contratação, bem como o tratamento de seu impacto ambiental; e embasar o termo de referência ou o projeto básico, que somente é elaborado se a contratação for considerada viável. Está disciplinada na Instrução Normativo Nº 40, de 22 maio de 2020, do Ministério da Economia.\n\nÉ na elaboração dos estudos técnicos preliminares que diversos aspectos devem ser levantados para que os gestores certifiquem-se de que existe uma necessidade de negócio claramente definida, há condições de atendê-la, os riscos de atendê-la são gerenciáveis e os resultados pretendidos com a contratação valem o preço estimado inicialmente.\n\nO objeto desta contratação é obra de construção do edifício FE-7, localizado no Setor Centro do Campus Universitário Darcy Ribeiro da Universidade de Brasília, em Brasília, Distrito Federal, conforme projeto e especificações técnicas.",
-    "dataInicialPrevista": "2025-01-07",
-    "dataFinalPrevista": "2028-01-07",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": "A demanda em tela receberá recursos originários da Emenda de Bancada nº 71080011, constante da Lei Orçamentária Anual de 2024, foi destinada à FE (Ofício 04/2024 Dep. Prof. Reginaldo Veras 10923037 - SEI 23106.014910/2024-72), sendo obrigatória a execução orçamentária e financeira da Emenda de bancada, conforme previsto nos §§ 11 e 12, art. 166 da Constituição Federal de 1988 e no art. 77, da Lei nº 14.791, de 29 de dezembro de 2023 – Lei de Diretrizes Orçamentárias – LDO.",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "CAMARA DOS DEPUTADOS",
-        "codigo": 1000
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000000F289B7285EF47C033ECF418CA892FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "secretaria de infraestrutura",
-        "enderecoAreaExecutora": "Campus Darcy",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 11996600.81
-      }
-    ],
-    "latitude": -15.7691200064638,
-    "longitude": -47.87126
-  },
-  {
-    "idUnico": "50824.53-27",
-    "nome": "CAEP 2° Etapa",
-    "cep": null,
-    "endereco": null,
-    "descricao": "CAEP 2° Etapa",
-    "funcaoSocial": "CAEP 2° Etapa",
-    "metaGlobal": "CAEP 2° Etapa",
-    "dataInicialPrevista": "2013-11-21",
-    "dataFinalPrevista": "2015-02-14",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "010100000088635DDC46EF47C0E63E42293F892FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "campus darcy ribeiro ",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1105012.28
-      }
-    ],
-    "latitude": -15.7680600064627,
-    "longitude": -47.86935
-  },
-  {
-    "idUnico": "5083.53-46",
-    "nome": "CENARGEN - Quarentena Vegetal",
-    "cep": "70.770-917",
-    "endereco": "Parque Estação Biológica, PqEB, Av. W5 Norte (final) Caixa Postal 02372 – Brasília, DF – CEP 70770-917",
-    "descricao": "Alteração contratual para acréscimo de serviços no contrato firmado entre Embrapa Recursos Genéticos e Biotecnologia e a Construvia Serviços e Reformas Prediais Ltda para a Finalização do Prédio Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia, na licitação da Embrapa n° 002\\2020, com o número processo SEI 21195.002282/2020-71, contrato nº 22200.21/0008-0.",
-    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
-    "metaGlobal": "Alteração contratual para acréscimo de serviços no contrato firmado entre Embrapa Recursos Genéticos e Biotecnologia e a Construvia Serviços e Reformas Prediais Ltda para a Finalização do Prédio Quarentena Vegetal, situado na Embrapa Recursos Genéticos e Biotecnologia, na licitação da Embrapa n° 002\\2020, com o número processo SEI 21195.002282/2020-71, contrato nº 22200.21/0008-0.",
-    "dataInicialPrevista": "2021-12-31",
-    "dataFinalPrevista": "2022-03-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": "2024-02-02",
-    "dataCadastro": "2021-12-08",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Concluída",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2024-02-02",
-    "tomadores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "executores": [
-      {
-        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
-        "codigo": 25
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
-        "codigo": 14
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000005F650608B5F347C06368D44C69752FC0",
-        "dataCriacao": "2021-12-08",
-        "origem": "cipiws",
-        "dataMetadado": "2021-12-08",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": null,
-        "enderecoAreaExecutora": null,
-        "cepAreaExecutora": null,
-        "paisAreaExecutora": null
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 94595.09
-      }
-    ],
-    "latitude": -15.7293190011298,
-    "longitude": -47.9039621382933
-  },
-  {
-    "idUnico": "50835.53-40",
-    "nome": "AMPLIAÇÃO UEP-FUP",
-    "cep": null,
-    "endereco": null,
-    "descricao": "AMPLIAÇÃO UEP-FUP",
-    "funcaoSocial": "AMPLIAÇÃO UEP-FUP",
-    "metaGlobal": "AMPLIAÇÃO UEP-FUP",
-    "dataInicialPrevista": "2014-05-08",
-    "dataFinalPrevista": "2015-03-04",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000003108AC1C5AD447C04E6F83F38E332FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de infraestrutura",
-        "enderecoAreaExecutora": "Campus darcy ribeiro",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1257464.96
-      }
-    ],
-    "latitude": -15.6007000062888,
-    "longitude": -47.659
-  },
-  {
-    "idUnico": "50842.53-49",
-    "nome": "ALOJAMENTO FUP",
-    "cep": null,
-    "endereco": null,
-    "descricao": "ALOJAMENTO FUP",
-    "funcaoSocial": "ALOJAMENTO FUP",
-    "metaGlobal": "ALOJAMENTO FUP",
-    "dataInicialPrevista": "2011-10-14",
-    "dataFinalPrevista": "2014-06-15",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000003108AC1C5AD447C04E6F83F38E332FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de infraestrutura",
-        "enderecoAreaExecutora": "Campus darcy ribeiro",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1786212.56
-      }
-    ],
-    "latitude": -15.6007000062888,
-    "longitude": -47.659
-  },
-  {
-    "idUnico": "50852.53-06",
-    "nome": "Ar Condicionado Ilhas FAC",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Contratação de empresa especializada para execução da obra de instalação de ar-condicionado das ilhas de edição da Faculdade de Comunicação- FAC, Térreo, Entrevigas 678 a 690, no bloco \"A\" do edifício Instituto Central de Ciências - ICC, localizado no Campus Universitário Darcy Ribeiro, em Brasília,DF",
-    "funcaoSocial": "Contratação de empresa especializada para execução da obra de instalação de ar-condicionado das ilhas de edição da Faculdade de Comunicação- FAC, Térreo, Entrevigas 678 a 690, no bloco \"A\" do edifício Instituto Central de Ciências - ICC, localizado no Campus Universitário Darcy Ribeiro, em Brasília,DF",
-    "metaGlobal": "Contratação de empresa especializada para execução da obra de instalação de ar-condicionado das ilhas de edição da Faculdade de Comunicação- FAC, Térreo, Entrevigas 678 a 690, no bloco \"A\" do edifício Instituto Central de Ciências - ICC, localizado no Campus Universitário Darcy Ribeiro, em Brasília,DF",
-    "dataInicialPrevista": "2011-12-21",
-    "dataFinalPrevista": "2012-12-21",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-12-27",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-12-27",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
-        "codigo": 26271
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 8,
-        "descricao": "Educação",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 8
-      }
-    ],
-    "geometrias": [
-      {
-        "geometria": "01010000007A53910A63EF47C01928FB5F93852FC0",
-        "dataCriacao": "2024-12-27",
-        "origem": "Manual",
-        "dataMetadado": "2024-12-27",
-        "infoAdicionais": "",
-        "datum": "SIRGAS 2000",
-        "nomeAreaExecutora": "Secretaria de Infraestrutura",
-        "enderecoAreaExecutora": "campus darcy ",
-        "cepAreaExecutora": "70910-900",
-        "paisAreaExecutora": "Brasil"
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 56996.8
-      }
-    ],
-    "latitude": -15.7608900064552,
-    "longitude": -47.87021
   },
   {
     "idUnico": "50856.53-21",
@@ -39920,13 +39187,13 @@
     ],
     "tipos": [
       {
-        "id": 1,
-        "descricao": "Segurança Pública",
+        "id": 5,
+        "descricao": "Administrativo",
         "idEixo": 1
       },
       {
-        "id": 5,
-        "descricao": "Administrativo",
+        "id": 1,
+        "descricao": "Segurança Pública",
         "idEixo": 1
       }
     ],
@@ -40750,9 +40017,9 @@
     ],
     "geometrias": [
       {
-        "geometria": "01010000001C25AFCE31F847C0ED07621895842FC0",
+        "geometria": "0103000000010000000500000045036F07F1F747C099A7665071832FC0A4D434A827F847C077D45C38F7852FC0AAD414EEB5F847C092E8A43442852FC05CD9374AA1F847C03D94840F51842FC045036F07F1F747C099A7665071832FC0",
         "dataCriacao": "2025-03-20",
-        "origem": "Manual",
+        "origem": "Vetorizacao",
         "dataMetadado": "2025-03-20",
         "infoAdicionais": "Localização do Novo Hospital Militar de Área de Brasília",
         "datum": "SIRGAS 2000",
@@ -40774,9 +40041,9 @@
         "paisAreaExecutora": "Brasil"
       },
       {
-        "geometria": "0103000000010000000500000045036F07F1F747C099A7665071832FC0A4D434A827F847C077D45C38F7852FC0AAD414EEB5F847C092E8A43442852FC05CD9374AA1F847C03D94840F51842FC045036F07F1F747C099A7665071832FC0",
+        "geometria": "01010000001C25AFCE31F847C0ED07621895842FC0",
         "dataCriacao": "2025-03-20",
-        "origem": "Vetorizacao",
+        "origem": "Manual",
         "dataMetadado": "2025-03-20",
         "infoAdicionais": "Localização do Novo Hospital Militar de Área de Brasília",
         "datum": "SIRGAS 2000",
@@ -40791,9 +40058,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 4974721.71
       }
-    ],
-    "latitude": -15.7589500064532,
-    "longitude": -47.93902
+    ]
   },
   {
     "idUnico": "52175.53-50",
@@ -43929,14 +43194,14 @@
     ],
     "subTipos": [
       {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 5
-      },
-      {
         "id": 84,
         "descricao": "Educação",
         "idTipo": 8
+      },
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
       }
     ],
     "geometrias": [
@@ -47498,13 +46763,13 @@
     ],
     "subTipos": [
       {
-        "id": 66,
-        "descricao": "Refino - Modernização e Ampliação",
+        "id": 75,
+        "descricao": "Urbanização",
         "idTipo": 30
       },
       {
-        "id": 75,
-        "descricao": "Urbanização",
+        "id": 66,
+        "descricao": "Refino - Modernização e Ampliação",
         "idTipo": 30
       },
       {
@@ -50806,13 +50071,13 @@
     ],
     "subTipos": [
       {
-        "id": 39,
-        "descricao": "Empreendimento de Transmissão de Energia Elétrica",
+        "id": 76,
+        "descricao": "Usina",
         "idTipo": 31
       },
       {
-        "id": 76,
-        "descricao": "Usina",
+        "id": 39,
+        "descricao": "Empreendimento de Transmissão de Energia Elétrica",
         "idTipo": 31
       }
     ],
@@ -51246,13 +50511,13 @@
     ],
     "subTipos": [
       {
-        "id": 105,
-        "descricao": "Reforma/adequação da infraestrutura aeronáutica civil",
+        "id": 104,
+        "descricao": "Reforma/adequação da infraestrutura aeroportuária",
         "idTipo": 27
       },
       {
-        "id": 104,
-        "descricao": "Reforma/adequação da infraestrutura aeroportuária",
+        "id": 105,
+        "descricao": "Reforma/adequação da infraestrutura aeronáutica civil",
         "idTipo": 27
       }
     ],
