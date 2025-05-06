@@ -1542,8 +1542,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": -15.9934600067011,
-    "longitude": -48.05417
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "21342.53-97",
@@ -1628,8 +1628,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": -15.8628300065624,
-    "longitude": -48.05234
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "21345.53-56",
@@ -2088,8 +2088,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": -15.8301096184826,
-    "longitude": -47.9219425224331
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "19176.53-10",
@@ -2181,8 +2181,8 @@
         "valorInvestimentoPrevisto": 2870210
       }
     ],
-    "latitude": -16.04738,
-    "longitude": -48.14698
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4539.53-84",
@@ -2348,8 +2348,8 @@
         "valorInvestimentoPrevisto": 811390.99
       }
     ],
-    "latitude": -15.65351,
-    "longitude": -47.62381
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "20285.53-58",
@@ -2434,8 +2434,8 @@
         "valorInvestimentoPrevisto": 769000
       }
     ],
-    "latitude": -15.7811300064764,
-    "longitude": -47.89285
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51844.53-30",
@@ -2510,8 +2510,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": -15.78369,
-    "longitude": -47.880612
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51946.53-11",
@@ -3097,8 +3097,8 @@
         "valorInvestimentoPrevisto": 7500000
       }
     ],
-    "latitude": -15.7957300064917,
-    "longitude": -47.86865
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "20766.53-40",
@@ -3250,7 +3250,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 25848700
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42911.53-47",
@@ -3907,8 +3909,8 @@
         "valorInvestimentoPrevisto": 725000
       }
     ],
-    "latitude": -15.87618,
-    "longitude": -48.097473
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "19804.53-74",
@@ -3988,8 +3990,8 @@
         "valorInvestimentoPrevisto": 7105978.54
       }
     ],
-    "latitude": -15.7759000064709,
-    "longitude": -47.87097
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "21001.53-67",
@@ -4064,8 +4066,8 @@
         "valorInvestimentoPrevisto": 197546.71
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.6987000063903,
+    "longitude": -47.84679
   },
   {
     "idUnico": "4048.53-80",
@@ -4993,7 +4995,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 1833947.81
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4196.53-05",
@@ -5645,8 +5649,8 @@
         "valorInvestimentoPrevisto": 5000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8024200064987,
+    "longitude": -47.88117
   },
   {
     "idUnico": "4652.53-69",
@@ -7521,8 +7525,8 @@
         "valorInvestimentoPrevisto": 133263.72
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7709200064657,
+    "longitude": -47.87112
   },
   {
     "idUnico": "1713.53-42",
@@ -8365,8 +8369,8 @@
         "valorInvestimentoPrevisto": 6599922.21
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7968537256939,
+    "longitude": -47.867159986888
   },
   {
     "idUnico": "971.53-58",
@@ -8469,8 +8473,8 @@
         "valorInvestimentoPrevisto": 118651009.35
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7967541515724,
+    "longitude": -47.8671152024612
   },
   {
     "idUnico": "971.53-58",
@@ -9291,8 +9295,8 @@
         "valorInvestimentoPrevisto": 1514933.28
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8006176359166,
+    "longitude": -47.9350297057136
   },
   {
     "idUnico": "1897.53-66",
@@ -9367,8 +9371,8 @@
         "valorInvestimentoPrevisto": 32525000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7755300064705,
+    "longitude": -47.90838
   },
   {
     "idUnico": "6129.53-60",
@@ -9452,8 +9456,8 @@
         "valorInvestimentoPrevisto": 105028.8
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7919370012059,
+    "longitude": -47.9139064272927
   },
   {
     "idUnico": "6129.53-60",
@@ -10169,8 +10173,8 @@
         "valorInvestimentoPrevisto": 7732907.61
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8267700065243,
+    "longitude": -47.9396
   },
   {
     "idUnico": "2258.53-36",
@@ -10324,8 +10328,8 @@
         "valorInvestimentoPrevisto": 139328.54
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8043700065008,
+    "longitude": -47.88813
   },
   {
     "idUnico": "1989.53-01",
@@ -11183,8 +11187,8 @@
         "valorInvestimentoPrevisto": 201404626.7
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7900370292485,
+    "longitude": -47.8751782010434
   },
   {
     "idUnico": "2199.53-07",
@@ -12007,8 +12011,8 @@
         "valorInvestimentoPrevisto": 2356316.65
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7783800064735,
+    "longitude": -47.87258
   },
   {
     "idUnico": "2335.53-87",
@@ -12639,8 +12643,8 @@
         "valorInvestimentoPrevisto": 34190786
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7042,
+    "longitude": -47.37381
   },
   {
     "idUnico": "2854.53-71",
@@ -12811,8 +12815,8 @@
         "valorInvestimentoPrevisto": 5806286.87
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7095700064016,
+    "longitude": -47.81818
   },
   {
     "idUnico": "2894.53-64",
@@ -13393,8 +13397,8 @@
         "valorInvestimentoPrevisto": 12500
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.831210006529,
+    "longitude": -47.93245
   },
   {
     "idUnico": "5915.53-05",
@@ -13559,8 +13563,8 @@
         "valorInvestimentoPrevisto": 605400
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7702025029459,
+    "longitude": -47.8734051018268
   },
   {
     "idUnico": "51335.53-69",
@@ -14311,8 +14315,8 @@
         "valorInvestimentoPrevisto": 8996666.99
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8031796792296,
+    "longitude": -47.8854616659279
   },
   {
     "idUnico": "6471.53-60",
@@ -14397,8 +14401,8 @@
         "valorInvestimentoPrevisto": 445305
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8052200065017,
+    "longitude": -47.88292
   },
   {
     "idUnico": "6472.53-27",
@@ -15204,8 +15208,8 @@
         "valorInvestimentoPrevisto": 3601861.36
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7709210628315,
+    "longitude": -47.920492511713
   },
   {
     "idUnico": "7573.53-63",
@@ -17795,8 +17799,8 @@
         "valorInvestimentoPrevisto": 571101.17
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8585508117482,
+    "longitude": -47.9030942954581
   },
   {
     "idUnico": "29308.53-19",
@@ -17881,8 +17885,8 @@
         "valorInvestimentoPrevisto": 4136000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7786700064738,
+    "longitude": -47.87207
   },
   {
     "idUnico": "29316.53-73",
@@ -17961,8 +17965,8 @@
         "valorInvestimentoPrevisto": 44535697
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8157300065127,
+    "longitude": -47.94214
   },
   {
     "idUnico": "29406.53-84",
@@ -18491,9 +18495,7 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 10054837.82
       }
-    ],
-    "latitude": null,
-    "longitude": null
+    ]
   },
   {
     "idUnico": "29738.53-03",
@@ -18568,8 +18570,8 @@
         "valorInvestimentoPrevisto": 19000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8301300065279,
+    "longitude": -47.93358
   },
   {
     "idUnico": "29750.53-97",
@@ -18644,8 +18646,8 @@
         "valorInvestimentoPrevisto": 2528253.41
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.7900608177654,
+    "longitude": -47.8752396844013
   },
   {
     "idUnico": "29756.53-15",
@@ -41401,6 +41403,866 @@
     ],
     "latitude": 1.58696000005938,
     "longitude": -47.89991
+  },
+  {
+    "idUnico": "52346.53-61",
+    "nome": "Estacionamento Externo PFBRA",
+    "cep": "71.686-670",
+    "endereco": "Rodovia 465 Km 4, São Sebastião.",
+    "descricao": "Obra de construção de Estacionamento externo na penitenciária federal em Brasília-DF.",
+    "funcaoSocial": "Segurança Pública",
+    "metaGlobal": "Plano Nacional de Segurança Pública",
+    "dataInicialPrevista": "2025-04-21",
+    "dataFinalPrevista": "2025-09-29",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2025-04-09",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2025-04-09",
+    "tomadores": [
+      {
+        "nome": "FUNDO PENITENCIARIO NACIONAL",
+        "codigo": 30907
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+        "codigo": 316
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+        "codigo": 316
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000D4F19881CAE847C08DEB71EE94CE2FC0",
+        "dataCriacao": "2025-04-09",
+        "origem": "Manual",
+        "dataMetadado": "2025-04-09",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria Nacional de Políticas Penais",
+        "enderecoAreaExecutora": "Setor Comercial Norte Q 4 Edifício Multibrasil Corporate - Brasília",
+        "cepAreaExecutora": "70714-903",
+        "paisAreaExecutora": "Brasil"
+      },
+      {
+        "geometria": "01030000000100000006000000CD567E82C6E847C057DAB1B48FCE2FC0CD567E82C6E847C0D5EB9FC6B6CE2FC0C6667DF2DDE847C07080C4CABFCE2FC0C0E67F5AD5E847C01930F7F90FCE2FC0C7B67D52B5E847C0ECE230801DCE2FC0CD567E82C6E847C057DAB1B48FCE2FC0",
+        "dataCriacao": "2025-04-09",
+        "origem": "Vetorizacao",
+        "dataMetadado": "2025-04-09",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "Secretaria Nacional de Políticas Penais",
+        "enderecoAreaExecutora": "Setor Comercial Norte Q 4 Edifício Multibrasil Corporate - Brasília",
+        "cepAreaExecutora": "70714-903",
+        "paisAreaExecutora": "Brasil"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 944996.81
+      }
+    ],
+    "latitude": -15.9034800066054,
+    "longitude": -47.81868
+  },
+  {
+    "idUnico": "5241.53-97",
+    "nome": "CFT Campus Gama",
+    "cep": "72.429-005",
+    "endereco": "Lote 01, DF 480, Setor de Múltiplas Atividades",
+    "descricao": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de pessoa jurídica especializada na prestação de serviço de construção civil\n- incluindo todos os materiais, equipamentos e mão de obra, necessários à execução\nde uma edificação onde será instalado o Centro de Formação Tecnológica – CFT do\nCampus Gama do Instituto Federal de Brasília- IFB, conforme condições, quantidades e\nexigências estabelecidas neste Edital e seus anexos",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Gama principalmente nos eixos de logística/Administração e Tecnologo em alimentos",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-11",
+    "dataFinalPrevista": "2022-09-16",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-13",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-13",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000003BDF4F8D970648C026135A0725FC2FC0",
+        "dataCriacao": "2021-12-13",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-13",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2600000
+      }
+    ],
+    "latitude": -15.9924700067,
+    "longitude": -48.0515
+  },
+  {
+    "idUnico": "5246.53-03",
+    "nome": "obra de construção do Edifício da Faculdade de Agronomia e Medicina Veterinária - FAV",
+    "cep": "",
+    "endereco": "",
+    "descricao": "O objeto desta contratação é a obra do Edifício da Faculdade de Agronomia e Medicina Veterinária - FAV, localizado no Setor Norte do Campus Universitário Darcy Ribeiro da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas.",
+    "funcaoSocial": "rata-se de demanda de ampliação de espaço físico da Faculdade de Agronomia e Medicina Veterinária - FAV, solicitada desde 2006 em decorrência do incremento no número de docentes, discentes, disciplinas e laboratórios;\n\nA construção de um edifício para a FAV é necessária para que a unidade seja remanejada do Instituto Central de Ciências - ICC, onde atualmente se encontra alojada em uma edificação cuja infraestrutura é inadequada para as atividades que são realizadas;\n\nA construção da edificação consolidará um complexo da FAV no Hospital Veterinário de Pequenos Animais - Hvetinho - e possibilitará integrar as atividades acadêmicas e administrativas que atualmente estão espacialmente segregadas;\n\nA construção de uma sede própria constitui medida necessária para viabilizar a implementação de ações de planejamento institucional no contexto do Plano de Reordenamento do ICC e a respectiva designação a área atualmente ocupada pela FAV a outra unidade de modo que também possa ampliar sua área com vistas ao ensino, pesquisa e extensão.",
+    "metaGlobal": "Trata-se de demanda de ampliação de espaço físico da Faculdade de Agronomia e Medicina Veterinária - FAV, solicitada desde 2006 em decorrência do incremento no número de docentes, discentes, disciplinas e laboratórios;\n\nA construção de um edifício para a FAV é necessária para que a unidade seja remanejada do Instituto Central de Ciências - ICC, onde atualmente se encontra alojada em uma edificação cuja infraestrutura é inadequada para as atividades que são realizadas;\n\nA construção da edificação consolidará um complexo da FAV no Hospital Veterinário de Pequenos Animais - Hvetinho - e possibilitará integrar as atividades acadêmicas e administrativas que atualmente estão espacialmente segregadas;\n\nA construção de uma sede própria constitui medida necessária para viabilizar a implementação de ações de planejamento institucional no contexto do Plano de Reordenamento do ICC e a respectiva designação a área atualmente ocupada pela FAV a outra unidade de modo que também possa ampliar sua área com vistas ao ensino, pesquisa e extensão.",
+    "dataInicialPrevista": "2022-01-17",
+    "dataFinalPrevista": "2023-06-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-13",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685)",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-13",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000E3361AC05BF047C0387391643B7F2FC0",
+        "dataCriacao": "2021-12-13",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-13",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 21129194.03
+      }
+    ],
+    "latitude": -15.7485000064422,
+    "longitude": -47.8778
+  },
+  {
+    "idUnico": "5264.53-25",
+    "nome": "obra construção do Espaço para pesquisa em primeira infância",
+    "cep": "",
+    "endereco": "",
+    "descricao": "objeto é a obra construção do Espaço para pesquisa em primeira infância, localizado no Setor Norte do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+    "funcaoSocial": "A necessidade em tela decorre de demanda formulada pela Faculdade de Educação - FE, conforme documento SEI N. 6587014, constante nos autos do processo N. 23106.023644/2019-10.\n\nO Espaço para Pesquisa em Primeira Infância pretende ampliar a pesquisa básica e aplicada na formação de professores da Educação Infantil para impactar as práticas cotidianas de ensino e cuidado nas Creches e Escolas Infantis no contexto local e nacional. Também pretende contribuir com pesquisas no desenvolvimento de Políticas Públicas que ampliem as possibilidades de impacto da Educação Infantil em todas as dimensões da sociedade.\n\nAs pesquisas serão baseadas em evidências a partir de modelos de pesquisa que utilizam tanto processos de registro, de análise e de interpretação de dados. A reflexão sobre todas as dimensões que as necessidades do país demandam deverão ser consideradas. A Educação com espaço democrático e de qualidade, atrelado aos aspectos técnicos específicos que devem fazer parte da Educação Infantil é um dos elementos mais relevantes da proposta do EPPI. Aspectos Cognitivos, Afetivos, Legais, Inclusivos, de Justiça, Saúde, Família são eixos norteadores do que o EPPI procura desenvolver. Ao mesmo tempo pretende se tornar em um espaço de criação, inovação, transformação e, especialmente de execução e difusão de conhecimentos para as comunidades;\n\nO EPPI pretende ser um espaço de circulação de pesquisadores nacionais e internacionais que participem de ações formativas, de pesquisa e de extensão e gerar recursos de pesquisa para transformar e inovar nos processos Formativos e na geração de Políticas Públicas em Primeira Infância. Além disso, propõe a ser um espaço para ações formativas, de pesquisa, de extensão e de intercambialidade de conhecimentos entre diversas áreas do conhecimento, dentro e fora da Universidade, sob o eixo temático “Primeira Infância”.\n\n",
+    "metaGlobal": "Assim, a proposta tem como principal objetivo desenvolver um espaço interdisciplinar de Pesquisa Básica e Aplicada que permita a implementação de ações que cubram as diversas esferas e dimensões que envolvem as condições de educação e cuidado das crianças na idade de 0 a 6 anos. Visa, ainda, propiciar espaços de pesquisa e de formação sobre práticas, formas de ensino e cuidado, desenvolvimento integral da criança e inserção da família e do contexto aos aspectos da formação na primeira infância.",
+    "dataInicialPrevista": "2022-01-15",
+    "dataFinalPrevista": "2023-01-15",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-14",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685)",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-14",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000CF4E0647C9EF47C0CA4D5ABE13832FC0",
+        "dataCriacao": "2021-12-14",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-15",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 6879573.36
+      }
+    ],
+    "latitude": -15.7560100064501,
+    "longitude": -47.87333
+  },
+  {
+    "idUnico": "5271.53-01",
+    "nome": "construção da Creche da UnB, localizado no Setor Norte do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas",
+    "cep": "",
+    "endereco": "",
+    "descricao": "construção da Creche da UnB, localizado no Setor Norte do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas",
+    "funcaoSocial": "A necessidade em tela decorre de demanda formulada pela Faculdade de Educação - FE, conforme documento SEI N. 6586942, constante nos autos do processo N. 23106.023644/2019-10.\n\nA construção da creche é uma antiga reivindicação da comunidade da UnB, cuja demanda foi encaminhadas pela administração superior da universidade ao Governo do Distrito Federal - GDF  em diversas oportunidades, com o intuito de construir uma creche-escola, com estagiários próprios da instituição, uma proposta pedagógica inovadora e arquitetura própria.\n\nO espaço atenderá crianças de 0 a 6 anos, com espaços pensados para as necessidades de cada idade, com o intuito de contribuir para seu desenvolvimento.\n\nAs ações, práticas e processos da Escola Infantil pretendem ser atreladas aos modelos baseados em evidências desenvolvidos, ou validados, pelo Espaço de pesquisa em primeira infância.\n\nAssim, a creche será um espaço para desenvolver as condições humanas, cognitivas, afetivas, relacionais, éticas e estéticas da criança dentro de um modelo educacional de permanente reflexão sobre suas práticas, estratégias, fundamentos e modos de agir.\n\nAs necessidades para o espaço foram apresentadas à INFRA pela Faculdade de Educação em conjunto com outras unidades, com o objetivo de criar um espaço para aplicação prática das pesquisas conduzidas, mas principalmente, ser um espaço formador de referências onde crianças possam vivenciar e aprender.\n\nPortanto, para viabilizar a implementação do modelo pedagógico proposto, faz-se necessário construir um novo edifício pensado para atender às necessidades específicas do público infantil que frequentará as dependências da edificação.",
+    "metaGlobal": "A necessidade em tela decorre de demanda formulada pela Faculdade de Educação - FE, conforme documento SEI N. 6586942, constante nos autos do processo N. 23106.023644/2019-10.\n\nA construção da creche é uma antiga reivindicação da comunidade da UnB, cuja demanda foi encaminhadas pela administração superior da universidade ao Governo do Distrito Federal - GDF  em diversas oportunidades, com o intuito de construir uma creche-escola, com estagiários próprios da instituição, uma proposta pedagógica inovadora e arquitetura própria.\n\nO espaço atenderá crianças de 0 a 6 anos, com espaços pensados para as necessidades de cada idade, com o intuito de contribuir para seu desenvolvimento.\n\nAs ações, práticas e processos da Escola Infantil pretendem ser atreladas aos modelos baseados em evidências desenvolvidos, ou validados, pelo Espaço de pesquisa em primeira infância.\n\nAssim, a creche será um espaço para desenvolver as condições humanas, cognitivas, afetivas, relacionais, éticas e estéticas da criança dentro de um modelo educacional de permanente reflexão sobre suas práticas, estratégias, fundamentos e modos de agir.\n\nAs necessidades para o espaço foram apresentadas à INFRA pela Faculdade de Educação em conjunto com outras unidades, com o objetivo de criar um espaço para aplicação prática das pesquisas conduzidas, mas principalmente, ser um espaço formador de referências onde crianças possam vivenciar e aprender.\n\nPortanto, para viabilizar a implementação do modelo pedagógico proposto, faz-se necessário construir um novo edifício pensado para atender às necessidades específicas do público infantil que frequentará as dependências da edificação.",
+    "dataInicialPrevista": "2022-01-15",
+    "dataFinalPrevista": "2023-01-15",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-15",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685)",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-15",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000008E1EBFB7E9EF47C0446B684278842FC0",
+        "dataCriacao": "2021-12-15",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-16",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 5178264.33
+      }
+    ],
+    "latitude": -15.758730006453,
+    "longitude": -47.87432
+  },
+  {
+    "idUnico": "5272.53-79",
+    "nome": "Centro Odontológico PMDF",
+    "cep": null,
+    "endereco": "Setor Policial Sul, lote 04, Asa Sul",
+    "descricao": "Contratação de empresa especializada em arquitetura/engenharia civil, para a execução do remanescete da obra de Reforma com Ampliação do Centro Odontológico da Polícia Militar do Distrito Federal no Setor Policial.",
+    "funcaoSocial": "Permitir o desenvolvimento do atendimento odontológico nos padrões esperados de qualidade e segurança, dotando a Polícia Militar do Distrito Federal um serviço odontológico de excelência, objetivando promover a melhoria da saúde do efetivo da PMDF, de seus dependentes e de seus pensionistas.",
+    "metaGlobal": "Reforma com ampliação do Centro Odontológico da Polícia Militar do Distrito Federal;",
+    "dataInicialPrevista": "2024-09-18",
+    "dataFinalPrevista": "2026-09-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-15",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2021-12-15",
+    "tomadores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "executores": [
+      {
+        "nome": "Polícia Militar do Distrito Federal",
+        "codigo": 8942610000116
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
+        "codigo": 25915
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000F7C77BD5CAF847C08B74DD4929A82FC0",
+        "dataCriacao": "2024-09-18",
+        "origem": "cipiws",
+        "dataMetadado": "2024-09-18",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": "POLÍCIA MILITAR DO DISTRITO FEDERAL",
+        "enderecoAreaExecutora": "SETOR POLICIAL AREA 4 ",
+        "cepAreaExecutora": "70610-210",
+        "paisAreaExecutora": "BRASÍL"
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 18577430.47
+      }
+    ],
+    "latitude": -15.8284400065261,
+    "longitude": -47.94369
+  },
+  {
+    "idUnico": "5297.53-31",
+    "nome": " Contratação dos Projetos Básicos e Executivos da nova Sede do Instituto Nacional de Identificação - INI da Polícia Federal",
+    "cep": "70.610-902",
+    "endereco": "SAIS Quadra 7 Lote 23 s/n, Estr. St. Policial Militar - Sul, DF, 70610-902",
+    "descricao": " Contratação dos Projetos Básicos e Executivos da nova Sede do Instituto Nacional de Identificação - INI da Polícia Federal",
+    "funcaoSocial": "SEGURANÇA PUBLICA",
+    "metaGlobal": " Contratação dos Projetos Básicos e Executivos da nova Sede do Instituto Nacional de Identificação - INI da Polícia Federal",
+    "dataInicialPrevista": "2021-12-27",
+    "dataFinalPrevista": "2022-06-27",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-17",
+    "especie": "Construção",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "PLANO ANUAL DE OBRAS DA POLÍCIA FEDERAL",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-17",
+    "tomadores": [
+      {
+        "nome": "DEPARTAMENTO DE POLICIA FEDERAL/MJ",
+        "codigo": 30801
+      }
+    ],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
+        "codigo": 30108
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "DEPARTAMENTO DE POLICIA FEDERAL",
+        "codigo": 30108
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000041F163CC5DF747C0FD1B52FA27A82FC0",
+        "dataCriacao": "2021-12-17",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-17",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 236127.6
+      }
+    ],
+    "latitude": -15.8284300065261,
+    "longitude": -47.93255
+  },
+  {
+    "idUnico": "5306.53-00",
+    "nome": "OBRA DE INSTALAÇÃO DE USINA DE MINIGERAÇÃO DISTRIBUÍDA NA UNIDADE DE ENSINO E DOCÊNCIA DOS DEPARTAMENTOS DE CIÊNCIA DA INFORMAÇÃO E ESTATÍSTICA – UED CIC/EST",
+    "cep": "",
+    "endereco": "",
+    "descricao": "OBRA DE INSTALAÇÃO DE USINA DE MINIGERAÇÃO DISTRIBUÍDA NA UNIDADE DE ENSINO E DOCÊNCIA DOS DEPARTAMENTOS DE CIÊNCIA DA INFORMAÇÃO E ESTATÍSTICA – UED CIC/EST",
+    "funcaoSocial": "Justifica-se pela necessidade de modernizar e diversificar a infraestrutura da rede elétrica, reduzir os custos operacionais das edificações da Universidade de Brasília e pelo interesse em implementar ações de sustentabilidade na instituição por meio de implantação de usinas de geração de energia limpa. Essa iniciativa conta com a participação de integrantes do corpo docente da Faculdade do Gama para o desenvolvimento do projeto de instalações elétricas.\n\nSistemas fotovoltaicos produzem energia elétrica a partir de sistemas de micro e minigeração, aproveitando a insolação abundante que incide anualmente sobre o território nacional. É importante ressaltar que essa tecnologia tem baixo impacto ambiental ao longo de todo o seu ciclo de vida e contribui para o atingimento das metas de reduções de emissões de gases de efeito estufa do Brasil.\n\nNo intuito de promover tal ação, cita-se o projeto de P&D \"Eficiência Energética e Minigeração em Instituições Públicas de Educação Superior” tem como o objetivo principal a redução de entraves à implementação de projetos de Eficiência Energética (EE) e de geração própria de energia em unidades consumidoras do Setor Público, por meio da implantação de projetos pilotos em Instituições Públicas de Educação Superior, integrando ações e recursos dos programas de P&D e de eficiência energética, regulados pela Agência Nacional de Energia Elétrica (ANEEL). A CEB Distribuição (CEB-D) demonstrou interesse em participar desta iniciativa com o intuito de submeter propostas de projeto elaboradas por Instituições Públicas de Ensino Superior.\n\nDestaca-se, então, que a obra de instalação da usina solar na Unidade Acadêmica (UAC) é alinhada com estratégias de eficiência energética definidas pelos Poderes Executivo e Legislativo e visa à redução de impactos ambientais, sociais e econômicos, resultantes da operação das edificações, através da utilização de fontes de energia renováveis.",
+    "metaGlobal": "Essas estratégias visam a fomentar a geração de energia solar fotovoltaica como ferramenta de: i) geração de energia elétrica renovável e sustentável; ii) redução de gastos com energia elétrica pela população, empresas e poder público; iii) racionalização de investimentos em infraestrutura de transmissão e distribuição; iv) redução de perdas elétricas e aumento da eficiência e eficácia do Sistema Interligado Nacional; v) geração de empregos locais e de qualidade; vi) redução de emissões de gases de efeito estufa; e vii) otimização da gestão da complementariedade energética entre as diversas fontes renováveis pela utilização racional dos reservatórios de recursos hídricos de usos múltiplos.\n\nA Resolução Normativa 687 /2015 da Agência Nacional de Energia Elétrica (ANEEL) regulamenta a geração de energia e define as condições para conectar os sistemas à rede de distribuição. Segundo essa resolução, o excedente da energia produzida localmente e não consumida é lançada na rede, gerando créditos para a unidade consumidora.\n\nCita-se a Instrução Normativa IN SLTI-MP Nº 2/2014, publicada pelo Ministério do Planejamento (MPOG) que dispõe sobre o uso da Etiqueta Nacional de Conservação de Energia (ENCE). Esse sistema de etiquetagem prevê a obtenção de pontuação por bonificação, possibilitando acrescer até um ponto à pontuação geral com a justificativa e a comprovação de economia gerada em 10% com o uso de energias renováveis; 30% em cogeração ou inovações tecnológicas e; 70% de fração solar para coletores.\nPortanto, ressalta-se que esta obra é fundamental no sentido de reduzir os custos operacionais relacionados ao consumo de energia elétrica nas Unidades de Ensino e Docência (UED) e constitui uma contribuição relevante para reduzir o impacto ambiental da Universidade de Brasília.",
+    "dataInicialPrevista": "2021-01-18",
+    "dataFinalPrevista": "2021-12-18",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-17",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Essas estratégias visam a fomentar a geração de energia solar fotovoltaica como ferramenta de: i) geração de energia elétrica renovável e sustentável; ii) redução de gastos com energia elétrica pela população, empresas e poder público; iii) racionalização de investimentos em infraestrutura de transmissão e distribuição; iv) redução de perdas elétricas e aumento da eficiência e eficácia do Sistema Interligado Nacional; v) geração de empregos locais e de qualidade; vi) redução de emissões de gases de efeito estufa; e vii) otimização da gestão da complementariedade energética entre as diversas fontes renováveis pela utilização racional dos reservatórios de recursos hídricos de usos múltiplos.\n\nA Resolução Normativa 687 /2015 da Agência Nacional de Energia Elétrica (ANEEL) regulamenta a geração de energia e define as condições para conectar os sistemas à rede de distribuição. Segundo essa resolução, o excedente da energia produzida localmente e não consumida é lançada na rede, gerando créditos para a unidade consumidora.\n\nCita-se a Instrução Normativa IN SLTI-MP Nº 2/2014, publicada pelo Ministério do Planejamento (MPOG) que dispõe sobre o uso da Etiqueta Nacional de Conservação de Energia (ENCE). Esse sistema de etiquetagem prevê a obtenção de pontuação por bonificação, possibilitando acrescer até um ponto à pontuação geral com a justificativa e a comprovação de economia gerada em 10% com o uso de energias renováveis; 30% em cogeração ou inovações tecnológicas e; 70% de fração solar para coletores.\nPortanto, ressalta-se que esta obra é fundamental no sentido de reduzir os custos operacionais relacionados ao consumo de energia elétrica nas Unidades de Ensino e Docência (UED) e constitui uma contribuição relevante para reduzir o impacto ambiental da Universidade de Brasília.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-17",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      },
+      {
+        "id": 3,
+        "descricao": "Econômico"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      },
+      {
+        "id": 31,
+        "descricao": "Energia",
+        "idEixo": 3
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      },
+      {
+        "id": 39,
+        "descricao": "Empreendimento de Transmissão de Energia Elétrica",
+        "idTipo": 31
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "010100000097900F7A36EF47C0603965AD86842FC0",
+        "dataCriacao": "2021-12-17",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-20",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 572846.23
+      }
+    ],
+    "latitude": -15.758840006453,
+    "longitude": -47.86885
+  },
+  {
+    "idUnico": "5316.53-78",
+    "nome": "Muralhas PFBRA",
+    "cep": "70.297-400",
+    "endereco": "São Sebastião, Brasília - DF, ",
+    "descricao": "A execução de obras de Reforço da Segurança (Muro, Passarela, Torres de Vigilância e Posto de Controle) na Penitenciária Federal em Brasilía.",
+    "funcaoSocial": "Aumentar a segurança da unidade com a prevenção de fuga por parte da alta cúpula das facções criminosas do país.",
+    "metaGlobal": "A ampliação do nível de segurança dos perímetros externos das Penitenciárias Federais (Muro, Passarela, Torres de Vigilância, Casa de Força e Posto de Controle) de forma a prevenir a fuga de lideranças das facções criminosas.",
+    "dataInicialPrevista": "2021-03-08",
+    "dataFinalPrevista": "2022-05-02",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-20",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": true,
+    "dataSituacao": "2021-12-20",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+        "codigo": 316
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000002A91442FA3E847C019AFF37EC1CE2FC0",
+        "dataCriacao": "2021-12-20",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-23",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 24948552.41
+      }
+    ],
+    "latitude": -15.9038200066057,
+    "longitude": -47.81748
+  },
+  {
+    "idUnico": "5352.53-01",
+    "nome": "Programa de Requalificação do Arquivo Nacional - COREG",
+    "cep": "70.610-460",
+    "endereco": "Setor de Indústrias Gráficas, Quadra 6 Lote 800, Brasília",
+    "descricao": " Elaboração de Projetos Executivos  Completos de Reforma de Edificação e eventuais ampliações (arquitetura e instalações, cadernos de encargos e diretrizes, memorial descritivo, memórias de cálculo, planilha de materiais detalhadas, planilhas orçamentárias detalhadas, pesquisa de mercado na metodologia BIM.",
+    "funcaoSocial": "Elaboração de projetos executivos visando a realização de reforma na Regional do Arquivo Nacional de Brasília para recuperação das condições de habitabilidade das instalações, tendo em vista a idade avançada do prédio.",
+    "metaGlobal": "Elaboração de projeto executivo para a realização de futura reforma nas instalações da Regional do Arquivo Nacional, que possui área interna útil de aproximadamente 6.164 m2. Deverão ser previstos desde os levantamento e estudos preliminares, passando pelos anteprojetos e aprovação dos projetos legais até o desenvolvimento de projetos executivos completos, além da elaboração de estudos de viabilidade técnica e econômica, orçamentos, levantamento de quantidades de insumos e serviços, composição de preços unitários, cronogramas físico-financeiros, especificações, vistorias, laudos técnicos, pareceres e maquetes virtuais para apresentação das propostas.",
+    "dataInicialPrevista": "2022-03-01",
+    "dataFinalPrevista": "2022-08-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-21",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Contemplada na carteira de Políticas do Ministério da Justiça e Segurança Pública - Política de Gestão de Documentos e Arquivos - PGDeARQ.",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-21",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+        "codigo": 316
+      }
+    ],
+    "repassadores": [],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      },
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      },
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      },
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000543A58FFE7F447C0059A0EDE3C952FC0",
+        "dataCriacao": "2021-12-21",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-15",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 750000
+      }
+    ],
+    "latitude": -15.7914800064873,
+    "longitude": -47.91333
   },
   {
     "idUnico": "53526.53-62",
