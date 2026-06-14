@@ -487,8 +487,8 @@
         "valorInvestimentoPrevisto": 7710263.3
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.78907,
+    "longitude": -47.87927
   },
   {
     "idUnico": "4546.53-60",
@@ -631,8 +631,8 @@
         "valorInvestimentoPrevisto": 3300000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.6578800063479,
+    "longitude": -47.69608
   },
   {
     "idUnico": "21335.53-99",
@@ -703,7 +703,7 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": null,
-    "longitude": null
+    "latitude": -15.8921200065933,
+    "longitude": -47.7786
   }
 ]
