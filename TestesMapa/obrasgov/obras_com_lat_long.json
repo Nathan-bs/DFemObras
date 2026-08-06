@@ -1,17 +1,17 @@
 [
   {
-    "idUnico": "51946.53-11",
-    "nome": "CONSTRUÇÃO DO 2º BATALHÃO DE POLÍCIA MILITAR DO DISTRITO FEDERAL",
-    "cep": "72.130-049",
-    "endereco": "ÁREA ESPECIAL Nº 44, SETOR G NORTE, TAGUATINGA NORTE",
-    "descricao": "CONSTRUÇÃO DO 2º BATALHÃO DE POLÍCIA MILITAR DO DISTRITO FEDERAL.",
-    "funcaoSocial": "SEGURANÇA PÚBLICA",
-    "metaGlobal": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONSTRUÇÃO DA SEDE DO 2º BATALHAO DE POLÍCIA MILITAR DO DISTRITO FEDERAL.",
-    "dataInicialPrevista": "2025-03-12",
-    "dataFinalPrevista": "2025-12-31",
+    "idUnico": "19970.53-78",
+    "nome": "Reajuste do Contrato 45/2021 - Contrução do Centro de Formação e Aperfeiçoamento de Praças - CEFAP do CBMDF",
+    "cep": "70.602-600",
+    "endereco": "SAIS Área Especial 3, Setor Policial Sul",
+    "descricao": "Reajuste do Contrato 45/2021 - Construção do Centro de Formação e Aperfeiçoamento de Praças - CEFAP, situado no Setor Policial Sul lote 03, Asa Sul, Brasília-DF.",
+    "funcaoSocial": "Contribuir para a melhor formação dos bombeiros militares que prestarão serviços à sociedade do DF.",
+    "metaGlobal": "Construção de um novo centro de formação e de aperfeiçoamento de praças.",
+    "dataInicialPrevista": "2021-09-14",
+    "dataFinalPrevista": "2024-08-28",
     "dataInicialEfetiva": null,
     "dataFinalEfetiva": null,
-    "dataCadastro": "2025-03-12",
+    "dataCadastro": "2023-02-06",
     "especie": "Construção",
     "natureza": "Obra",
     "naturezaOutras": null,
@@ -23,338 +23,127 @@
     "populacaoBeneficiada": null,
     "observacoesPertinentes": null,
     "isModeladaPorBim": false,
-    "dataSituacao": "2025-03-12",
-    "tomadores": [
-      {
-        "nome": "Polícia Militar do Distrito Federal",
-        "codigo": 8942610000116
-      }
-    ],
-    "executores": [
-      {
-        "nome": "Polícia Militar do Distrito Federal",
-        "codigo": 8942610000116
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
-        "codigo": 25915
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 51767.99
-      }
-    ],
-    "latitude": -15.7963300064924,
-    "longitude": -48.05621
-  },
-  {
-    "idUnico": "228.53-10",
-    "nome": "Reforma UOP Planaltina",
-    "cep": "1",
-    "endereco": "BR 020 Km 37,7",
-    "descricao": "Contratação de empresa especializada para prestação de serviço de engenharia, para reforma do imóvel onde funciona a 2ª Delegacia da PRF/DF - Planaltina, localizada na BR-020, Km 37.",
-    "funcaoSocial": "Melhorar o ambiente de trabalho dos servidores e proporcionar mais conforto ao usuário, promovendo a segurança viária da região, bem como a fiscalização das vias e prevenção de acidentes.",
-    "metaGlobal": "Promoção da segurança viária da região, bem como a fiscalização das vias e prevenção de acidentes.",
-    "dataInicialPrevista": "2021-03-15",
-    "dataFinalPrevista": "2021-04-15",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-02-23",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Inativada",
-    "descPlanoNacionalPoliticaVinculado": "A demanda aqui formalizada se alinha com os seguintes Objetivos Estratégicos do Órgão: OE13 (Fortalecer a imagem institucional da PRF), OE17 (Potencializar o bem-estar, a motivação e desempenho dos servidores) e OE20 (Prover meios e infraestrutura adequada ao desempenho das atividades).",
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-02-23",
-    "tomadores": [
-      {
-        "nome": "SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO DISTRITO FEDERAL",
-        "codigo": 13428
-      }
-    ],
-    "executores": [
-      {
-        "nome": "SUPERINTENDÊNCIA DA POLÍCIA RODOVIÁRIA FEDERAL NO DISTRITO FEDERAL",
-        "codigo": 13428
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
-        "codigo": 316
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 93543.62
-      }
-    ],
-    "latitude": -15.5818800062694,
-    "longitude": -47.53575
-  },
-  {
-    "idUnico": "440.53-82",
-    "nome": "CONSTRUÇÃO DE NOVA SEDE DO INSTITUTO MÉDICO LEGAL",
-    "cep": "1",
-    "endereco": "SPO, CJ A LOTE 23, COMPLEXO DA PCDF.",
-    "descricao": "CONSTRUÇÃO DE SEDE DO IML/PCDF",
-    "funcaoSocial": "AUXÍLIAR NO TRABALHO TÉCNICO/INVESTIGATIVO DA PCDF.",
-    "metaGlobal": "CONSTRUÇÃO DO NOVO IML/PCDF",
-    "dataInicialPrevista": "2021-03-31",
-    "dataFinalPrevista": "2022-06-30",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2021-03-19",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "",
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": null,
-    "dataSituacao": "2021-03-19",
-    "tomadores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "executores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "ESTATAIS DO MINISTERIO DA FAZENDA",
-        "codigo": 91010
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 1
-      }
-    ],
-    "latitude": -15.809340006506,
-    "longitude": -47.92857
-  },
-  {
-    "idUnico": "20766.53-40",
-    "nome": "Instalação de Backbones optícos.",
-    "cep": "70.610-200",
-    "endereco": "Setor Policial (SPO), Área 5, Quadra 3, Bloco M",
-    "descricao": "Contratação dos serviços de instalação de backbones ópticos na Agência Nacional das Águas e Saneamento Básico. Temos diversos links de fibra óptica que interligam os edifícios do complexo. Dentre estas cone-xões tem-se uma conexão entre o datacenter e os blocos N e O, além da guarita 02, estes links não estão em perfeito funcionamento, operando em condições precárias e afetando o desem-penho da rede, após análise da equipe técnica verificou-se a necessidade de substituição destes links, principalmente pelo fato da implantação do sistema de telefonia VOIP.",
-    "funcaoSocial": "Fornecer condições de infraestrutuara para o regular funcionamento da ANA.",
-    "metaGlobal": "Interligação do datacenter, adequação de infraestrutura, instalação de backbones, desobstrução das caixas de passagem, Fornecimento e troca dos pigtails e acopladores nos DIOS existentes, realização das fusões ópticas em todos os enlaces e certificação dos enlaces ópticos.",
-    "dataInicialPrevista": "2023-04-17",
-    "dataFinalPrevista": "2023-05-17",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2023-03-27",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-03-27",
+    "dataSituacao": "2023-02-06",
     "tomadores": [],
     "executores": [
       {
-        "nome": "AGENCIA NACIONAL DE AGUAS",
-        "codigo": 44205
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL",
+        "codigo": 8977914000119
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Segurança Pública",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 1
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1177429.91
+      }
+    ],
+    "latitude": -15.83216000653,
+    "longitude": -47.93603
+  },
+  {
+    "idUnico": "91023.53-34",
+    "nome": "26.782.2087.7R82.0052",
+    "cep": "70040-902",
+    "endereco": " BR-010/ BR-020",
+    "descricao": "Adequação De Trecho Rodoviário - Divisa Df/Go - Divisa Go/Ba - Na Br-020/Go No Estado De Goiás",
+    "funcaoSocial": "Preservar vidas e promover o desenvolvimento sustentável do país priorizando a segurança, as boas condições de trafegabilidade e a otimização da logística dos transportes, elevando assim o nível de serviço das vias.",
+    "metaGlobal": "Garantir dotação orçamentária para os contratos que envolvem 24.0000 km desta rúbrica.",
+    "dataInicialPrevista": "2012-05-16",
+    "dataFinalPrevista": "2024-09-29",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2025-08-15",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Concluída",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2026-06-08",
+    "tomadores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
+      }
+    ],
+    "executores": [
+      {
+        "nome": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES",
+        "codigo": 54844
       }
     ],
     "repassadores": [],
     "eixos": [
       {
-        "id": 1,
-        "descricao": "Administrativo"
+        "id": 3,
+        "descricao": "Econômico"
       }
     ],
     "tipos": [
       {
-        "id": 5,
-        "descricao": "Administrativo",
-        "idEixo": 1
+        "id": 25,
+        "descricao": "Rodovia",
+        "idEixo": 3
       }
     ],
     "subTipos": [
       {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
+        "id": 58,
+        "descricao": "Pavimentação",
+        "idTipo": 25
       }
     ],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
-        "valorInvestimentoPrevisto": 29653
+        "valorInvestimentoPrevisto": 130440356.66
       }
     ]
   },
   {
-    "idUnico": "42573.53-40",
-    "nome": "CEF QS 03 Parque do Riacho",
+    "idUnico": "24797.53-15",
+    "nome": "Implantação de Passarelas nas Estradas Parque do DF",
     "cep": null,
     "endereco": null,
-    "descricao": "Construção de Escola em Tempo Integral, Centro de Ensino Fundamental Parque do Riacho, Riacho Fundo II/Brasília-DF- Projeto Próprio.",
-    "funcaoSocial": "A construção da nova escola beneficiará 720 estudantes, do 1º ao 9º ano do Ensino Fundamental, em turno integral, na região administrativa do Riacho Fundo II.. Atualmente, não há unidades de ensino suficientes para atender à demanda por vagas na região do empreendimento CEF Parque do Riacho, na região administrativa do Riacho Fundo II. Com isso, aproximadamente 1500 crianças em idade escolar precisam ser transportadas para outras regiões para estudar. A expansão da rede é necessária para garantir o acesso e a permanência dos estudantes, reiterando o compromisso com uma educação de qualidade. Fonte de dados: Sistema Interno da SEEDF (Argis).. Espera-se atender aos programas Escola em Tempo Integral - Lei nº 14.640/2023 e Compromisso Nacional Criança Alfabetizada – Decreto nº 11.556/2023, reduzindo a vulnerabilidade social e alcançando as metas estabelecidas no PNE e no PDE pelo Distrito Federal.",
-    "metaGlobal": "Construção de Escola em Tempo Integral, Centro de Ensino Fundamental Parque do Riacho, Riacho Fundo II/Brasília-DF- Projeto Próprio.",
-    "dataInicialPrevista": "2024-09-02",
-    "dataFinalPrevista": "2028-09-02",
+    "descricao": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
+    "funcaoSocial": "Pedestres, no geral, demanda das ocupações lindeiras à faixa de domínio das rodovia, formando um grupo heterogêneo no sistema viário, dos quais, possuem idade e sexo distintos, além de englobarem pessoas com deficiência física e, em alguns casos, ciclistas... Os acidentes de trânsito são uma das principais causas de mortes no Brasil, sendo que o atropelamento é considerado o mais grave. Porém estes acidentes em rodovias localizadas em trechos urbanos têm aumentado. A implantação das passarelas possibilitará travessia segura, sobre as rodovias, em regiões de acentuado adensamento urbano.. Redução de acidentes por atropelamento, assim como promoção de local adequado para os usuários do sistema viário.",
+    "metaGlobal": "Implantação de passarelas de estrutura mista nas rodovias Estradas Parques no DF.",
+    "dataInicialPrevista": "2023-08-30",
+    "dataFinalPrevista": "2028-08-30",
     "dataInicialEfetiva": null,
     "dataFinalEfetiva": null,
-    "dataCadastro": "2024-08-28",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": "50",
-    "descPopulacaoBeneficiada": "A população diretamente beneficiada pelo CEF QS 03 Parque do Riacho são crianças e jovens em idade escolar no Riacho Fundo II, que terão acesso a uma nova escola fundamental, propiciando aprendizado e desenvolvimento. Indiretamente, toda a comunidade se beneficia, com valorização da região, atração de novos moradores, geração de empregos e desenvolvimento local. ",
-    "populacaoBeneficiada": "640",
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-08-28",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DE EDUCACAO DO DISTRITO FEDERAL",
-        "codigo": 394676000107
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
-        "codigo": 253
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 12319519.51
-      }
-    ],
-    "latitude": -15.93347,
-    "longitude": -48.04284
-  },
-  {
-    "idUnico": "43515.53-59",
-    "nome": "Cepi Paranoá Parque - Quadra 01 Conjunto 01 AE 02",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Construção do Centro de Educação da Primeira Infância (Cepi) Paranoá Parque, bairro Paranoá/DF – FNDE – Creche Tipo 1.",
-    "funcaoSocial": "A construção da creche beneficiará aproximadamente 188 crianças com idades entre zero e cinco anos, oferecendo atendimento em período integral. O terreno escolhido para a nova creche está próximo à comunidade do Itapoã, do bairro Paranoá - Brasília- DF.. A região do Paranoá Parque enfrenta uma carência de unidades educacionais, resultando em cerca de 160 crianças sem acesso à educação e aproximadamente 1000 estudantes em idade escolar que necessitam se deslocar para outras localidades para estudar. A expansão da rede é crucial para garantir o acesso e a permanência dos estudantes na rede pública de ensino, reafirmando o compromisso de uma educação de qualidade aos estudantes do Distrito Federal. Fonte de dados: fila de espera, sistema I-educar.. Espera-se atender às metas estabelecidas tanto no Plano Nacional de Educação (PNE) quanto no Plano Distrital de Educação (PDE), garantindo a universalização da Educação Infantil para crianças de 4 a 5 anos e ampliando a oferta de creches para atender, no mínimo, 50% das crianças de até 3 anos no Distrito Federal.",
-    "metaGlobal": "Construção do Centro de Educação da Primeira Infância (Cepi) Paranoá Parque, bairro Paranoá/DF – FNDE – Creche Tipo 1.",
-    "dataInicialPrevista": "2024-09-23",
-    "dataFinalPrevista": "2028-09-23",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-09-25",
+    "dataCadastro": "2023-08-28",
     "especie": "Construção",
     "natureza": "Obra",
     "naturezaOutras": null,
@@ -362,209 +151,70 @@
     "descPlanoNacionalPoliticaVinculado": null,
     "uf": "DF",
     "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
+    "descPopulacaoBeneficiada": "Pedestres que moram nas regiões de Planaltina, Núcleo Bandeirante e Guará. ",
     "populacaoBeneficiada": null,
     "observacoesPertinentes": null,
     "isModeladaPorBim": false,
-    "dataSituacao": "2024-09-25",
+    "dataSituacao": "2023-08-28",
     "tomadores": [],
     "executores": [
       {
-        "nome": "SECRETARIA DE ESTADO DE EDUCACAO DO DISTRITO FEDERAL",
-        "codigo": 394676000107
+        "nome": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
+        "codigo": 70532000103
       }
     ],
     "repassadores": [
       {
-        "nome": "FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
-        "codigo": 253
+        "nome": "MINISTÉRIO DAS CIDADES",
+        "codigo": 308798
       }
     ],
     "eixos": [
       {
-        "id": 4,
-        "descricao": "Social"
+        "id": 3,
+        "descricao": "Econômico"
       }
     ],
     "tipos": [
       {
-        "id": 46,
-        "descricao": "Educação",
-        "idEixo": 4
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 84,
-        "descricao": "Educação",
-        "idTipo": 46
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 6066972.98
-      }
-    ],
-    "latitude": -15.77262,
-    "longitude": -47.78564
-  },
-  {
-    "idUnico": "42911.53-47",
-    "nome": "Empório Brazlândia",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Apoio à execução de obras e serviços de engenharia para o fomento aos setores agropecuários e de agroindústria.",
-    "funcaoSocial": "De maneira direta, serão beneficiados os produtores da agricultura familiar de Alexandre Gusmão com 315 produtores e área plantada de 275,06 hectares e  308 produtores nos demais Núcleos Rurais de Brazlândia com área plantada total de 480,05 hectares.. Construir um galpão para fornecer local de trabalho adequado para as atividades comerciais dos produtores da agricultura familiar da região, assim como fornecer boxes para os comerciantes que foram notificados pelo DNIT da remoção de seus pontos de comercialização da área adjacente da BR-080.. Esse espaço irá otimizar a logística operacional, melhorando a qualidade dos produtos a serem comercializados, e por consequência contribuindo para o desenvolvimento da região e aumento da qualidade de vida dos produtores daquela localidade",
-    "metaGlobal": "Apoio à execução de obras e serviços de engenharia para o fomento aos setores agropecuários e de agroindústria.",
-    "dataInicialPrevista": "2024-10-16",
-    "dataFinalPrevista": "2026-10-16",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2024-09-05",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": null,
-    "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2024-09-05",
-    "tomadores": [],
-    "executores": [
-      {
-        "nome": "SECRETARIA DE ESTADO DA AGRICULTURA, ABASTECIMENTO E DESENVOLVIMENTO RURAL DO DISTRITO FEDERAL",
-        "codigo": 3318233000125
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
-        "codigo": 14
-      }
-    ],
-    "eixos": [
-      {
-        "id": 4,
-        "descricao": "Social"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 37,
+        "id": 24,
         "descricao": "Infraestrutura Urbana e Mobilidade",
-        "idEixo": 4
+        "idEixo": 3
       }
     ],
     "subTipos": [
       {
-        "id": 75,
-        "descricao": "Urbanização",
-        "idTipo": 37
+        "id": 57,
+        "descricao": "Obra de Arte Especial",
+        "idTipo": 24
       }
     ],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
-        "valorInvestimentoPrevisto": 1500000
+        "valorInvestimentoPrevisto": 10800000
       }
     ],
-    "latitude": -15.72953,
-    "longitude": -48.19353
+    "latitude": -15.81669,
+    "longitude": -47.94969
   },
   {
-    "idUnico": "20084.53-55",
-    "nome": "REFORMA DA 9ª DELEGACIA DE POLÍCIA DA POLÍCIA CIVIL DO DISTRITO FEDERAL",
-    "cep": "71.503-507",
-    "endereco": "SHIN QI 5, LOTE A – LAGO NORTE, BRASÍLIA/DF.",
-    "descricao": "A Polícia Civil do Distrito Federal - PCDF, instituição essencial à função jurisdicional, tem como missão institucional promover, integrada às instituições congêneres, a segurança pública, visando à preservação da ordem pública e à incolumidade das pessoas, por meio da apuração de delitos, da elaboração de procedimentos formais destinados à ação penal e da adoção de ações técnico-policiais, com a preservação dos direitos e garantias individuais.\n\nPara realização direta ou indireta desses objetivos, a PCDF desempenha atividades operacionais e administrativas, valendo-se do suporte físico de edificações, as quais apresentam, portanto, um valor social fundamental.\n\nA sede da 9ª Delegacia de Polícia Civil, localizada no Lago Norte, foi erguida no ano de 1983, não tendo sofrido intervenções significativas ao longo do tempo. Sua estrutura não mais atende às necessidades atuais da corporação, já que a concepção da edificação está em desacordo com as novas funcionalidades e com a dinâmica de trabalho atuais da Polícia Civil. Além do mais, as instalações físicas encontram-se desgastadas e obsoletas em razão da idade da edificação.\n\nDiante desse cenário, e considerando que a construção de uma nova sede teria um custo elevado, optou-se por realizar uma reforma completa da unidade, contemplando ampliação de área. Com essa solução será possível adequar a unidade às necessidades atuais da corporação com o despendimento menos recursos, já que a estrutura da edificação encontra-se em bom estado de conservação.",
-    "funcaoSocial": "A Polícia Civil do Distrito Federal - PCDF, instituição essencial à função jurisdicional, tem como missão institucional promover, integrada às instituições congêneres, a segurança pública, visando à preservação da ordem pública e à incolumidade das pessoas, por meio da apuração de delitos, da elaboração de procedimentos formais destinados à ação penal e da adoção de ações técnico-policiais, com a preservação dos direitos e garantias individuais.",
-    "metaGlobal": "A sede da 9ª Delegacia de Polícia Civil, localizada no Lago Norte, foi erguida no ano de 1983, não tendo sofrido intervenções significativas ao longo do tempo. Sua estrutura não mais atende às necessidades atuais da corporação, já que a concepção da edificação está em desacordo com as novas funcionalidades e com a dinâmica de trabalho atuais da Polícia Civil. Além do mais, as instalações físicas encontram-se desgastadas e obsoletas em razão da idade da edificação.",
-    "dataInicialPrevista": "2023-02-10",
-    "dataFinalPrevista": "2023-12-31",
+    "idUnico": "4541.53-44",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-901",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
     "dataInicialEfetiva": null,
     "dataFinalEfetiva": null,
-    "dataCadastro": "2023-02-10",
-    "especie": "Reforma",
-    "natureza": "Obra",
-    "naturezaOutras": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Recuperação",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
     "situacao": "Cadastrada",
-    "descPlanoNacionalPoliticaVinculado": null,
-    "uf": "DF",
-    "qdtEmpregosGerados": null,
-    "descPopulacaoBeneficiada": null,
-    "populacaoBeneficiada": null,
-    "observacoesPertinentes": null,
-    "isModeladaPorBim": false,
-    "dataSituacao": "2023-02-10",
-    "tomadores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "executores": [
-      {
-        "nome": "POLICIA CIVIL DO DISTRITO FEDERAL",
-        "codigo": 37115482000135
-      }
-    ],
-    "repassadores": [
-      {
-        "nome": "FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL",
-        "codigo": 25915
-      }
-    ],
-    "eixos": [
-      {
-        "id": 1,
-        "descricao": "Administrativo"
-      }
-    ],
-    "tipos": [
-      {
-        "id": 1,
-        "descricao": "Segurança Pública",
-        "idEixo": 1
-      }
-    ],
-    "subTipos": [
-      {
-        "id": 59,
-        "descricao": "Obras em Imóveis de Uso Público",
-        "idTipo": 1
-      }
-    ],
-    "fontesDeRecurso": [
-      {
-        "origem": "Federal",
-        "valorInvestimentoPrevisto": 4682173.01
-      }
-    ],
-    "latitude": -15.7319100064249,
-    "longitude": -47.86494
-  },
-  {
-    "idUnico": "51464.53-72",
-    "nome": "Implantação de infraestrutura de apoio às atividades produtivas - Sede em 2025",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Fortalecer as atividades produtivas por meio de investimentos que promovam eficazmente a dinamização das economias locais.",
-    "funcaoSocial": "Implantar infraestruturas de apoio às atividades produtivas para promoção do desenvolvimento regional.",
-    "metaGlobal": "Implantação de negócios com foco no aumento da produção, produtividade, melhoria da qualidade e comercialização dos produtos, fortalecendo a capacidade produtiva e a maior integração e crescimento do nível de organização dos produtores familiares, das associações, cooperativas e demais organizações e a dinamização das economias locais com a geração de empregos e aumento da renda do trabalhador.",
-    "dataInicialPrevista": "2025-01-01",
-    "dataFinalPrevista": "2025-12-31",
-    "dataInicialEfetiva": null,
-    "dataFinalEfetiva": null,
-    "dataCadastro": "2025-02-04",
-    "especie": "Construção",
-    "natureza": "Obra",
-    "naturezaOutras": "70000000",
-    "situacao": "Inativada",
     "descPlanoNacionalPoliticaVinculado": null,
     "uf": "DF",
     "qdtEmpregosGerados": null,
@@ -572,15 +222,25 @@
     "populacaoBeneficiada": null,
     "observacoesPertinentes": null,
     "isModeladaPorBim": null,
-    "dataSituacao": "2025-02-04",
-    "tomadores": [],
-    "executores": [
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
       {
-        "nome": "COMPANHIA DE DESENVOLVIMENTO DOS VALES DO SÃO FRANCISCO E DO PARNAÍBA",
-        "codigo": 169
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
       }
     ],
-    "repassadores": [],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
     "eixos": [
       {
         "id": 4,
@@ -589,52 +249,124 @@
     ],
     "tipos": [
       {
-        "id": 40,
-        "descricao": "Agricultura e Organização Agrária",
+        "id": 45,
+        "descricao": "Desenvolvimento",
         "idEixo": 4
       }
     ],
     "subTipos": [
       {
-        "id": 15,
-        "descricao": "Aquisição de Máquinas e Equipamentos",
-        "idTipo": 40
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
       }
     ],
     "fontesDeRecurso": [
       {
         "origem": "Federal",
-        "valorInvestimentoPrevisto": 0.01
+        "valorInvestimentoPrevisto": 300000002
       }
     ],
-    "latitude": -15.78369,
-    "longitude": -47.880612
+    "latitude": -15.834476668284681,
+    "longitude": -47.839404296873
   },
   {
-    "idUnico": "91392.53-43",
-    "nome": "Centro de Educação para Primeira Infância (CEPI) - QNM 38 - Taguatinga-DF.",
-    "cep": null,
-    "endereco": null,
-    "descricao": "Construção da Creche Centro de Educação para Primeira Infância (CEPI) -  Brasília - DF – FNDE – Creche Tipo 2",
-    "funcaoSocial": "A construção da nova creche irá beneficiar 94 crianças, de 0 a 3 anos, em turno integral. O terreno escolhido para creche está em Taguatinga, Região Administrava do Distrito Federal.. A região de Taguatinga enfrenta uma carência de unidades educacionais, resultando em cerca de 255 crianças sem acesso à educação. Essas construções fazem parte do plano de ação oriundo de mediação junto aos órgãos de controle (TJDFT, MPDFT e DPDF).. Atendimento a meta estabelecida no Plano Nacional de Educação – PNE: ampliar a oferta em creches para atender, no mínimo, 50% (cinquenta por cento) das crianças de até 3 (três) anos, pelo Distrito Federal.",
-    "metaGlobal": "Construção da Creche Centro de Educação para Primeira Infância (CEPI) -  Brasília - DF – FNDE – Creche Tipo 2",
-    "dataInicialPrevista": "2025-12-26",
-    "dataFinalPrevista": "2029-12-26",
+    "idUnico": "4545.53-03",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-901",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
     "dataInicialEfetiva": null,
     "dataFinalEfetiva": null,
-    "dataCadastro": "2025-08-19",
-    "especie": "Construção",
+    "dataCadastro": "2021-11-17",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 30000006
+      }
+    ],
+    "latitude": -15.874476668284686,
+    "longitude": -47.879404296877
+  },
+  {
+    "idUnico": "16449.53-65",
+    "nome": "REFORMA CENTRO EDUCACIONAL OSÓRIO BACHIN",
+    "cep": null,
+    "endereco": null,
+    "descricao": "020-Reformar escola ou creche",
+    "funcaoSocial": "Alunos. - redução das desigualdades educacionais regionais;\n- demandas por infraestrutura e manutenção, por meio da aquisição de serviços, equipamentos, mobiliários e outros. - modernização do Estado e da gestão pública federal;\n- transparência da ação estatal;\n- melhoria da estrutura física e administrativa das unidades básicas de ensino;\n- ampliação da qualidade física dos ambientes voltados à educação básica",
+    "metaGlobal": "020-Reformar escola ou creche",
+    "dataInicialPrevista": "2022-12-23",
+    "dataFinalPrevista": "2025-12-23",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2022-12-28",
+    "especie": "Reforma",
     "natureza": "Obra",
     "naturezaOutras": null,
     "situacao": "Cadastrada",
     "descPlanoNacionalPoliticaVinculado": null,
     "uf": "DF",
     "qdtEmpregosGerados": "50",
-    "descPopulacaoBeneficiada": "A população diretamente beneficiada pelo Setor M Norte- QNM 38 AE 01 - Taguatinga-DF\r\n são crianças em idade escolar, que terão acesso a uma nova creche, propiciando aprendizado e desenvolvimento. Indiretamente, toda a comunidade se beneficia, com valorização da região, atração de novos moradores, geração de empregos e desenvolvimento local.\r\n",
-    "populacaoBeneficiada": "255",
+    "descPopulacaoBeneficiada": "A escola atende 280 alunos divididos em 2 turnos. ",
+    "populacaoBeneficiada": "280",
     "observacoesPertinentes": null,
     "isModeladaPorBim": false,
-    "dataSituacao": "2025-08-19",
+    "dataSituacao": "2022-12-28",
     "tomadores": [],
     "executores": [
       {
@@ -671,10 +403,298 @@
     "fontesDeRecurso": [
       {
         "origem": "Federal",
-        "valorInvestimentoPrevisto": 3590743.62
+        "valorInvestimentoPrevisto": 7710263.3
       }
     ],
-    "latitude": -15.79983,
-    "longitude": -48.1038
+    "latitude": -15.78907,
+    "longitude": -47.87927
+  },
+  {
+    "idUnico": "4546.53-60",
+    "nome": "202111-22-Ronald 1",
+    "cep": "70067-902",
+    "endereco": "2021122-Ronald - Endereço Completo",
+    "descricao": "2021122-Ronald - Descrição do Projeto",
+    "funcaoSocial": "2021122-Ronald - Descrição Funç]ap Social",
+    "metaGlobal": "20211122-Ronald - Descrição Meta Global",
+    "dataInicialPrevista": "2021-12-10",
+    "dataFinalPrevista": "2021-12-10",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-11-17",
+    "especie": "Reforma",
+    "natureza": "Projeto de Investimento em Infraestrutura",
+    "naturezaOutras": "outros",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-11-17",
+    "tomadores": [
+      {
+        "nome": "FUND.UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+        "codigo": 26230
+      }
+    ],
+    "executores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL",
+        "codigo": 308799
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 45,
+        "descricao": "Desenvolvimento",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 38,
+        "descricao": "Saneamento",
+        "idTipo": 45
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 30000007
+      }
+    ],
+    "latitude": -15.884476668284686,
+    "longitude": -47.889404296878
+  },
+  {
+    "idUnico": "21327.53-34",
+    "nome": "Reforma Agroecologia",
+    "cep": "73.380-900",
+    "endereco": "Rodovia DF – 128, km 21, Zona Rural de Planaltina",
+    "descricao": "Reforma do prédio de salas de aulas e laboratórios do curso de agroecologia do Campus Planaltina, incluindo um reforço na fundação, reforma do telhado, reforma e adequação dos banheiros, adequação dos acessos a edificação, entre outros.",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Planaltina principalmente no curso de agroecologia",
+    "metaGlobal": "aumentar o alcance do conhecimento com  aulas teóricas  e práticas nas instituições de ensino",
+    "dataInicialPrevista": "2023-09-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 3300000
+      }
+    ],
+    "latitude": -15.6578800063479,
+    "longitude": -47.69608
+  },
+  {
+    "idUnico": "21335.53-99",
+    "nome": "Reforma do Centro de Múltiplas Funções do Campus São Sebastião",
+    "cep": "71.697-040",
+    "endereco": "Área Especial 2, S/N, Bairro São Bartolomeu - São Sebastião/DF",
+    "descricao": "Reforma do prédio de múltiplas funções do campus São Sebastião que compreende uma área de 523 m². A reforma compreenderá o telhado, a troca de uma viga que foi quebrada com a queda de uma área e ajustes no piso, instalações elétricas e hidráulicas. ",
+    "funcaoSocial": "melhorar a qualidade do ensino na unidade através de laboratórios e salas ludos",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-12-01",
+    "dataFinalPrevista": "2024-07-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público\n",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1000000
+      }
+    ],
+    "latitude": -15.8921200065933,
+    "longitude": -47.7786
+  },
+  {
+    "idUnico": "21333.53-86",
+    "nome": "Conclusão dos mezaninos dos campi CSAM, CSSB e CTAG do IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 BLOCO E",
+    "descricao": "Conclusão dos mezaninos do Campus Samambaia com 427,91m², do campus São Sebastião com 539,00 m² e do Campus Taguatinga com 444,66m². Trata-se dos serviços de execução de escada, finalização dos banheiros, piso, paredes e esquadrias, além de forro, guarda-corpo e acessórios. ",
+    "funcaoSocial": "atender a comunidade acadêmica dos Campi contemplados principalmente nas áreas de laboratórios de práticas de ensino",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2023-08-01",
+    "dataFinalPrevista": "2024-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2023-04-14",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": null,
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": false,
+    "dataSituacao": "2023-04-14",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.8008200064971,
+    "longitude": -47.87786
   }
 ]
